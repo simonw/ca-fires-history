@@ -2,7 +2,7 @@ name: Scrape latest data
 
 on:
   push:
-  repository_dispatch:
+  workflow_dispatch:
   schedule:
     - cron:  '6,16,26,36,46,56 * * * *'
 
