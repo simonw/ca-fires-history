@@ -194,7 +194,7 @@
       "FuelType": null,
       "PercentContained": 99,
       "ControlStatement": null,
-      "ConditionStatement": "<p><b>CURRENT SITUATION 10/12/20 AM</b></p>\n<p>Firefighters continue to strengthen and increase containment lines. Be aware of hazard, fire damaged trees in effected areas of the fire. Use caution when driving in the fire area as emergency personnel and apparatus continue working.</p>\n\n<p><b> Evacuation Orders and Warnings: </b> None</p>\n\n<p><b>Evacuation Centers:</b>None</p>\n\n<p><b>Road Closures:</b>None</p>",
+      "ConditionStatement": "<p><b>CURRENT SITUATION 10/12/20 PM</b></p>\n<p>Be aware of hazard, fire damaged trees in effected areas of the fire. Use caution when driving in the fire area as emergency personnel and apparatus continue working.</p>\n\n<p><b> Evacuation Orders and Warnings: </b> None</p>\n\n<p><b>Evacuation Centers:</b>None</p>\n\n<p><b>Road Closures:</b>None</p>",
       "Counties": [
         "Shasta"
       ],
@@ -202,8 +202,8 @@
       "SearchDescription": "Zogg Fires started on September 27, 2020 off of Zogg Mine Road and Jenny Bird Lane, North of Igo in Shasta County.",
       "SearchKeywords": null,
       "AdminUnit": "CALFIRE Shasta-Trinity Unit",
-      "Updated": "2020-10-12T06:55:32.78Z",
-      "Started": "2020-09-27T16:03:27Z",
+      "Updated": "2020-10-12T18:14:59.5040354-07:00",
+      "Started": "2020-09-27T16:03:27",
       "Extinguished": null,
       "ArchiveYear": 2020,
       "Public": true,
@@ -1667,7 +1667,7 @@
       "FuelType": null,
       "PercentContained": 99,
       "ControlStatement": null,
-      "ConditionStatement": "<p><b>CURRENT SITUATION 10/12/20 AM</b></p>\n<p>Firefighters continue to strengthen and increase containment lines. Be aware of hazard, fire damaged trees in effected areas of the fire. Use caution when driving in the fire area as emergency personnel and apparatus continue working.</p>\n\n<p><b> Evacuation Orders and Warnings: </b> None</p>\n\n<p><b>Evacuation Centers:</b>None</p>\n\n<p><b>Road Closures:</b>None</p>",
+      "ConditionStatement": "<p><b>CURRENT SITUATION 10/12/20 PM</b></p>\n<p>Be aware of hazard, fire damaged trees in effected areas of the fire. Use caution when driving in the fire area as emergency personnel and apparatus continue working.</p>\n\n<p><b> Evacuation Orders and Warnings: </b> None</p>\n\n<p><b>Evacuation Centers:</b>None</p>\n\n<p><b>Road Closures:</b>None</p>",
       "Counties": [
         "Shasta"
       ],
@@ -1675,8 +1675,8 @@
       "SearchDescription": "Zogg Fires started on September 27, 2020 off of Zogg Mine Road and Jenny Bird Lane, North of Igo in Shasta County.",
       "SearchKeywords": null,
       "AdminUnit": "CALFIRE Shasta-Trinity Unit",
-      "Updated": "2020-10-12T06:55:32.78Z",
-      "Started": "2020-09-27T16:03:27Z",
+      "Updated": "2020-10-12T18:14:59.5040354-07:00",
+      "Started": "2020-09-27T16:03:27",
       "Extinguished": null,
       "ArchiveYear": 2020,
       "Public": true,
@@ -5759,7 +5759,7 @@
       "AcresBurnedDisplay": "56,338",
       "PercentContainedDisplay": "99%",
       "CountiesList": "Shasta",
-      "UpdatedDate": "2020-10-12 06:55:32",
+      "UpdatedDate": "2020-10-12 18:14:59",
       "StartedDate": "2020-09-27",
       "AdminUnit": "CALFIRE Shasta-Trinity Unit",
       "IncidentTypeDisplay": "Wildfire",
