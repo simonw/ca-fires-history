@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": "Approximately 60,000 people are evacuating the Irvine area. Check your evacuation location <a href=\"https://cityofirvine.org/news-media/news-article/vegetation-fire-silverado-fire-update\"> here.</a>\n\n<p>Irvine evacuation map available  <a href=\"https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=c452152c1a5a46129dde513d8652e81e\"> here.</a></p>\n\n<p>Evacuation Warnings have been issued in the Baker Ranch and Foothill Ranch areas.  \nMore information is available at <a href=\"https://lakeforestca.gov/1041/Silverado-Fire---Live-Updates\"> https://lakeforestca.gov/1041/Silverado-Fire---Live-Updates</a>",
+      "ConditionStatement": "<p>Irvine evacuation map available  <a href=\"https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=c452152c1a5a46129dde513d8652e81e\"> here.</a></p>\n\n<p>Evacuation Warnings have been issued in the Baker Ranch and Foothill Ranch areas.  \nMore information is available at <a href=\"https://lakeforestca.gov/1041/Silverado-Fire---Live-Updates\"> https://lakeforestca.gov/1041/Silverado-Fire---Live-Updates</a>\n\n<p>Orange County Evacuation Information (including evacuation map) available <a href=\"https://ocsheriff.gov/commands-divisions/field-operations-investigations-command/emergency-management/resources-during\"> here </a></p>",
       "Counties": [
         "Orange"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": "Silverado Fire started on October 26, 2020 off of Santiago Canyon Road and Silverado Canyon Road, Southwest of Silverado  in Orange County.",
       "SearchKeywords": null,
       "AdminUnit": "Orange County Fire Authority",
-      "Updated": "2020-10-26T14:39:23.5910451-07:00",
+      "Updated": "2020-10-26T15:31:56.025835-07:00",
       "Started": "2020-10-26T07:54:50",
       "Extinguished": null,
       "ArchiveYear": 2020,
@@ -99,7 +99,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "Orange County Evacuation Information (including evacuation map) available <a href=\"https://ocsheriff.gov/commands-divisions/field-operations-investigations-command/emergency-management/resources-during\"> here </a>",
       "Counties": [
         "Orange"
       ],
@@ -107,8 +107,8 @@
       "SearchDescription": "The Blue Ridge Fire off Blue Ridge Dr and Big Horn Mountain Way in Orange county.",
       "SearchKeywords": null,
       "AdminUnit": "Orange County Fire Authority",
-      "Updated": "2020-10-26T14:32:41.504422-07:00",
-      "Started": "2020-10-26T14:32:41.504422-07:00",
+      "Updated": "2020-10-26T15:29:28.55199-07:00",
+      "Started": "2020-10-26T14:32:41",
       "Extinguished": null,
       "ArchiveYear": 2020,
       "Public": true,
@@ -187,7 +187,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "Forward Spread Stopped.",
       "Counties": [
         "Placer"
       ],
@@ -195,7 +195,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit ",
-      "Updated": "2020-10-26T15:06:49.6257179-07:00",
+      "Updated": "2020-10-26T15:39:13.0781111-07:00",
       "Started": "2020-10-26T14:40:21",
       "Extinguished": null,
       "ArchiveYear": 2020,
@@ -1973,7 +1973,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": "Approximately 60,000 people are evacuating the Irvine area. Check your evacuation location <a href=\"https://cityofirvine.org/news-media/news-article/vegetation-fire-silverado-fire-update\"> here.</a>\n\n<p>Irvine evacuation map available  <a href=\"https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=c452152c1a5a46129dde513d8652e81e\"> here.</a></p>\n\n<p>Evacuation Warnings have been issued in the Baker Ranch and Foothill Ranch areas.  \nMore information is available at <a href=\"https://lakeforestca.gov/1041/Silverado-Fire---Live-Updates\"> https://lakeforestca.gov/1041/Silverado-Fire---Live-Updates</a>",
+      "ConditionStatement": "<p>Irvine evacuation map available  <a href=\"https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=c452152c1a5a46129dde513d8652e81e\"> here.</a></p>\n\n<p>Evacuation Warnings have been issued in the Baker Ranch and Foothill Ranch areas.  \nMore information is available at <a href=\"https://lakeforestca.gov/1041/Silverado-Fire---Live-Updates\"> https://lakeforestca.gov/1041/Silverado-Fire---Live-Updates</a>\n\n<p>Orange County Evacuation Information (including evacuation map) available <a href=\"https://ocsheriff.gov/commands-divisions/field-operations-investigations-command/emergency-management/resources-during\"> here </a></p>",
       "Counties": [
         "Orange"
       ],
@@ -1981,7 +1981,7 @@
       "SearchDescription": "Silverado Fire started on October 26, 2020 off of Santiago Canyon Road and Silverado Canyon Road, Southwest of Silverado  in Orange County.",
       "SearchKeywords": null,
       "AdminUnit": "Orange County Fire Authority",
-      "Updated": "2020-10-26T14:39:23.5910451-07:00",
+      "Updated": "2020-10-26T15:31:56.025835-07:00",
       "Started": "2020-10-26T07:54:50",
       "Extinguished": null,
       "ArchiveYear": 2020,
@@ -2061,7 +2061,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "Orange County Evacuation Information (including evacuation map) available <a href=\"https://ocsheriff.gov/commands-divisions/field-operations-investigations-command/emergency-management/resources-during\"> here </a>",
       "Counties": [
         "Orange"
       ],
@@ -2069,8 +2069,8 @@
       "SearchDescription": "The Blue Ridge Fire off Blue Ridge Dr and Big Horn Mountain Way in Orange county.",
       "SearchKeywords": null,
       "AdminUnit": "Orange County Fire Authority",
-      "Updated": "2020-10-26T14:32:41.504422-07:00",
-      "Started": "2020-10-26T14:32:41.504422-07:00",
+      "Updated": "2020-10-26T15:29:28.55199-07:00",
+      "Started": "2020-10-26T14:32:41",
       "Extinguished": null,
       "ArchiveYear": 2020,
       "Public": true,
@@ -2105,7 +2105,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "Forward Spread Stopped.",
       "Counties": [
         "Placer"
       ],
@@ -2113,7 +2113,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit ",
-      "Updated": "2020-10-26T15:06:49.6257179-07:00",
+      "Updated": "2020-10-26T15:39:13.0781111-07:00",
       "Started": "2020-10-26T14:40:21",
       "Extinguished": null,
       "ArchiveYear": 2020,
@@ -6503,7 +6503,7 @@
       "AcresBurnedDisplay": "4,000",
       "PercentContainedDisplay": "0%",
       "CountiesList": "Orange",
-      "UpdatedDate": "2020-10-26 14:39:23",
+      "UpdatedDate": "2020-10-26 15:31:56",
       "StartedDate": "2020-10-26",
       "AdminUnit": "Orange County Fire Authority",
       "IncidentTypeDisplay": "Wildfire",
@@ -6537,7 +6537,7 @@
       "AcresBurnedDisplay": "200",
       "PercentContainedDisplay": "0%",
       "CountiesList": "Orange",
-      "UpdatedDate": "2020-10-26 14:32:41",
+      "UpdatedDate": "2020-10-26 15:29:28",
       "StartedDate": "2020-10-26",
       "AdminUnit": "Orange County Fire Authority",
       "IncidentTypeDisplay": "Wildfire",
@@ -6554,7 +6554,7 @@
       "AcresBurnedDisplay": "100",
       "PercentContainedDisplay": "0%",
       "CountiesList": "Placer",
-      "UpdatedDate": "2020-10-26 15:06:49",
+      "UpdatedDate": "2020-10-26 15:39:13",
       "StartedDate": "2020-10-26",
       "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit ",
       "IncidentTypeDisplay": "Wildfire",
