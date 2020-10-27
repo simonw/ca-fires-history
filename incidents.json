@@ -935,8 +935,8 @@
     }
   ],
   "MatchedIncidentCount": 0,
-  "AllAcres": 1360918,
-  "AllIncidentCount": 257,
+  "AllAcres": 1361051,
+  "AllIncidentCount": 258,
   "AllFatalities": 8,
   "AllStructures": 5277,
   "ListIncidents": [
@@ -6174,6 +6174,23 @@
       "AdminUnit": "CAL FIRE/ Sonoma Lake Napa Unit",
       "IncidentTypeDisplay": "Wildfire",
       "Url": "https://www.fire.ca.gov/incidents/2020/10/23/pope-fire/",
+      "IsActive": "N"
+    },
+    {
+      "IncidentId": 2652,
+      "UniqueId": "18a15a5f-ddde-48e9-92bc-1d40813a7794",
+      "Name": "Dersch Fire",
+      "Location": "Dersch Rd and Franciscan Way, east of Anderson",
+      "Latitude": 40.47646,
+      "Longitude": -122.18102,
+      "AcresBurnedDisplay": "133",
+      "PercentContainedDisplay": "100%",
+      "CountiesList": "Shasta",
+      "UpdatedDate": "2020-10-27 08:38:13",
+      "StartedDate": "2020-10-25",
+      "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2020/10/25/dersch-fire/",
       "IsActive": "N"
     },
     {
