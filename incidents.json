@@ -54,7 +54,7 @@
       "FuelType": null,
       "PercentContained": 25,
       "ControlStatement": null,
-      "ConditionStatement": "<p>SILVERADO FIRE INCIDENT UPDATE 10/28 AM </p>\n\n<p>Fire behavior was moderate last night with minimal activity as the red flag conditions\nended and weather conditions turned favorable. Today, fire crews will reinforce\nexisting controlled lines. With favorable weather, fire crews will find opportunities to\nestablish more control lines. Fire crews will continue to protect any threatened\nproperty. Please be aware of fire personnel and vehicles in the area as they continue\nfirefighting operations.</p>\n\n<p><b>Evacuation Orders:</b></p>\n<p>Orange County</p>\n<p>Please visit the online evacuation map for evacuation orders: <a href=\"http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75>http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75</a></p>\n\n<p><b>Evacuation Warnings:</b></p>\n<p>Orange County</p>\n<p>Please visit the online evacuation map for evacuation wanrings: <a href =\"http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75\">http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75</a></p>\n\n<p><b>Road Closures:</b></p>\n<p>SB 241 at HWY 91</p>\n<p>NB 261 at Irvine Blvd.</p>\n<p>NB 133 at I-5</p>\n<p>Santiago County at Hwy 241</p>\n\n<p><b>Temporary Evacuation Points:</b></p>\n<p>Santiago Canyon College 8045 E. Chapman Ave, Orange 8:00 am to 9:00 pm</p>\n<p>Woodbridge High School 2 Meadowbrook, Irvine Overnight if needed</p>\n<p>Norman P. Murray Community Center 24932 Veterans Way, Mission Viejo 8:00 am to 9:00 pm</p>\n<p>El Toro High School 25255 Toledo Way, Lake Forest 24 Hours</p>\n\n<p><b>Animal Evacuation Points:</b></p>\n<p>OC Fair and Events Center: 905 Arlington Drive, Costa Mesa.\nPlease call 714-708-1500 for more information.</p>",
+      "ConditionStatement": "<p><b>SILVERADO FIRE INCIDENT UPDATE 10/28 AM </b></p>\n\n<p>Fire behavior was moderate last night with minimal activity as the red flag conditions\nended and weather conditions turned favorable. Today, fire crews will reinforce\nexisting controlled lines. With favorable weather, fire crews will find opportunities to\nestablish more control lines. Fire crews will continue to protect any threatened\nproperty. Please be aware of fire personnel and vehicles in the area as they continue\nfirefighting operations.</p>\n\n<p><b>Evacuation Orders:</b></p>\n<p><b>Orange County</b></p>\n<p>Please visit the online evacuation map for evacuation orders: <a href=\"http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75\">http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75</a></p>\n\n<p><b>Evacuation Warnings:</b></p>\n<p><b>Orange County</b></p>\n<p>Please visit the online evacuation map for evacuation wanrings: <a href =\"http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75\">http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75</a></p>\n\n<p><b>Road Closures:</b></p>\n<p><li>SB 241 at HWY 91\n<p><li>NB 261 at Irvine Blvd.\n<p><li>NB 133 at I-5\n<p><li>Santiago County at Hwy 241</li></p>\n\n<p><b>Temporary Evacuation Points:</b></p>\n<p>Santiago Canyon College 8045 E. Chapman Ave, Orange 8:00 am to 9:00 pm</p>\n<p>Woodbridge High School 2 Meadowbrook, Irvine Overnight if needed</p>\n<p>Norman P. Murray Community Center 24932 Veterans Way, Mission Viejo 8:00 am to 9:00 pm</p>\n<p>El Toro High School 25255 Toledo Way, Lake Forest 24 Hours</p>\n\n<p><b>Animal Evacuation Points:</b></p>\n<p>OC Fair and Events Center: 905 Arlington Drive, Costa Mesa.\nPlease call 714-708-1500 for more information.</p>",
       "Counties": [
         "Orange"
       ],
@@ -62,8 +62,8 @@
       "SearchDescription": "Silverado Fire started on October 26, 2020 off of Santiago Canyon Road and Silverado Canyon Road, Southwest of Silverado  in Orange County.",
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: Orange County Fire Authority, Orange County Sheriff ",
-      "Updated": "2020-10-28T07:55:53.16Z",
-      "Started": "2020-10-26T07:54:50Z",
+      "Updated": "2020-10-28T09:56:54.2392757-07:00",
+      "Started": "2020-10-26T07:54:50",
       "Extinguished": null,
       "ArchiveYear": 2020,
       "Public": true,
@@ -1751,7 +1751,7 @@
       "FuelType": null,
       "PercentContained": 25,
       "ControlStatement": null,
-      "ConditionStatement": "<p>SILVERADO FIRE INCIDENT UPDATE 10/28 AM </p>\n\n<p>Fire behavior was moderate last night with minimal activity as the red flag conditions\nended and weather conditions turned favorable. Today, fire crews will reinforce\nexisting controlled lines. With favorable weather, fire crews will find opportunities to\nestablish more control lines. Fire crews will continue to protect any threatened\nproperty. Please be aware of fire personnel and vehicles in the area as they continue\nfirefighting operations.</p>\n\n<p><b>Evacuation Orders:</b></p>\n<p>Orange County</p>\n<p>Please visit the online evacuation map for evacuation orders: <a href=\"http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75>http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75</a></p>\n\n<p><b>Evacuation Warnings:</b></p>\n<p>Orange County</p>\n<p>Please visit the online evacuation map for evacuation wanrings: <a href =\"http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75\">http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75</a></p>\n\n<p><b>Road Closures:</b></p>\n<p>SB 241 at HWY 91</p>\n<p>NB 261 at Irvine Blvd.</p>\n<p>NB 133 at I-5</p>\n<p>Santiago County at Hwy 241</p>\n\n<p><b>Temporary Evacuation Points:</b></p>\n<p>Santiago Canyon College 8045 E. Chapman Ave, Orange 8:00 am to 9:00 pm</p>\n<p>Woodbridge High School 2 Meadowbrook, Irvine Overnight if needed</p>\n<p>Norman P. Murray Community Center 24932 Veterans Way, Mission Viejo 8:00 am to 9:00 pm</p>\n<p>El Toro High School 25255 Toledo Way, Lake Forest 24 Hours</p>\n\n<p><b>Animal Evacuation Points:</b></p>\n<p>OC Fair and Events Center: 905 Arlington Drive, Costa Mesa.\nPlease call 714-708-1500 for more information.</p>",
+      "ConditionStatement": "<p><b>SILVERADO FIRE INCIDENT UPDATE 10/28 AM </b></p>\n\n<p>Fire behavior was moderate last night with minimal activity as the red flag conditions\nended and weather conditions turned favorable. Today, fire crews will reinforce\nexisting controlled lines. With favorable weather, fire crews will find opportunities to\nestablish more control lines. Fire crews will continue to protect any threatened\nproperty. Please be aware of fire personnel and vehicles in the area as they continue\nfirefighting operations.</p>\n\n<p><b>Evacuation Orders:</b></p>\n<p><b>Orange County</b></p>\n<p>Please visit the online evacuation map for evacuation orders: <a href=\"http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75\">http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75</a></p>\n\n<p><b>Evacuation Warnings:</b></p>\n<p><b>Orange County</b></p>\n<p>Please visit the online evacuation map for evacuation wanrings: <a href =\"http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75\">http://www.arcgis.com/apps/SimpleViewer/index.html?appid=d336e00909d04a669aafc10d756aea75</a></p>\n\n<p><b>Road Closures:</b></p>\n<p><li>SB 241 at HWY 91\n<p><li>NB 261 at Irvine Blvd.\n<p><li>NB 133 at I-5\n<p><li>Santiago County at Hwy 241</li></p>\n\n<p><b>Temporary Evacuation Points:</b></p>\n<p>Santiago Canyon College 8045 E. Chapman Ave, Orange 8:00 am to 9:00 pm</p>\n<p>Woodbridge High School 2 Meadowbrook, Irvine Overnight if needed</p>\n<p>Norman P. Murray Community Center 24932 Veterans Way, Mission Viejo 8:00 am to 9:00 pm</p>\n<p>El Toro High School 25255 Toledo Way, Lake Forest 24 Hours</p>\n\n<p><b>Animal Evacuation Points:</b></p>\n<p>OC Fair and Events Center: 905 Arlington Drive, Costa Mesa.\nPlease call 714-708-1500 for more information.</p>",
       "Counties": [
         "Orange"
       ],
@@ -1759,8 +1759,8 @@
       "SearchDescription": "Silverado Fire started on October 26, 2020 off of Santiago Canyon Road and Silverado Canyon Road, Southwest of Silverado  in Orange County.",
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: Orange County Fire Authority, Orange County Sheriff ",
-      "Updated": "2020-10-28T07:55:53.16Z",
-      "Started": "2020-10-26T07:54:50Z",
+      "Updated": "2020-10-28T09:56:54.2392757-07:00",
+      "Started": "2020-10-26T07:54:50",
       "Extinguished": null,
       "ArchiveYear": 2020,
       "Public": true,
@@ -6237,7 +6237,7 @@
       "AcresBurnedDisplay": "13,354",
       "PercentContainedDisplay": "25%",
       "CountiesList": "Orange",
-      "UpdatedDate": "2020-10-28 07:55:53",
+      "UpdatedDate": "2020-10-28 09:56:54",
       "StartedDate": "2020-10-26",
       "AdminUnit": "Unified Command: Orange County Fire Authority, Orange County Sheriff ",
       "IncidentTypeDisplay": "Wildfire",
