@@ -714,7 +714,7 @@
   "AllAcres": 1455758,
   "AllIncidentCount": 263,
   "AllFatalities": 8,
-  "AllStructures": 5302,
+  "AllStructures": 5300,
   "ListIncidents": [
     {
       "UniqueId": "b8f267be-9911-44ee-8a73-7a0537fbd6fa",
@@ -4752,7 +4752,7 @@
       "AcresBurnedDisplay": "6,905",
       "PercentContainedDisplay": "100%",
       "CountiesList": "Monterey",
-      "UpdatedDate": "2020-09-04 19:33:12",
+      "UpdatedDate": "2020-11-17 15:32:07",
       "StartedDate": "2020-08-18",
       "AdminUnit": "CAL FIRE San Benito-Monterey Unit ",
       "IncidentTypeDisplay": "Wildfire",
@@ -4905,7 +4905,7 @@
       "AcresBurnedDisplay": "2,857",
       "PercentContainedDisplay": "100%",
       "CountiesList": "Tuolumne",
-      "UpdatedDate": "2020-08-30 19:14:52",
+      "UpdatedDate": "2020-11-17 15:36:09",
       "StartedDate": "2020-08-20",
       "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit and Central California District",
       "IncidentTypeDisplay": "Wildfire",
