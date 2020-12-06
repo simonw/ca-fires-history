@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 50,
       "ControlStatement": null,
-      "ConditionStatement": "Interactive evacuation map available <a href=\"https://ocsheriff.gov/commands-divisions/field-operations-investigations-command/emergency-management/resources-during\"> here </a>\n\n<p>Firefighters took advantage of milder conditions overnight to construct and\nreinforce fire lines, which continue to hold. They will work through the day to\nextend these fire lines and improve containment. There is still potential in many\nareas for a strong wind event to spread the fire and threaten adjacent\ncommunities.</p>\n\n<p>In the coming days, dry conditions will continue with low humidities and the\npotential for gusty winds. Moderate Santa Ana winds are expected to return on\nMonday and Tuesday, bringing a Red Flag Warning beginning early Monday\nmorning.</p>\n\n<p>Damage assessment teams continued a systematic survey of the fire area. They\nhave completed 60% of the fire area and will continue their assessment today.</p>",
+      "ConditionStatement": "<p><b>BOND FIREEVACUATION WARNINGS/ORDERS:</b></p>\n<p><b>EFFECTIVE IMMEDIATELY:</b></p>\n<p>The Orange County Evacuation Order has been reduced to a Warning in the\nfollowing area:</p>\n<p>ZONE MJU01/MOD01: Modjeska Canyon area</p>\n<p>The evacuation warnings have been lifted for the following areas:</p>\n<li><b>ZONE LKF03:</b>Foothill Ranch area of the City of Lake Forest</li>\n<li><b>ZONE LKF07:</b> Foothill Ranch area of the City of Lake Forest</li>\n<li><b>ZONE LKF06:</b>Located within the City of Lake Forest</li>\n<p>Zones LKF04 and LKF05, Portola Hills area of the City of Lake Forest, remain under an\nevacuation warning.\n<p><b>Hard road closures</b>will remain it place on Santiago Canyon Road at Highway 241 and\nSantiago Canyon Road at Modjeska Canyon Road.</p>\n<p>Residents may access the area via the <b>traffic control point</b>at the intersection of\nSantiago Canyon Road and Ridgeline Road.</p>\n<p><b>SAFETY MESSAGE: </b>The public is reminded to stay vigilant. Fire personnel and unseen\ndangers may be present in and around the fire area. Drive slowly, yield to emergency personnel\nand stay off the roadways unless absolutely necessary. If at any time you feel unsafe, please\ncall 9-1-1.</p>\n\nInteractive evacuation map available <a href=\"https://ocsheriff.gov/commands-divisions/field-operations-investigations-command/emergency-management/resources-during\"> here </a>\n\n<p>Firefighters took advantage of milder conditions overnight to construct and\nreinforce fire lines, which continue to hold. They will work through the day to\nextend these fire lines and improve containment. There is still potential in many\nareas for a strong wind event to spread the fire and threaten adjacent\ncommunities.</p>\n\n<p>In the coming days, dry conditions will continue with low humidities and the\npotential for gusty winds. Moderate Santa Ana winds are expected to return on\nMonday and Tuesday, bringing a Red Flag Warning beginning early Monday\nmorning.</p>\n\n<p>Damage assessment teams continued a systematic survey of the fire area. They\nhave completed 60% of the fire area and will continue their assessment today.</p>",
       "Counties": [
         "Orange"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": "The Bond Fire started December 3, 2020 in Silverado Canyon in Orange County.",
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: CAL FIRE, Orange County Fire Authority, and USFS",
-      "Updated": "2020-12-06T07:35:46.557Z",
+      "Updated": "2020-12-06T12:30:21.633Z",
       "Started": "2020-12-02T22:14:00Z",
       "Extinguished": null,
       "ArchiveYear": 2020,
@@ -541,7 +541,7 @@
       "FuelType": null,
       "PercentContained": 50,
       "ControlStatement": null,
-      "ConditionStatement": "Interactive evacuation map available <a href=\"https://ocsheriff.gov/commands-divisions/field-operations-investigations-command/emergency-management/resources-during\"> here </a>\n\n<p>Firefighters took advantage of milder conditions overnight to construct and\nreinforce fire lines, which continue to hold. They will work through the day to\nextend these fire lines and improve containment. There is still potential in many\nareas for a strong wind event to spread the fire and threaten adjacent\ncommunities.</p>\n\n<p>In the coming days, dry conditions will continue with low humidities and the\npotential for gusty winds. Moderate Santa Ana winds are expected to return on\nMonday and Tuesday, bringing a Red Flag Warning beginning early Monday\nmorning.</p>\n\n<p>Damage assessment teams continued a systematic survey of the fire area. They\nhave completed 60% of the fire area and will continue their assessment today.</p>",
+      "ConditionStatement": "<p><b>BOND FIREEVACUATION WARNINGS/ORDERS:</b></p>\n<p><b>EFFECTIVE IMMEDIATELY:</b></p>\n<p>The Orange County Evacuation Order has been reduced to a Warning in the\nfollowing area:</p>\n<p>ZONE MJU01/MOD01: Modjeska Canyon area</p>\n<p>The evacuation warnings have been lifted for the following areas:</p>\n<li><b>ZONE LKF03:</b>Foothill Ranch area of the City of Lake Forest</li>\n<li><b>ZONE LKF07:</b> Foothill Ranch area of the City of Lake Forest</li>\n<li><b>ZONE LKF06:</b>Located within the City of Lake Forest</li>\n<p>Zones LKF04 and LKF05, Portola Hills area of the City of Lake Forest, remain under an\nevacuation warning.\n<p><b>Hard road closures</b>will remain it place on Santiago Canyon Road at Highway 241 and\nSantiago Canyon Road at Modjeska Canyon Road.</p>\n<p>Residents may access the area via the <b>traffic control point</b>at the intersection of\nSantiago Canyon Road and Ridgeline Road.</p>\n<p><b>SAFETY MESSAGE: </b>The public is reminded to stay vigilant. Fire personnel and unseen\ndangers may be present in and around the fire area. Drive slowly, yield to emergency personnel\nand stay off the roadways unless absolutely necessary. If at any time you feel unsafe, please\ncall 9-1-1.</p>\n\nInteractive evacuation map available <a href=\"https://ocsheriff.gov/commands-divisions/field-operations-investigations-command/emergency-management/resources-during\"> here </a>\n\n<p>Firefighters took advantage of milder conditions overnight to construct and\nreinforce fire lines, which continue to hold. They will work through the day to\nextend these fire lines and improve containment. There is still potential in many\nareas for a strong wind event to spread the fire and threaten adjacent\ncommunities.</p>\n\n<p>In the coming days, dry conditions will continue with low humidities and the\npotential for gusty winds. Moderate Santa Ana winds are expected to return on\nMonday and Tuesday, bringing a Red Flag Warning beginning early Monday\nmorning.</p>\n\n<p>Damage assessment teams continued a systematic survey of the fire area. They\nhave completed 60% of the fire area and will continue their assessment today.</p>",
       "Counties": [
         "Orange"
       ],
@@ -549,7 +549,7 @@
       "SearchDescription": "The Bond Fire started December 3, 2020 in Silverado Canyon in Orange County.",
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: CAL FIRE, Orange County Fire Authority, and USFS",
-      "Updated": "2020-12-06T07:35:46.557Z",
+      "Updated": "2020-12-06T12:30:21.633Z",
       "Started": "2020-12-02T22:14:00Z",
       "Extinguished": null,
       "ArchiveYear": 2020,
@@ -4981,7 +4981,7 @@
       "AcresBurnedDisplay": "7,375",
       "PercentContainedDisplay": "50%",
       "CountiesList": "Orange",
-      "UpdatedDate": "2020-12-06 07:35:46",
+      "UpdatedDate": "2020-12-06 12:30:21",
       "StartedDate": "2020-12-02",
       "AdminUnit": "Unified Command: CAL FIRE, Orange County Fire Authority, and USFS",
       "IncidentTypeDisplay": "Wildfire",
