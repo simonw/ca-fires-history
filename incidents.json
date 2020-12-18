@@ -131,9 +131,9 @@
   ],
   "MatchedIncidentCount": 0,
   "AllAcres": 2521282,
-  "AllIncidentCount": 260,
+  "AllIncidentCount": 261,
   "AllFatalities": 6,
-  "AllStructures": 4365,
+  "AllStructures": 5292,
   "ListIncidents": [
     {
       "UniqueId": "9e0052d7-3610-4ed1-8641-11bda8efd176",
@@ -3901,6 +3901,23 @@
       "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
       "IncidentTypeDisplay": "Wildfire",
       "Url": "https://www.fire.ca.gov/incidents/2020/9/1/catholic-fire/",
+      "IsActive": "N"
+    },
+    {
+      "IncidentId": 2617,
+      "UniqueId": "7e359448-0344-4407-a289-e4fb7823ac3c",
+      "Name": "Creek Fire",
+      "Location": "Both sides of the San Joaquin River near Mammoth Pool, Shaver Lake, Big Creek and Huntington Lake",
+      "Latitude": 37.19147,
+      "Longitude": -119.261175,
+      "AcresBurnedDisplay": "",
+      "PercentContainedDisplay": "",
+      "CountiesList": "Fresno, Madera",
+      "UpdatedDate": "2020-12-18 13:43:28",
+      "StartedDate": "2020-09-04",
+      "AdminUnit": "Sierra National Forest ",
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2020/9/4/creek-fire/",
       "IsActive": "N"
     },
     {
