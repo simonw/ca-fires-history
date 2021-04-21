@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 25,
       "ControlStatement": null,
-      "ConditionStatement": "Firefighters will remain at scene throughout the day working to improve containment lines, extinguish hot spots and remove any hazard trees. Lower temperatures overnight allowed firefighters to make progress but the steep terrain continues to challenge control efforts.",
+      "ConditionStatement": "Firefighters will remain at scene throughout the night to extinguish hotspots. They continue to be challenged by the steep, rugged terrain but worked to add depth to containment lines, remove hazard trees, and construct direct handline today.",
       "Counties": [
         "Mendocino"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": "The Turnout Fire started April 18, 2021 off Highway 253 and Boonville Rd, southwest of Ukiah in Mendocino County.",
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Mendocino Unit",
-      "Updated": "2021-04-20T07:20:49.033Z",
+      "Updated": "2021-04-20T19:14:33.11Z",
       "Started": "2021-04-18T17:46:54Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -193,7 +193,7 @@
       "FuelType": null,
       "PercentContained": 25,
       "ControlStatement": null,
-      "ConditionStatement": "Firefighters will remain at scene throughout the day working to improve containment lines, extinguish hot spots and remove any hazard trees. Lower temperatures overnight allowed firefighters to make progress but the steep terrain continues to challenge control efforts.",
+      "ConditionStatement": "Firefighters will remain at scene throughout the night to extinguish hotspots. They continue to be challenged by the steep, rugged terrain but worked to add depth to containment lines, remove hazard trees, and construct direct handline today.",
       "Counties": [
         "Mendocino"
       ],
@@ -201,7 +201,7 @@
       "SearchDescription": "The Turnout Fire started April 18, 2021 off Highway 253 and Boonville Rd, southwest of Ukiah in Mendocino County.",
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Mendocino Unit",
-      "Updated": "2021-04-20T07:20:49.033Z",
+      "Updated": "2021-04-20T19:14:33.11Z",
       "Started": "2021-04-18T17:46:54Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -572,7 +572,7 @@
       "AcresBurnedDisplay": "200",
       "PercentContainedDisplay": "25%",
       "CountiesList": "Mendocino",
-      "UpdatedDate": "2021-04-20 07:20:49",
+      "UpdatedDate": "2021-04-20 19:14:33",
       "StartedDate": "2021-04-18",
       "AdminUnit": "CAL FIRE Mendocino Unit",
       "IncidentTypeDisplay": "Wildfire",
