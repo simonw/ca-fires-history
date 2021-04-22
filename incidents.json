@@ -90,8 +90,8 @@
     }
   ],
   "MatchedIncidentCount": 0,
-  "AllAcres": 2569,
-  "AllIncidentCount": 18,
+  "AllAcres": 2734,
+  "AllIncidentCount": 23,
   "AllFatalities": 0,
   "AllStructures": 0,
   "ListIncidents": [
@@ -186,6 +186,23 @@
   ],
   "AllYearIncidents": [
     {
+      "IncidentId": 2696,
+      "UniqueId": "189a9ed6-ecba-481c-9eef-92cc74e37c55",
+      "Name": "Comet Fire",
+      "Location": "Comet Circle Road and Mission Road",
+      "Latitude": 33.148,
+      "Longitude": -117.18769,
+      "AcresBurnedDisplay": "",
+      "PercentContainedDisplay": "",
+      "CountiesList": "San Diego",
+      "UpdatedDate": "2021-04-22 09:29:39",
+      "StartedDate": "2021-01-14",
+      "AdminUnit": "San Marcos Fire Department",
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2021/1/14/comet-fire/",
+      "IsActive": "N"
+    },
+    {
       "IncidentId": 2717,
       "UniqueId": "2347b6fb-8468-46bb-9917-d5cea3f1efdd",
       "Name": "Erbes Fire",
@@ -200,6 +217,23 @@
       "AdminUnit": "Ventura County Fire Department",
       "IncidentTypeDisplay": "Wildfire",
       "Url": "https://www.fire.ca.gov/incidents/2021/1/14/erbes-fire/",
+      "IsActive": "N"
+    },
+    {
+      "IncidentId": 2718,
+      "UniqueId": "cc6625a1-62c3-4c8e-9792-3ad9ed123c50",
+      "Name": "Bonita Fire",
+      "Location": "Bonita Vista Rd and Apple Canyon Rd, north of Garner Valley",
+      "Latitude": 33.704362,
+      "Longitude": -116.670243,
+      "AcresBurnedDisplay": "",
+      "PercentContainedDisplay": "",
+      "CountiesList": "Riverside",
+      "UpdatedDate": "2021-04-22 09:29:05",
+      "StartedDate": "2021-01-15",
+      "AdminUnit": "USFS San Bernardino National Forest",
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2021/1/15/bonita-fire/",
       "IsActive": "N"
     },
     {
@@ -339,6 +373,23 @@
       "IsActive": "N"
     },
     {
+      "IncidentId": 2780,
+      "UniqueId": "98da5f18-bd17-4e82-bcb0-dbc05dc27ec5",
+      "Name": "Cold Fire",
+      "Location": "Mormon Emigrant Trail and 10N97 Road, South of Riverton",
+      "Latitude": 38.69233,
+      "Longitude": -120.34132,
+      "AcresBurnedDisplay": "",
+      "PercentContainedDisplay": "",
+      "CountiesList": "El Dorado",
+      "UpdatedDate": "2021-04-22 09:25:19",
+      "StartedDate": "2021-01-19",
+      "AdminUnit": "El Dorado National Forest",
+      "IncidentTypeDisplay": "",
+      "Url": "https://www.fire.ca.gov/incidents/2021/1/19/cold-fire/",
+      "IsActive": "N"
+    },
+    {
       "IncidentId": 2781,
       "UniqueId": "1ebddf4e-0190-4363-a858-ac789206b5fd",
       "Name": "Freedom Fire",
@@ -438,6 +489,40 @@
       "AdminUnit": "Ventura County Fire Department",
       "IncidentTypeDisplay": "Fire",
       "Url": "https://www.fire.ca.gov/incidents/2021/4/4/westwood-fire/",
+      "IsActive": "N"
+    },
+    {
+      "IncidentId": 2787,
+      "UniqueId": "7fea7a43-3194-439f-9649-dccdd54357d0",
+      "Name": "Springs Fire",
+      "Location": "Big Rock Creek and Big Pines Hwy, west of Phelan",
+      "Latitude": 34.432082419313794,
+      "Longitude": -117.83474297768298,
+      "AcresBurnedDisplay": "80",
+      "PercentContainedDisplay": "100%",
+      "CountiesList": "Los Angeles",
+      "UpdatedDate": "2021-04-22 09:24:29",
+      "StartedDate": "2021-04-05",
+      "AdminUnit": "USFS Angeles National Forest",
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2021/4/5/springs-fire/",
+      "IsActive": "N"
+    },
+    {
+      "IncidentId": 2788,
+      "UniqueId": "02c35ef9-20a6-40f9-8dbd-dce566a9c4a3",
+      "Name": "Onion Fire",
+      "Location": "Onion Valley Road and Foothill Road",
+      "Latitude": 36.774736,
+      "Longitude": -118.266337,
+      "AcresBurnedDisplay": "85",
+      "PercentContainedDisplay": "100%",
+      "CountiesList": "Inyo",
+      "UpdatedDate": "2021-04-22 09:23:41",
+      "StartedDate": "2021-04-07",
+      "AdminUnit": "Inyo National Forest",
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2021/4/7/onion-fire/",
       "IsActive": "N"
     },
     {
