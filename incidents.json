@@ -54,7 +54,7 @@
       "FuelType": null,
       "PercentContained": 25,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "Firefighters made significant progress overnight as cooler temperatures aided in decreased\nfire activity. Firefighters continued to work on increasing containment lines and mopping up.\nPlease drive slowly and use caution as emergency crews and equipment are still working in\nthe area.",
       "Counties": [
         "Shasta"
       ],
@@ -62,7 +62,7 @@
       "SearchDescription": "The Cow Fire started on June 20, 2021 off Highway 44 and South Cow Creek Road,  southeast of Millville in Shasta County.",
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2021-06-21T08:48:05.517Z",
+      "Updated": "2021-06-21T09:21:47.92Z",
       "Started": "2021-06-20T16:38:04Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -1029,7 +1029,7 @@
       "FuelType": null,
       "PercentContained": 25,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "Firefighters made significant progress overnight as cooler temperatures aided in decreased\nfire activity. Firefighters continued to work on increasing containment lines and mopping up.\nPlease drive slowly and use caution as emergency crews and equipment are still working in\nthe area.",
       "Counties": [
         "Shasta"
       ],
@@ -1037,7 +1037,7 @@
       "SearchDescription": "The Cow Fire started on June 20, 2021 off Highway 44 and South Cow Creek Road,  southeast of Millville in Shasta County.",
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2021-06-21T08:48:05.517Z",
+      "Updated": "2021-06-21T09:21:47.92Z",
       "Started": "2021-06-20T16:38:04Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -2404,7 +2404,7 @@
       "AcresBurnedDisplay": "600",
       "PercentContainedDisplay": "25%",
       "CountiesList": "Shasta",
-      "UpdatedDate": "2021-06-21 08:48:05",
+      "UpdatedDate": "2021-06-21 09:21:47",
       "StartedDate": "2021-06-20",
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
       "IncidentTypeDisplay": "Fire",
