@@ -54,7 +54,7 @@
       "FuelType": null,
       "PercentContained": 50,
       "ControlStatement": null,
-      "ConditionStatement": "The fire did not increase and stayed within containment lines as winds increased this afternoon. Updated fire\nsize is due to more accurate mapping. Firefighters are working to increase and reinforce containment lines, as\nwell as extinguish hot spots, which are primarily well interior of the fire perimeter.",
+      "ConditionStatement": "Favorable weather conditions with cooler temperatures and increased humidity helped firefighters continue to progress overnight.",
       "Counties": [
         "Shasta"
       ],
@@ -62,7 +62,7 @@
       "SearchDescription": "The Cow Fire started on June 20, 2021 off Highway 44 and South Cow Creek Road,  southeast of Millville in Shasta County.",
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2021-06-21T19:10:51.967Z",
+      "Updated": "2021-06-22T07:22:23.433Z",
       "Started": "2021-06-20T16:38:04Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -721,7 +721,7 @@
       "FuelType": null,
       "PercentContained": 50,
       "ControlStatement": null,
-      "ConditionStatement": "The fire did not increase and stayed within containment lines as winds increased this afternoon. Updated fire\nsize is due to more accurate mapping. Firefighters are working to increase and reinforce containment lines, as\nwell as extinguish hot spots, which are primarily well interior of the fire perimeter.",
+      "ConditionStatement": "Favorable weather conditions with cooler temperatures and increased humidity helped firefighters continue to progress overnight.",
       "Counties": [
         "Shasta"
       ],
@@ -729,7 +729,7 @@
       "SearchDescription": "The Cow Fire started on June 20, 2021 off Highway 44 and South Cow Creek Road,  southeast of Millville in Shasta County.",
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2021-06-21T19:10:51.967Z",
+      "Updated": "2021-06-22T07:22:23.433Z",
       "Started": "2021-06-20T16:38:04Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -2052,7 +2052,7 @@
       "AcresBurnedDisplay": "761",
       "PercentContainedDisplay": "50%",
       "CountiesList": "Shasta",
-      "UpdatedDate": "2021-06-21 19:10:51",
+      "UpdatedDate": "2021-06-22 07:22:23",
       "StartedDate": "2021-06-20",
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
       "IncidentTypeDisplay": "Fire",
