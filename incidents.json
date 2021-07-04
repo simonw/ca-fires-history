@@ -185,7 +185,7 @@
       "AcresBurned": null,
       "FuelType": null,
       "PercentContained": null,
-      "ControlStatement": null,
+      "ControlStatement": "Dotta and Sugar Incidents have been combined into the Beckwourth Complex\n•    Dotta 670 acres, 15% contained\n•    Sugar 471 acres, 24% contained",
       "ConditionStatement": "The Beckwourth complex includes the Sugar fire and Dotta Fire in Plumas county.",
       "Counties": [
         "Plumas"
@@ -194,7 +194,7 @@
       "SearchDescription": "The Beckwourth complex includes the Sugar fire and Dotta Fire in Plumas county.",
       "SearchKeywords": null,
       "AdminUnit": "Plumas National Forest",
-      "Updated": "2021-07-04T09:26:50.547Z",
+      "Updated": "2021-07-04T10:35:00.323Z",
       "Started": "2021-07-04T09:26:06.653Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -1204,7 +1204,7 @@
       "AcresBurned": null,
       "FuelType": null,
       "PercentContained": null,
-      "ControlStatement": null,
+      "ControlStatement": "Dotta and Sugar Incidents have been combined into the Beckwourth Complex\n•    Dotta 670 acres, 15% contained\n•    Sugar 471 acres, 24% contained",
       "ConditionStatement": "The Beckwourth complex includes the Sugar fire and Dotta Fire in Plumas county.",
       "Counties": [
         "Plumas"
@@ -1213,7 +1213,7 @@
       "SearchDescription": "The Beckwourth complex includes the Sugar fire and Dotta Fire in Plumas county.",
       "SearchKeywords": null,
       "AdminUnit": "Plumas National Forest",
-      "Updated": "2021-07-04T09:26:50.547Z",
+      "Updated": "2021-07-04T10:35:00.323Z",
       "Started": "2021-07-04T09:26:06.653Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -2951,7 +2951,7 @@
       "AcresBurnedDisplay": "",
       "PercentContainedDisplay": "",
       "CountiesList": "Plumas",
-      "UpdatedDate": "2021-07-04 09:26:50",
+      "UpdatedDate": "2021-07-04 10:35:00",
       "StartedDate": "2021-07-04",
       "AdminUnit": "Plumas National Forest",
       "IncidentTypeDisplay": "Wildfire",
