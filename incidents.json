@@ -14,14 +14,14 @@
       "Counties": [
         "Butte",
         "Plumas",
-        "Lassen",
-        "Tehama"
+        "Tehama",
+        "Lassen"
       ],
-      "CountyIds": "4,32,18,52",
+      "CountyIds": "4,32,52,18",
       "SearchDescription": "The Dixie Fire started July 14, 2021 off Above the Cresta Dam, Feather River Canyon in Butte County.",
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department, Lassen National Forest and National Park Service",
-      "Updated": "2021-08-13T20:23:11.837Z",
+      "Updated": "2021-08-13T20:24:16.763Z",
       "Started": "2021-07-14T00:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -860,14 +860,14 @@
       "Counties": [
         "Butte",
         "Plumas",
-        "Lassen",
-        "Tehama"
+        "Tehama",
+        "Lassen"
       ],
-      "CountyIds": "4,32,18,52",
+      "CountyIds": "4,32,52,18",
       "SearchDescription": "The Dixie Fire started July 14, 2021 off Above the Cresta Dam, Feather River Canyon in Butte County.",
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department, Lassen National Forest and National Park Service",
-      "Updated": "2021-08-13T20:23:11.837Z",
+      "Updated": "2021-08-13T20:24:16.763Z",
       "Started": "2021-07-14T00:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -3600,8 +3600,8 @@
       "Longitude": -121.389439,
       "AcresBurnedDisplay": "537,776",
       "PercentContainedDisplay": "31%",
-      "CountiesList": "Butte, Plumas, Lassen, Tehama",
-      "UpdatedDate": "2021-08-13 20:23:11",
+      "CountiesList": "Butte, Plumas, Tehama, Lassen",
+      "UpdatedDate": "2021-08-13 20:24:16",
       "StartedDate": "2021-07-14",
       "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department, Lassen National Forest and National Park Service",
       "IncidentTypeDisplay": "Wildfire",
