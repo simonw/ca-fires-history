@@ -57,7 +57,7 @@
       "FuelType": null,
       "PercentContained": 51,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p><span style=\"text-decoration: underline;\"><strong>Current Situation:</strong></span></p>\r\n<p><strong>The Shasta-Trinity National Forest and CAL FIRE Tehama-Glenn Unit are in unified command on the McFarland Fire currently 98,407 acres and 51% contained.</strong><span></span><span></span></p>\r\n<p><strong>Road Closures:</strong></p>\r\n<p><span>Hwy 36 is closed from Hwy 3 to Bowman Road.</span><span> </span><span>For current road information visit </span><a rel=\"noopener noreferrer\" href=\"https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fquickmap.dot.ca.gov%2F&amp;data=04%7C01%7Csean.mcfadden%40fire.ca.gov%7C0f7b9a6b7e8d42d1ced408d962027522%7C447a4ca05405454dad68c98a520261f8%7C1%7C0%7C637648584963413929%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=zI5Z42tY0vMo8eNDSWQK%2FqTfumC3eNJypT3ZKgvVLC8%3D&amp;reserved=0\" target=\"_blank\" title=\"\" data-auth=\"VerificationFailed\" data-linkindex=\"0\"><span>quickmap.dot.ca.gov</span></a><span>  </span></p>\r\n<p><strong>Evacuation Orders:</strong></p>\r\n<ul>\r\n<li><span>1 mile north of Highway 36 from Platina to Vestal Road</span></li>\r\n<li><span>All homes south of Highway 36 including all of Tedoc Road</span></li>\r\n<li><span>East to and including all of Vestal Road</span></li>\r\n<li><span>North of Pettyjohn Road to Hwy 36W </span></li>\r\n<li><span>West of the intersection of Hwy 36W </span></li>\r\n<li><span>Canon Road to Tehama/Trinity County line</span><span></span></li>\r\n</ul>\r\n<p><strong>Evacuation Warnings:</strong></p>\r\n<ul>\r\n<li><span> All homes on the south side and all homes to 1 mile north of Highway 36 from the Shasta/Trinity County line to Platina</span></li>\r\n<li><span> North of Bowman Road and Hwy 36W west of Luce Griswold to the Tehama/Trinity County line</span><span></span></li>\r\n</ul>",
       "Counties": [
         "Shasta"
       ],
@@ -65,8 +65,8 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: Shasta-Trinity National Forest, CAL FIRE Tehama-Glenn Unit",
-      "Updated": "2021-08-17T20:55:34.01Z",
-      "Started": "2021-07-30T09:54:16Z",
+      "Updated": "2021-08-17T21:47:17.437Z",
+      "Started": "2021-07-30T00:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
       "Public": true,
@@ -639,7 +639,7 @@
       "FuelType": null,
       "PercentContained": 51,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p><span style=\"text-decoration: underline;\"><strong>Current Situation:</strong></span></p>\r\n<p><strong>The Shasta-Trinity National Forest and CAL FIRE Tehama-Glenn Unit are in unified command on the McFarland Fire currently 98,407 acres and 51% contained.</strong><span></span><span></span></p>\r\n<p><strong>Road Closures:</strong></p>\r\n<p><span>Hwy 36 is closed from Hwy 3 to Bowman Road.</span><span> </span><span>For current road information visit </span><a rel=\"noopener noreferrer\" href=\"https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fquickmap.dot.ca.gov%2F&amp;data=04%7C01%7Csean.mcfadden%40fire.ca.gov%7C0f7b9a6b7e8d42d1ced408d962027522%7C447a4ca05405454dad68c98a520261f8%7C1%7C0%7C637648584963413929%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=zI5Z42tY0vMo8eNDSWQK%2FqTfumC3eNJypT3ZKgvVLC8%3D&amp;reserved=0\" target=\"_blank\" title=\"\" data-auth=\"VerificationFailed\" data-linkindex=\"0\"><span>quickmap.dot.ca.gov</span></a><span>  </span></p>\r\n<p><strong>Evacuation Orders:</strong></p>\r\n<ul>\r\n<li><span>1 mile north of Highway 36 from Platina to Vestal Road</span></li>\r\n<li><span>All homes south of Highway 36 including all of Tedoc Road</span></li>\r\n<li><span>East to and including all of Vestal Road</span></li>\r\n<li><span>North of Pettyjohn Road to Hwy 36W </span></li>\r\n<li><span>West of the intersection of Hwy 36W </span></li>\r\n<li><span>Canon Road to Tehama/Trinity County line</span><span></span></li>\r\n</ul>\r\n<p><strong>Evacuation Warnings:</strong></p>\r\n<ul>\r\n<li><span> All homes on the south side and all homes to 1 mile north of Highway 36 from the Shasta/Trinity County line to Platina</span></li>\r\n<li><span> North of Bowman Road and Hwy 36W west of Luce Griswold to the Tehama/Trinity County line</span><span></span></li>\r\n</ul>",
       "Counties": [
         "Shasta"
       ],
@@ -647,8 +647,8 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: Shasta-Trinity National Forest, CAL FIRE Tehama-Glenn Unit",
-      "Updated": "2021-08-17T20:55:34.01Z",
-      "Started": "2021-07-30T09:54:16Z",
+      "Updated": "2021-08-17T21:47:17.437Z",
+      "Started": "2021-07-30T00:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
       "Public": true,
@@ -3328,7 +3328,7 @@
       "AcresBurnedDisplay": "98,407",
       "PercentContainedDisplay": "51%",
       "CountiesList": "Shasta",
-      "UpdatedDate": "2021-08-17 20:55:34",
+      "UpdatedDate": "2021-08-17 21:47:17",
       "StartedDate": "2021-07-30",
       "AdminUnit": "Unified Command: Shasta-Trinity National Forest, CAL FIRE Tehama-Glenn Unit",
       "IncidentTypeDisplay": "Fire",
