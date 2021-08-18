@@ -321,7 +321,7 @@
       "FuelType": null,
       "PercentContained": null,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Cache Fire Evacuation Map: <a href=\"https://community.zonehaven.com/?latlon=38.946487574533876,-122.54948560253274&amp;z=9.548900173773747&amp;selected=LOW-E159&amp;zoneDetails=true\">https://community.zonehaven.com/?latlon=38.946487574533876,-122.54948560253274&amp;z=9.548900173773747&amp;selected=LOW-E159&amp;zoneDetails=true</a></p>",
+      "ConditionStatement": "<p>Cache Fire Evacuation Map: <a href=\"https://community.zonehaven.com/?latlon=38.946487574533876,-122.54948560253274&amp;z=9.548900173773747&amp;selected=LOW-E159&amp;zoneDetails=true\">View map here</a>.</p>",
       "Counties": [
         "Lake"
       ],
@@ -329,7 +329,7 @@
       "SearchDescription": "",
       "SearchKeywords": "The Cache Fire started August 18, 2021 off Dam Rd and Wilkinson Ave, Clearlake in Lake County.",
       "AdminUnit": "Lake County Fire Protection District",
-      "Updated": "2021-08-18T14:42:23.353Z",
+      "Updated": "2021-08-18T14:58:01.6Z",
       "Started": "2021-08-18T00:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -947,7 +947,7 @@
       "FuelType": null,
       "PercentContained": null,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Cache Fire Evacuation Map: <a href=\"https://community.zonehaven.com/?latlon=38.946487574533876,-122.54948560253274&amp;z=9.548900173773747&amp;selected=LOW-E159&amp;zoneDetails=true\">https://community.zonehaven.com/?latlon=38.946487574533876,-122.54948560253274&amp;z=9.548900173773747&amp;selected=LOW-E159&amp;zoneDetails=true</a></p>",
+      "ConditionStatement": "<p>Cache Fire Evacuation Map: <a href=\"https://community.zonehaven.com/?latlon=38.946487574533876,-122.54948560253274&amp;z=9.548900173773747&amp;selected=LOW-E159&amp;zoneDetails=true\">View map here</a>.</p>",
       "Counties": [
         "Lake"
       ],
@@ -955,7 +955,7 @@
       "SearchDescription": "",
       "SearchKeywords": "The Cache Fire started August 18, 2021 off Dam Rd and Wilkinson Ave, Clearlake in Lake County.",
       "AdminUnit": "Lake County Fire Protection District",
-      "Updated": "2021-08-18T14:42:23.353Z",
+      "Updated": "2021-08-18T14:58:01.6Z",
       "Started": "2021-08-18T00:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -3603,7 +3603,7 @@
       "AcresBurnedDisplay": "55",
       "PercentContainedDisplay": "100%",
       "CountiesList": "Siskiyou",
-      "UpdatedDate": "2021-08-17 11:44:22",
+      "UpdatedDate": "2021-08-18 14:50:08",
       "StartedDate": "2021-08-06",
       "AdminUnit": "Shasta-Trinity National Forest",
       "IncidentTypeDisplay": "Wildfire",
@@ -3637,7 +3637,7 @@
       "AcresBurnedDisplay": "",
       "PercentContainedDisplay": "",
       "CountiesList": "Lake",
-      "UpdatedDate": "2021-08-18 14:42:23",
+      "UpdatedDate": "2021-08-18 14:58:01",
       "StartedDate": "2021-08-18",
       "AdminUnit": "Lake County Fire Protection District",
       "IncidentTypeDisplay": "Wildfire",
