@@ -192,7 +192,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p><a rel=\"noopener noreferrer\" href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkcfd.maps.arcgis.com%2Fapps%2Finstant%2Finteractivelegend%2Findex.html%3Fappid%3Dcd18207578044581a9a9a1255fc88417&amp;data=04%7C01%7Csean.mcfadden%40fire.ca.gov%7C15980d4041074e9efe4408d96419cf89%7C447a4ca05405454dad68c98a520261f8%7C1%7C0%7C637650884276462576%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=kTINH3L11mFjRqKA9ZRyih%2Ft69CUiVHOZgK1qdsN2r0%3D&amp;reserved=0\" target=\"_blank\" title=\"Original URL: https://kcfd.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=cd18207578044581a9a9a1255fc88417. Click or tap if you trust this link.\" data-auth=\"Verified\" data-linkindex=\"0\">French Fire Evacuation Zone Map (arcgis.com)</a></p>",
       "Counties": [
         "Kern"
       ],
@@ -200,7 +200,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Kern County Fire",
-      "Updated": "2021-08-20T07:00:31.52Z",
+      "Updated": "2021-08-20T13:37:45.037Z",
       "Started": "2021-08-18T00:00:00Z",
       "Extinguished": "2021-08-18T18:55:01Z",
       "ArchiveYear": 2021,
@@ -822,7 +822,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p><a rel=\"noopener noreferrer\" href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkcfd.maps.arcgis.com%2Fapps%2Finstant%2Finteractivelegend%2Findex.html%3Fappid%3Dcd18207578044581a9a9a1255fc88417&amp;data=04%7C01%7Csean.mcfadden%40fire.ca.gov%7C15980d4041074e9efe4408d96419cf89%7C447a4ca05405454dad68c98a520261f8%7C1%7C0%7C637650884276462576%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=kTINH3L11mFjRqKA9ZRyih%2Ft69CUiVHOZgK1qdsN2r0%3D&amp;reserved=0\" target=\"_blank\" title=\"Original URL: https://kcfd.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=cd18207578044581a9a9a1255fc88417. Click or tap if you trust this link.\" data-auth=\"Verified\" data-linkindex=\"0\">French Fire Evacuation Zone Map (arcgis.com)</a></p>",
       "Counties": [
         "Kern"
       ],
@@ -830,7 +830,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Kern County Fire",
-      "Updated": "2021-08-20T07:00:31.52Z",
+      "Updated": "2021-08-20T13:37:45.037Z",
       "Started": "2021-08-18T00:00:00Z",
       "Extinguished": "2021-08-18T18:55:01Z",
       "ArchiveYear": 2021,
@@ -3781,7 +3781,7 @@
       "AcresBurnedDisplay": "3,223",
       "PercentContainedDisplay": "0%",
       "CountiesList": "Kern",
-      "UpdatedDate": "2021-08-20 07:00:31",
+      "UpdatedDate": "2021-08-20 13:37:45",
       "StartedDate": "2021-08-18",
       "AdminUnit": "Kern County Fire",
       "IncidentTypeDisplay": "Wildfire",
