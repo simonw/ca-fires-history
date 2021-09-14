@@ -151,7 +151,7 @@
       "FuelType": null,
       "PercentContained": 30,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Firefighters continued to hold and improve control lines throughout the day. Potential still exists for spots to become established outside of the control line, due to wind and dry conditions. Firefighters will remain at scene to strengthen depth on containment lines, extinguish any interior hot spots and mitigate hazard trees. We ask that the public heed all evacuation orders and warnings that remain in place for the public and first responder’s safety.</p>",
+      "ConditionStatement": "<p>Overnight, firefighters continued to make progress with the assistance of lower temperatures and higher humidity. Firefighters on the ground as well as aircraft will continue to actively work to suppress the fire. The Damage Assessment Team(DINS) will be arriving this morning to survey the fire area to determine how many structures have been damaged or destroyed. We ask that the public continue heed all evacuation orders and warnings.</p>",
       "Counties": [
         "Mendocino"
       ],
@@ -159,7 +159,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Mendocino Unit ",
-      "Updated": "2021-09-13T19:27:30.917Z",
+      "Updated": "2021-09-14T07:23:31.527Z",
       "Started": "2021-09-12T14:15:09Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -842,7 +842,7 @@
       "FuelType": null,
       "PercentContained": 30,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Firefighters continued to hold and improve control lines throughout the day. Potential still exists for spots to become established outside of the control line, due to wind and dry conditions. Firefighters will remain at scene to strengthen depth on containment lines, extinguish any interior hot spots and mitigate hazard trees. We ask that the public heed all evacuation orders and warnings that remain in place for the public and first responder’s safety.</p>",
+      "ConditionStatement": "<p>Overnight, firefighters continued to make progress with the assistance of lower temperatures and higher humidity. Firefighters on the ground as well as aircraft will continue to actively work to suppress the fire. The Damage Assessment Team(DINS) will be arriving this morning to survey the fire area to determine how many structures have been damaged or destroyed. We ask that the public continue heed all evacuation orders and warnings.</p>",
       "Counties": [
         "Mendocino"
       ],
@@ -850,7 +850,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Mendocino Unit ",
-      "Updated": "2021-09-13T19:27:30.917Z",
+      "Updated": "2021-09-14T07:23:31.527Z",
       "Started": "2021-09-12T14:15:09Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -4394,7 +4394,7 @@
       "PercentContainedDisplay": "30%",
       "ExternalIncidentLink": "",
       "CountiesList": "Mendocino",
-      "UpdatedDate": "2021-09-13 19:27:30",
+      "UpdatedDate": "2021-09-14 07:23:31",
       "StartedDate": "2021-09-12",
       "AdminUnit": "CAL FIRE Mendocino Unit ",
       "IncidentTypeDisplay": "Wildfire",
