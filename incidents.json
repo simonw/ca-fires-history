@@ -59,7 +59,7 @@
       "FuelType": null,
       "PercentContained": 96,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Extensive fire suppression repair will continue, and engines will be patrolling the fire over the next few days. As the area is becoming repopulated, we ask the public to be aware that equipment is still working in the area. Please contact Disaster Recovery at 707-234-6303 and American Red Cross at 707-262-7117 if your home was damaged or destroyed.</p>",
+      "ConditionStatement": "<p>Fire suppression repair will continue into next week. Engines will patrol the fire area periodically. Please be aware that equipment working in the area. If your home was damaged or destroyed you can contact the Mendocino County Disaster Recovery at 707-234-6303 and/or American Red Cross at 707-262-7117 if you need assistance.</p>",
       "Counties": [
         "Mendocino"
       ],
@@ -67,7 +67,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Mendocino Unit ",
-      "Updated": "2021-09-17T19:08:56.08Z",
+      "Updated": "2021-09-18T08:13:03.207Z",
       "Started": "2021-09-12T14:15:09Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -795,7 +795,7 @@
       "FuelType": null,
       "PercentContained": 96,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Extensive fire suppression repair will continue, and engines will be patrolling the fire over the next few days. As the area is becoming repopulated, we ask the public to be aware that equipment is still working in the area. Please contact Disaster Recovery at 707-234-6303 and American Red Cross at 707-262-7117 if your home was damaged or destroyed.</p>",
+      "ConditionStatement": "<p>Fire suppression repair will continue into next week. Engines will patrol the fire area periodically. Please be aware that equipment working in the area. If your home was damaged or destroyed you can contact the Mendocino County Disaster Recovery at 707-234-6303 and/or American Red Cross at 707-262-7117 if you need assistance.</p>",
       "Counties": [
         "Mendocino"
       ],
@@ -803,7 +803,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Mendocino Unit ",
-      "Updated": "2021-09-17T19:08:56.08Z",
+      "Updated": "2021-09-18T08:13:03.207Z",
       "Started": "2021-09-12T14:15:09Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -4484,7 +4484,7 @@
       "PercentContainedDisplay": "96%",
       "ExternalIncidentLink": "",
       "CountiesList": "Mendocino",
-      "UpdatedDate": "2021-09-17 19:08:56",
+      "UpdatedDate": "2021-09-18 08:13:03",
       "StartedDate": "2021-09-12",
       "AdminUnit": "CAL FIRE Mendocino Unit ",
       "IncidentTypeDisplay": "Wildfire",
