@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 60,
       "ControlStatement": null,
-      "ConditionStatement": "<ul>\r\n<li>Continued threat to structures, powerlines and commercial timberland</li>\r\n<li>Communications infrastructure and sensitive wildlife habitat threatened</li>\r\n<li>Suppression repair is under way</li>\r\n<li>Evacuation warnings remain in place</li>\r\n<li>Repopulation plan implemented</li>\r\n<li>Demobilization has been initiated</li>\r\n</ul>",
+      "ConditionStatement": "<p>**All Evacuation Warnings have been lifted.**</p>\r\n<ul>\r\n<li>Continued threat to structures, powerlines and commercial timberland</li>\r\n<li>Communications infrastructure and sensitive wildlife habitat threatened</li>\r\n<li>Suppression repair is under way</li>\r\n<li>Evacuation warnings remain in place</li>\r\n<li>Repopulation plan implemented</li>\r\n<li>Demobilization has been initiated</li>\r\n</ul>",
       "Counties": [
         "Santa Cruz"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CZU",
-      "Updated": "2021-10-18T07:09:35.573Z",
+      "Updated": "2021-10-18T08:31:06.147Z",
       "Started": "2021-10-15T14:40:39Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -564,7 +564,7 @@
       "FuelType": null,
       "PercentContained": 60,
       "ControlStatement": null,
-      "ConditionStatement": "<ul>\r\n<li>Continued threat to structures, powerlines and commercial timberland</li>\r\n<li>Communications infrastructure and sensitive wildlife habitat threatened</li>\r\n<li>Suppression repair is under way</li>\r\n<li>Evacuation warnings remain in place</li>\r\n<li>Repopulation plan implemented</li>\r\n<li>Demobilization has been initiated</li>\r\n</ul>",
+      "ConditionStatement": "<p>**All Evacuation Warnings have been lifted.**</p>\r\n<ul>\r\n<li>Continued threat to structures, powerlines and commercial timberland</li>\r\n<li>Communications infrastructure and sensitive wildlife habitat threatened</li>\r\n<li>Suppression repair is under way</li>\r\n<li>Evacuation warnings remain in place</li>\r\n<li>Repopulation plan implemented</li>\r\n<li>Demobilization has been initiated</li>\r\n</ul>",
       "Counties": [
         "Santa Cruz"
       ],
@@ -572,7 +572,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CZU",
-      "Updated": "2021-10-18T07:09:35.573Z",
+      "Updated": "2021-10-18T08:31:06.147Z",
       "Started": "2021-10-15T14:40:39Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -4390,7 +4390,7 @@
       "PercentContainedDisplay": "60%",
       "ExternalIncidentLink": "",
       "CountiesList": "Santa Cruz",
-      "UpdatedDate": "2021-10-18 07:09:35",
+      "UpdatedDate": "2021-10-18 08:31:06",
       "StartedDate": "2021-10-15",
       "AdminUnit": "CZU",
       "IncidentTypeDisplay": "Wildfire",
