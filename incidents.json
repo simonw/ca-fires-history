@@ -457,8 +457,8 @@
     }
   ],
   "MatchedIncidentCount": 0,
-  "AllAcres": 580094,
-  "AllIncidentCount": 183,
+  "AllAcres": 580244,
+  "AllIncidentCount": 184,
   "AllFatalities": 1,
   "AllStructures": 3000,
   "ListIncidents": [
@@ -4211,6 +4211,24 @@
       "AdminUnit": "CZU",
       "IncidentTypeDisplay": "Wildfire",
       "Url": "https://www.fire.ca.gov/incidents/2021/10/15/estrada-fire/",
+      "IsActive": "N"
+    },
+    {
+      "IncidentId": 3181,
+      "UniqueId": "8e7dcc1b-718b-4388-9e20-bef4b9b94385",
+      "Name": "Hollow Fire",
+      "Location": "West Corral Hollow Rd and Site 300, 6 miles southwest of Tracy",
+      "Latitude": 37.62879,
+      "Longitude": -121.52692,
+      "AcresBurnedDisplay": "150",
+      "PercentContainedDisplay": "100%",
+      "ExternalIncidentLink": "",
+      "CountiesList": "San Joaquin",
+      "UpdatedDate": "2021-10-24 16:38:17",
+      "StartedDate": "2021-10-24",
+      "AdminUnit": null,
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2021/10/24/hollow-fire/",
       "IsActive": "N"
     }
   ]
