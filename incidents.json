@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": null,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>he Alisal Fire started on October 11, 2021 at 2:30pm near the Alisal Resevoir in Santa Barbara County.</p>",
       "Counties": [
         "Santa Barbara"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": "he Alisal Fire started on October 11, 2021 at 2:30pm near the Alisal Resevoir in Santa Barbara County.",
       "SearchKeywords": null,
       "AdminUnit": "Unified Command Santa Barbara County Fire and Los Padres National Forest",
-      "Updated": "2021-10-12T08:05:39.94Z",
+      "Updated": "2021-10-28T09:25:01.52Z",
       "Started": "2021-10-11T14:30:12Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -287,7 +287,7 @@
       "FuelType": null,
       "PercentContained": null,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>he Alisal Fire started on October 11, 2021 at 2:30pm near the Alisal Resevoir in Santa Barbara County.</p>",
       "Counties": [
         "Santa Barbara"
       ],
@@ -295,7 +295,7 @@
       "SearchDescription": "he Alisal Fire started on October 11, 2021 at 2:30pm near the Alisal Resevoir in Santa Barbara County.",
       "SearchKeywords": null,
       "AdminUnit": "Unified Command Santa Barbara County Fire and Los Padres National Forest",
-      "Updated": "2021-10-12T08:05:39.94Z",
+      "Updated": "2021-10-28T09:25:01.52Z",
       "Started": "2021-10-11T14:30:12Z",
       "Extinguished": null,
       "ArchiveYear": 2021,
@@ -3782,7 +3782,7 @@
       "PercentContainedDisplay": "",
       "ExternalIncidentLink": "https://inciweb.nwcg.gov/incident/7862/",
       "CountiesList": "Santa Barbara",
-      "UpdatedDate": "2021-10-12 08:05:39",
+      "UpdatedDate": "2021-10-28 09:25:01",
       "StartedDate": "2021-10-11",
       "AdminUnit": "Unified Command Santa Barbara County Fire and Los Padres National Forest",
       "IncidentTypeDisplay": "Wildfire",
