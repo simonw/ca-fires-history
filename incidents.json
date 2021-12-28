@@ -93,7 +93,7 @@
   ],
   "MatchedIncidentCount": 0,
   "AllAcres": 2146605,
-  "AllIncidentCount": 185,
+  "AllIncidentCount": 186,
   "AllFatalities": 1,
   "AllStructures": 3000,
   "ListIncidents": [
@@ -1933,6 +1933,24 @@
       "AdminUnit": "Bureau of Land Management - California",
       "IncidentTypeDisplay": "Wildfire",
       "Url": "https://www.fire.ca.gov/incidents/2021/6/30/r-1-fire/",
+      "IsActive": "N"
+    },
+    {
+      "IncidentId": 2972,
+      "UniqueId": "700200c7-a450-44f4-a447-244feb07925c",
+      "Name": "Sugar Fire",
+      "Location": "tate Highway 70 x Sugarloaf Peak, northeast of Beckworth",
+      "Latitude": 39.83203,
+      "Longitude": -120.3415,
+      "AcresBurnedDisplay": "",
+      "PercentContainedDisplay": "",
+      "ExternalIncidentLink": "",
+      "CountiesList": "Plumas",
+      "UpdatedDate": "2021-12-27 18:48:16",
+      "StartedDate": "2021-07-02",
+      "AdminUnit": "Plumas National Forest & CAL FIRE Lassen-Modoc Unit",
+      "IncidentTypeDisplay": "Fire",
+      "Url": "https://www.fire.ca.gov/incidents/2021/7/2/sugar-fire/",
       "IsActive": "N"
     },
     {
