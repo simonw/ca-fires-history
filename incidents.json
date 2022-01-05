@@ -2,46 +2,9 @@
   "Incidents": [],
   "MatchedIncidentCount": 0,
   "AllAcres": 0,
-  "AllIncidentCount": 2,
+  "AllIncidentCount": 0,
   "AllFatalities": 0,
   "AllStructures": 0,
   "ListIncidents": [],
-  "AllYearIncidents": [
-    {
-      "IncidentId": 3129,
-      "UniqueId": "48dcd1c3-e791-49d8-9435-1b358027b318",
-      "Name": "KNP Complex",
-      "Location": "Sequoia National Park",
-      "Latitude": 36.567,
-      "Longitude": -118.811,
-      "AcresBurnedDisplay": "",
-      "PercentContainedDisplay": "",
-      "ExternalIncidentLink": "https://inciweb.nwcg.gov/incident/7838/",
-      "CountiesList": "Tulare",
-      "UpdatedDate": "2022-01-05 10:45:33",
-      "StartedDate": "2021-09-10",
-      "AdminUnit": "Sequoia & Kings Canyon National Parks",
-      "IncidentTypeDisplay": "Wildfire",
-      "Url": "https://www.fire.ca.gov/incidents/2022/9/10/knp-complex/",
-      "IsActive": "N"
-    },
-    {
-      "IncidentId": 3210,
-      "UniqueId": "24117f47-d8e6-4f62-8077-d5bb6742eb9c",
-      "Name": "Arlanza Fire",
-      "Location": "Mitchell Ave and Valley Dr. ",
-      "Latitude": 33.952633,
-      "Longitude": -117.487947,
-      "AcresBurnedDisplay": "",
-      "PercentContainedDisplay": "",
-      "ExternalIncidentLink": "",
-      "CountiesList": "Riverside",
-      "UpdatedDate": "2022-01-05 10:45:22",
-      "StartedDate": "2021-11-21",
-      "AdminUnit": null,
-      "IncidentTypeDisplay": "Fire",
-      "Url": "https://www.fire.ca.gov/incidents/2022/11/21/arlanza-fire/",
-      "IsActive": "N"
-    }
-  ]
+  "AllYearIncidents": []
 }
