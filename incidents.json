@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 35,
       "ControlStatement": "Monterey County Sheriff’s Department initiated evacuations in the area of Palo Colorado Road to Highway 1. Highway 1 is closed from Garapata Creek to Pt. Sur Lighthouse.",
-      "ConditionStatement": "<p>The fire behavior was moderate and made wind-driven runs late Saturday night and into Sunday morning, with some isolated tree torching. Crews will continue building and improving containment lines and mopping up hotspots Sunday.</p>\r\n<p>•    Acreage reduced due to accurate mapping</p>",
+      "ConditionStatement": "<p>Winds continue to create challenges for crews along the fire perimeter.  Seasonable temperatures are expected much of this week and relative humidity values are forecast to increase Monday.  Firefighters continue to strengthen control lines and mop-up hot spots.</p>",
       "Counties": [
         "Monterey"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
-      "Updated": "2022-01-23T19:34:50.447Z",
+      "Updated": "2022-01-23T20:25:53.667Z",
       "Started": "2022-01-21T17:19:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -35,15 +35,15 @@
       "StructuresDamaged": 1,
       "StructuresThreatened": 225,
       "StructuresEvacuated": null,
-      "PersonnelInvolved": 188,
-      "CrewsInvolved": 6,
+      "PersonnelInvolved": 286,
+      "CrewsInvolved": 8,
       "Injuries": null,
       "Fatalities": null,
-      "Helicopters": 1,
-      "Engines": 16,
+      "Helicopters": 3,
+      "Engines": 22,
       "Dozers": 1,
-      "WaterTenders": 6,
-      "AirTankers": 3
+      "WaterTenders": 9,
+      "AirTankers": 0
     }
   ],
   "MatchedIncidentCount": 0,
@@ -62,7 +62,7 @@
       "FuelType": null,
       "PercentContained": 35,
       "ControlStatement": "Monterey County Sheriff’s Department initiated evacuations in the area of Palo Colorado Road to Highway 1. Highway 1 is closed from Garapata Creek to Pt. Sur Lighthouse.",
-      "ConditionStatement": "<p>The fire behavior was moderate and made wind-driven runs late Saturday night and into Sunday morning, with some isolated tree torching. Crews will continue building and improving containment lines and mopping up hotspots Sunday.</p>\r\n<p>•    Acreage reduced due to accurate mapping</p>",
+      "ConditionStatement": "<p>Winds continue to create challenges for crews along the fire perimeter.  Seasonable temperatures are expected much of this week and relative humidity values are forecast to increase Monday.  Firefighters continue to strengthen control lines and mop-up hot spots.</p>",
       "Counties": [
         "Monterey"
       ],
@@ -70,7 +70,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
-      "Updated": "2022-01-23T19:34:50.447Z",
+      "Updated": "2022-01-23T20:25:53.667Z",
       "Started": "2022-01-21T17:19:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -87,15 +87,15 @@
       "StructuresDamaged": 1,
       "StructuresThreatened": 225,
       "StructuresEvacuated": null,
-      "PersonnelInvolved": 188,
-      "CrewsInvolved": 6,
+      "PersonnelInvolved": 286,
+      "CrewsInvolved": 8,
       "Injuries": null,
       "Fatalities": null,
-      "Helicopters": 1,
-      "Engines": 16,
+      "Helicopters": 3,
+      "Engines": 22,
       "Dozers": 1,
-      "WaterTenders": 6,
-      "AirTankers": 3
+      "WaterTenders": 9,
+      "AirTankers": 0
     }
   ],
   "AllYearIncidents": [
@@ -110,7 +110,7 @@
       "PercentContainedDisplay": "35%",
       "ExternalIncidentLink": "",
       "CountiesList": "Monterey",
-      "UpdatedDate": "2022-01-23 19:34:50",
+      "UpdatedDate": "2022-01-23 20:25:53",
       "StartedDate": "2022-01-21",
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
       "IncidentTypeDisplay": "Wildfire",
