@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 45,
       "ControlStatement": "Monterey County Sheriff’s Department initiated evacuations in the area of Palo Colorado Road to Highway 1. Highway 1 is closed from Garapata Creek to Pt. Sur Lighthouse.",
-      "ConditionStatement": "<p>Fire behavior was moderate overnight. Onshore winds have increased along the Big Sur Coast. The onshore winds have increased humidity along the coast. Similar conditions are anticipated for Tuesday. Firefighters will continue strengthening control lines and mopping-up hot spots.</p>",
+      "ConditionStatement": "<p>Fire behavior was moderate overnight. Onshore winds have increased along the Big Sur Coast. The onshore winds have increased humidity along the coast. Similar conditions are anticipated for Tuesday. Firefighters will continue strengthening control lines and mopping-up hot spots.</p>\n\n<p><a href=\"https://www.fire.ca.gov/media/sqdbciby/cal-fire-investigators-determine-cause-of-colorado.pdf\">CAL FIRE Investigators Determine Cause of Colorado Fire</a></p>",
       "Counties": [
         "Monterey"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
-      "Updated": "2022-01-25T12:52:02.753Z",
+      "Updated": "2022-01-25T17:34:10.073Z",
       "Started": "2022-01-21T17:19:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -62,7 +62,7 @@
       "FuelType": null,
       "PercentContained": 45,
       "ControlStatement": "Monterey County Sheriff’s Department initiated evacuations in the area of Palo Colorado Road to Highway 1. Highway 1 is closed from Garapata Creek to Pt. Sur Lighthouse.",
-      "ConditionStatement": "<p>Fire behavior was moderate overnight. Onshore winds have increased along the Big Sur Coast. The onshore winds have increased humidity along the coast. Similar conditions are anticipated for Tuesday. Firefighters will continue strengthening control lines and mopping-up hot spots.</p>",
+      "ConditionStatement": "<p>Fire behavior was moderate overnight. Onshore winds have increased along the Big Sur Coast. The onshore winds have increased humidity along the coast. Similar conditions are anticipated for Tuesday. Firefighters will continue strengthening control lines and mopping-up hot spots.</p>\n\n<p><a href=\"https://www.fire.ca.gov/media/sqdbciby/cal-fire-investigators-determine-cause-of-colorado.pdf\">CAL FIRE Investigators Determine Cause of Colorado Fire</a></p>",
       "Counties": [
         "Monterey"
       ],
@@ -70,7 +70,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
-      "Updated": "2022-01-25T12:52:02.753Z",
+      "Updated": "2022-01-25T17:34:10.073Z",
       "Started": "2022-01-21T17:19:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -110,7 +110,7 @@
       "PercentContainedDisplay": "45%",
       "ExternalIncidentLink": "",
       "CountiesList": "Monterey",
-      "UpdatedDate": "2022-01-25 12:52:02",
+      "UpdatedDate": "2022-01-25 17:34:10",
       "StartedDate": "2022-01-21",
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
       "IncidentTypeDisplay": "Wildfire",
