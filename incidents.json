@@ -8,9 +8,9 @@
       "Longitude": -121.880533,
       "AcresBurned": 700,
       "FuelType": null,
-      "PercentContained": 60,
+      "PercentContained": 65,
       "ControlStatement": "Monterey County Sheriff’s Department initiated evacuations in the area of Palo Colorado Road to Highway 1. Highway 1 is closed from Garapata Creek to Pt. Sur Lighthouse.",
-      "ConditionStatement": "<p>Fire activity was minimal today, with lighter winds across the Colorado Fire. Crews continue strengthening control lines. Weather is expected to be favorable for mop-up conditions Thursday.</p>",
+      "ConditionStatement": "<p>The weather should be favorable for mop-up operations through Thursday afternoon. Humidity is expected to drop late Thursday and into Friday, with an<br />increase in winds. Firefighters continue to strengthen control lines and mop-up hot spots.</p>",
       "Counties": [
         "Monterey"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
-      "Updated": "2022-01-26T19:18:29.197Z",
+      "Updated": "2022-01-27T08:29:10.573Z",
       "Started": "2022-01-21T17:19:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -41,7 +41,7 @@
       "Fatalities": null,
       "Helicopters": 2,
       "Engines": 41,
-      "Dozers": 4,
+      "Dozers": null,
       "WaterTenders": 6,
       "AirTankers": 0
     }
@@ -60,9 +60,9 @@
       "Longitude": -121.880533,
       "AcresBurned": 700,
       "FuelType": null,
-      "PercentContained": 60,
+      "PercentContained": 65,
       "ControlStatement": "Monterey County Sheriff’s Department initiated evacuations in the area of Palo Colorado Road to Highway 1. Highway 1 is closed from Garapata Creek to Pt. Sur Lighthouse.",
-      "ConditionStatement": "<p>Fire activity was minimal today, with lighter winds across the Colorado Fire. Crews continue strengthening control lines. Weather is expected to be favorable for mop-up conditions Thursday.</p>",
+      "ConditionStatement": "<p>The weather should be favorable for mop-up operations through Thursday afternoon. Humidity is expected to drop late Thursday and into Friday, with an<br />increase in winds. Firefighters continue to strengthen control lines and mop-up hot spots.</p>",
       "Counties": [
         "Monterey"
       ],
@@ -70,7 +70,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
-      "Updated": "2022-01-26T19:18:29.197Z",
+      "Updated": "2022-01-27T08:29:10.573Z",
       "Started": "2022-01-21T17:19:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -93,7 +93,7 @@
       "Fatalities": null,
       "Helicopters": 2,
       "Engines": 41,
-      "Dozers": 4,
+      "Dozers": null,
       "WaterTenders": 6,
       "AirTankers": 0
     }
@@ -107,10 +107,10 @@
       "Latitude": 36.396461,
       "Longitude": -121.880533,
       "AcresBurnedDisplay": "700",
-      "PercentContainedDisplay": "60%",
+      "PercentContainedDisplay": "65%",
       "ExternalIncidentLink": "",
       "CountiesList": "Monterey",
-      "UpdatedDate": "2022-01-26 19:18:29",
+      "UpdatedDate": "2022-01-27 08:29:10",
       "StartedDate": "2022-01-21",
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
       "IncidentTypeDisplay": "Wildfire",
