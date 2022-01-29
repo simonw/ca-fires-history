@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 85,
       "ControlStatement": "Monterey County Sheriff’s Department initiated evacuations in the area of Palo Colorado Road to Highway 1. Highway 1 is closed from Garapata Creek to Pt. Sur Lighthouse.",
-      "ConditionStatement": "<p>Crews made progress on containment lines Friday, and continued to mop-up hot spots. Firefighters continue fire suppression repair. Damage inspection has been completed. Low humidity is expected to continue overnight.</p>",
+      "ConditionStatement": "<p>Unseasonably warm and dry weather conditions will prevail along the Big Sur coastline through the weekend with light offshore winds. Firefighters continue fire suppression repair. Damage inspection has been completed.</p>",
       "Counties": [
         "Monterey"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
-      "Updated": "2022-01-29T07:21:10.79Z",
+      "Updated": "2022-01-29T07:46:18.067Z",
       "Started": "2022-01-21T17:19:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -62,7 +62,7 @@
       "FuelType": null,
       "PercentContained": 85,
       "ControlStatement": "Monterey County Sheriff’s Department initiated evacuations in the area of Palo Colorado Road to Highway 1. Highway 1 is closed from Garapata Creek to Pt. Sur Lighthouse.",
-      "ConditionStatement": "<p>Crews made progress on containment lines Friday, and continued to mop-up hot spots. Firefighters continue fire suppression repair. Damage inspection has been completed. Low humidity is expected to continue overnight.</p>",
+      "ConditionStatement": "<p>Unseasonably warm and dry weather conditions will prevail along the Big Sur coastline through the weekend with light offshore winds. Firefighters continue fire suppression repair. Damage inspection has been completed.</p>",
       "Counties": [
         "Monterey"
       ],
@@ -70,7 +70,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
-      "Updated": "2022-01-29T07:21:10.79Z",
+      "Updated": "2022-01-29T07:46:18.067Z",
       "Started": "2022-01-21T17:19:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -110,7 +110,7 @@
       "PercentContainedDisplay": "85%",
       "ExternalIncidentLink": "",
       "CountiesList": "Monterey",
-      "UpdatedDate": "2022-01-29 07:21:10",
+      "UpdatedDate": "2022-01-29 07:46:18",
       "StartedDate": "2022-01-21",
       "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
       "IncidentTypeDisplay": "Wildfire",
