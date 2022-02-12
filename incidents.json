@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 60,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>Crew Continue with suppression reapir and mop up operations.</p>",
       "Counties": [
         "Orange"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Orange County Fire Authority ",
-      "Updated": "2022-02-11T18:46:58.303Z",
+      "Updated": "2022-02-12T07:45:49.857Z",
       "Started": "2022-02-10T04:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -62,7 +62,7 @@
       "FuelType": null,
       "PercentContained": 60,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>Crew Continue with suppression reapir and mop up operations.</p>",
       "Counties": [
         "Orange"
       ],
@@ -70,7 +70,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Orange County Fire Authority ",
-      "Updated": "2022-02-11T18:46:58.303Z",
+      "Updated": "2022-02-12T07:45:49.857Z",
       "Started": "2022-02-10T04:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -128,7 +128,7 @@
       "PercentContainedDisplay": "60%",
       "ExternalIncidentLink": "",
       "CountiesList": "Orange",
-      "UpdatedDate": "2022-02-11 18:46:58",
+      "UpdatedDate": "2022-02-12 07:45:49",
       "StartedDate": "2022-02-10",
       "AdminUnit": "Orange County Fire Authority ",
       "IncidentTypeDisplay": "Wildfire",
