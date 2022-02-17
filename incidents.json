@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "BDU",
-      "Updated": "2022-02-17T07:17:00.11Z",
+      "Updated": "2022-02-17T07:38:00.487Z",
       "Started": "2022-02-16T16:06:41Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -42,7 +42,7 @@
       "Helicopters": 1,
       "Engines": 66,
       "Dozers": 7,
-      "WaterTenders": 2,
+      "WaterTenders": 7,
       "AirTankers": null
     },
     {
@@ -115,7 +115,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "BDU",
-      "Updated": "2022-02-17T07:17:00.11Z",
+      "Updated": "2022-02-17T07:38:00.487Z",
       "Started": "2022-02-16T16:06:41Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -139,7 +139,7 @@
       "Helicopters": 1,
       "Engines": 66,
       "Dozers": 7,
-      "WaterTenders": 2,
+      "WaterTenders": 7,
       "AirTankers": null
     },
     {
@@ -236,7 +236,7 @@
       "PercentContainedDisplay": "0%",
       "ExternalIncidentLink": "",
       "CountiesList": "Inyo",
-      "UpdatedDate": "2022-02-17 07:17:00",
+      "UpdatedDate": "2022-02-17 07:38:00",
       "StartedDate": "2022-02-16",
       "AdminUnit": "BDU",
       "IncidentTypeDisplay": "Wildfire",
