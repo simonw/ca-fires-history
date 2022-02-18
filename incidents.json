@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 30,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Forward rate of progress has been stopped north of Hwy 168 and firefighters continue to construct containment lines and mop-up on the north end of the fire.</p>",
+      "ConditionStatement": "<p>Firefighters continued to make good progress throughout the night despite below freezing overnight temperatures. Containment line construction and mop-up efforts will remain the priority.</p>",
       "Counties": [
         "Inyo"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "BDU",
-      "Updated": "2022-02-18T07:36:02.98Z",
+      "Updated": "2022-02-18T07:53:04.453Z",
       "Started": "2022-02-16T16:06:41Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -35,14 +35,14 @@
       "StructuresDamaged": null,
       "StructuresThreatened": 150,
       "StructuresEvacuated": null,
-      "PersonnelInvolved": 690,
+      "PersonnelInvolved": 698,
       "CrewsInvolved": 16,
       "Injuries": null,
       "Fatalities": null,
       "Helicopters": 3,
       "Engines": 63,
       "Dozers": 7,
-      "WaterTenders": 7,
+      "WaterTenders": 8,
       "AirTankers": null
     },
     {
@@ -107,7 +107,7 @@
       "FuelType": null,
       "PercentContained": 30,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Forward rate of progress has been stopped north of Hwy 168 and firefighters continue to construct containment lines and mop-up on the north end of the fire.</p>",
+      "ConditionStatement": "<p>Firefighters continued to make good progress throughout the night despite below freezing overnight temperatures. Containment line construction and mop-up efforts will remain the priority.</p>",
       "Counties": [
         "Inyo"
       ],
@@ -115,7 +115,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "BDU",
-      "Updated": "2022-02-18T07:36:02.98Z",
+      "Updated": "2022-02-18T07:53:04.453Z",
       "Started": "2022-02-16T16:06:41Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -132,14 +132,14 @@
       "StructuresDamaged": null,
       "StructuresThreatened": 150,
       "StructuresEvacuated": null,
-      "PersonnelInvolved": 690,
+      "PersonnelInvolved": 698,
       "CrewsInvolved": 16,
       "Injuries": null,
       "Fatalities": null,
       "Helicopters": 3,
       "Engines": 63,
       "Dozers": 7,
-      "WaterTenders": 7,
+      "WaterTenders": 8,
       "AirTankers": null
     },
     {
@@ -236,7 +236,7 @@
       "PercentContainedDisplay": "30%",
       "ExternalIncidentLink": "",
       "CountiesList": "Inyo",
-      "UpdatedDate": "2022-02-18 07:36:02",
+      "UpdatedDate": "2022-02-18 07:53:04",
       "StartedDate": "2022-02-16",
       "AdminUnit": "BDU",
       "IncidentTypeDisplay": "Wildfire",
