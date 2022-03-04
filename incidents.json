@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 65,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<ul>\r\n<li>Fire is in remote location with difficult access</li>\r\n<li>Resources continue to strengthen control lines and mop-up</li>\r\n<li>Extensive mop-up in redwood timber</li>\r\n<li>Suppression repair is underway</li>\r\n</ul>",
       "Counties": [
         "Sonoma"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Sonoma Lake Napa Unit ",
-      "Updated": "2022-03-03T14:05:18.537Z",
+      "Updated": "2022-03-04T07:49:58.917Z",
       "Started": "2022-03-01T17:15:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -107,7 +107,7 @@
       "FuelType": null,
       "PercentContained": 65,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<ul>\r\n<li>Fire is in remote location with difficult access</li>\r\n<li>Resources continue to strengthen control lines and mop-up</li>\r\n<li>Extensive mop-up in redwood timber</li>\r\n<li>Suppression repair is underway</li>\r\n</ul>",
       "Counties": [
         "Sonoma"
       ],
@@ -115,7 +115,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Sonoma Lake Napa Unit ",
-      "Updated": "2022-03-03T14:05:18.537Z",
+      "Updated": "2022-03-04T07:49:58.917Z",
       "Started": "2022-03-01T17:15:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -272,7 +272,7 @@
       "PercentContainedDisplay": "65%",
       "ExternalIncidentLink": "",
       "CountiesList": "Sonoma",
-      "UpdatedDate": "2022-03-03 14:05:18",
+      "UpdatedDate": "2022-03-04 07:49:58",
       "StartedDate": "2022-03-01",
       "AdminUnit": "CAL FIRE Sonoma Lake Napa Unit ",
       "IncidentTypeDisplay": "Wildfire",
