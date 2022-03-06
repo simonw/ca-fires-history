@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 80,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Firefighters were able to make significant progress utilizing resources on the Flanagan Fire to complete hose line, hand line, and dozer line overnight. Today, crews will continue mop up and patrol, while strengthening control lines. Resources continue to strengthen control lines and mop-up.</p>",
+      "ConditionStatement": "<p><span>Weather conditions were favorable overnight due to an increase in humidity.  Firefighters will continue to mop up hot spots and strengthen control lines today. Please continue to drive slowly and yield to emergency personnel and equipment in the area. </span><span> </span></p>",
       "Counties": [
         "Shasta"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit ",
-      "Updated": "2022-03-06T09:05:08.94Z",
+      "Updated": "2022-03-06T12:08:23.803Z",
       "Started": "2022-03-04T10:31:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -152,7 +152,7 @@
       "FuelType": null,
       "PercentContained": 80,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Firefighters were able to make significant progress utilizing resources on the Flanagan Fire to complete hose line, hand line, and dozer line overnight. Today, crews will continue mop up and patrol, while strengthening control lines. Resources continue to strengthen control lines and mop-up.</p>",
+      "ConditionStatement": "<p><span>Weather conditions were favorable overnight due to an increase in humidity.  Firefighters will continue to mop up hot spots and strengthen control lines today. Please continue to drive slowly and yield to emergency personnel and equipment in the area. </span><span> </span></p>",
       "Counties": [
         "Shasta"
       ],
@@ -160,7 +160,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit ",
-      "Updated": "2022-03-06T09:05:08.94Z",
+      "Updated": "2022-03-06T12:08:23.803Z",
       "Started": "2022-03-04T10:31:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -380,7 +380,7 @@
       "PercentContainedDisplay": "80%",
       "ExternalIncidentLink": "",
       "CountiesList": "Shasta",
-      "UpdatedDate": "2022-03-06 09:05:08",
+      "UpdatedDate": "2022-03-06 12:08:23",
       "StartedDate": "2022-03-04",
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit ",
       "IncidentTypeDisplay": "Wildfire",
