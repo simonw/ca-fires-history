@@ -100,24 +100,6 @@
   ],
   "AllYearIncidents": [
     {
-      "IncidentId": 3231,
-      "UniqueId": "14a709fe-bd83-4ee2-8901-975aa4c44608",
-      "Name": "Moonlight RX",
-      "Location": "Antelope Lake, southwest of Janesville in Plumas County. ",
-      "Latitude": 40.18494,
-      "Longitude": -120.4849,
-      "AcresBurnedDisplay": "",
-      "PercentContainedDisplay": "",
-      "ExternalIncidentLink": "",
-      "CountiesList": "Plumas",
-      "UpdatedDate": "2022-04-09 18:31:25",
-      "StartedDate": "2022-04-09",
-      "AdminUnit": "Plumas National Forest",
-      "IncidentTypeDisplay": "Wildfire",
-      "Url": "https://www.fire.ca.gov/incidents/2022/4/9/moonlight-rx/",
-      "IsActive": "Y"
-    },
-    {
       "IncidentId": 3215,
       "UniqueId": "f3558310-247c-4913-a08b-68d568abdf4b",
       "Name": "Colorado Fire",
@@ -314,6 +296,24 @@
       "IncidentTypeDisplay": "Wildfire",
       "Url": "https://www.fire.ca.gov/incidents/2022/3/26/72-fire/",
       "IsActive": "N"
+    },
+    {
+      "IncidentId": 3231,
+      "UniqueId": "14a709fe-bd83-4ee2-8901-975aa4c44608",
+      "Name": "Moonlight RX",
+      "Location": "Antelope Lake, southwest of Janesville in Plumas County. ",
+      "Latitude": 40.18494,
+      "Longitude": -120.4849,
+      "AcresBurnedDisplay": "",
+      "PercentContainedDisplay": "",
+      "ExternalIncidentLink": "",
+      "CountiesList": "Plumas",
+      "UpdatedDate": "2022-04-09 18:31:25",
+      "StartedDate": "2022-04-09",
+      "AdminUnit": "Plumas National Forest",
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2022/4/9/moonlight-rx/",
+      "IsActive": "Y"
     }
   ]
 }
