@@ -460,24 +460,6 @@
       "IsActive": "N"
     },
     {
-      "IncidentId": 3245,
-      "UniqueId": "93c25ae3-115d-465b-8994-c15b1b81b466",
-      "Name": "Coyote Fire",
-      "Location": "Near Old Idyllwild Road, in Banning",
-      "Latitude": 33.886637,
-      "Longitude": -116.900635,
-      "AcresBurnedDisplay": "46",
-      "PercentContainedDisplay": "80%",
-      "ExternalIncidentLink": "",
-      "CountiesList": "Riverside",
-      "UpdatedDate": "2022-05-16 17:16:41",
-      "StartedDate": "2022-05-15",
-      "AdminUnit": "CAL FIRE RRU",
-      "IncidentTypeDisplay": "Fire",
-      "Url": "https://www.fire.ca.gov/incidents/2022/5/15/coyote-fire/",
-      "IsActive": "Y"
-    },
-    {
       "IncidentId": 3243,
       "UniqueId": "09a71f96-1215-4fc6-8b9a-da44930af8c4",
       "Name": "House Fire",
@@ -512,6 +494,24 @@
       "IncidentTypeDisplay": "Fire",
       "Url": "https://www.fire.ca.gov/incidents/2022/5/11/coastal-fire/",
       "IsActive": "N"
+    },
+    {
+      "IncidentId": 3245,
+      "UniqueId": "93c25ae3-115d-465b-8994-c15b1b81b466",
+      "Name": "Coyote Fire",
+      "Location": "Near Old Idyllwild Road, in Banning",
+      "Latitude": 33.886637,
+      "Longitude": -116.900635,
+      "AcresBurnedDisplay": "46",
+      "PercentContainedDisplay": "80%",
+      "ExternalIncidentLink": "",
+      "CountiesList": "Riverside",
+      "UpdatedDate": "2022-05-16 17:16:41",
+      "StartedDate": "2022-05-15",
+      "AdminUnit": "CAL FIRE RRU",
+      "IncidentTypeDisplay": "Fire",
+      "Url": "https://www.fire.ca.gov/incidents/2022/5/15/coyote-fire/",
+      "IsActive": "Y"
     },
     {
       "IncidentId": 3246,
