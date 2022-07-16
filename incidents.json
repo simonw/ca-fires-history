@@ -101,7 +101,7 @@
       "FuelType": null,
       "PercentContained": 85,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Firefighters worked throughout the night patrolling and building containment lines. They will continue mopping up hot spots and smoldering areas within oak groves and<br />strengthening containment lines today.</p>",
+      "ConditionStatement": "<p>Firefighters continue to work on mop up, strengthening control lines and fire suppresson repair to fencing and access roads.</p>",
       "Counties": [
         "Sacramento"
       ],
@@ -109,7 +109,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
-      "Updated": "2022-07-15T19:11:51.197Z",
+      "Updated": "2022-07-16T07:30:52.013Z",
       "Started": "2022-07-14T17:46:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -289,7 +289,7 @@
       "FuelType": null,
       "PercentContained": 85,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Firefighters worked throughout the night patrolling and building containment lines. They will continue mopping up hot spots and smoldering areas within oak groves and<br />strengthening containment lines today.</p>",
+      "ConditionStatement": "<p>Firefighters continue to work on mop up, strengthening control lines and fire suppresson repair to fencing and access roads.</p>",
       "Counties": [
         "Sacramento"
       ],
@@ -297,7 +297,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
-      "Updated": "2022-07-15T19:11:51.197Z",
+      "Updated": "2022-07-16T07:30:52.013Z",
       "Started": "2022-07-14T17:46:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -1732,7 +1732,7 @@
       "PercentContainedDisplay": "85%",
       "ExternalIncidentLink": "",
       "CountiesList": "Sacramento",
-      "UpdatedDate": "2022-07-15 19:11:51",
+      "UpdatedDate": "2022-07-16 07:30:52",
       "StartedDate": "2022-07-14",
       "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
       "IncidentTypeDisplay": "Wildfire",
