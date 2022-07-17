@@ -56,7 +56,7 @@
       "FuelType": null,
       "PercentContained": 90,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Firefighters have been gridding the steep terrain, mopping up and back hauling hose. Fire suppression repair is ongoing, and all road closures and evacuations have been lifted. </p>",
+      "ConditionStatement": "<p>Favorable conditions overnight allowed firefighters to continue progress enhancing containment lines and mopping up.</p>",
       "Counties": [
         "Shasta"
       ],
@@ -64,7 +64,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2022-07-17T06:48:21.05Z",
+      "Updated": "2022-07-17T08:33:12.23Z",
       "Started": "2022-07-14T16:56:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -77,8 +77,8 @@
       "Status": "Active",
       "CanonicalUrl": "/incidents/2022/7/14/peter-fire/",
       "ExternalIncidentLink": null,
-      "StructuresDestroyed": 12,
-      "StructuresDamaged": null,
+      "StructuresDestroyed": 16,
+      "StructuresDamaged": 6,
       "StructuresThreatened": null,
       "StructuresEvacuated": null,
       "PersonnelInvolved": 221,
@@ -87,7 +87,7 @@
       "Fatalities": null,
       "Helicopters": 1,
       "Engines": 20,
-      "Dozers": 1,
+      "Dozers": null,
       "WaterTenders": 8,
       "AirTankers": null
     },
@@ -186,7 +186,7 @@
   "AllAcres": 29348,
   "AllIncidentCount": 77,
   "AllFatalities": 0,
-  "AllStructures": 15,
+  "AllStructures": 25,
   "ListIncidents": [
     {
       "UniqueId": "9e30ecfb-a068-4935-a67b-bf52337f1dfd",
@@ -244,7 +244,7 @@
       "FuelType": null,
       "PercentContained": 90,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Firefighters have been gridding the steep terrain, mopping up and back hauling hose. Fire suppression repair is ongoing, and all road closures and evacuations have been lifted. </p>",
+      "ConditionStatement": "<p>Favorable conditions overnight allowed firefighters to continue progress enhancing containment lines and mopping up.</p>",
       "Counties": [
         "Shasta"
       ],
@@ -252,7 +252,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2022-07-17T06:48:21.05Z",
+      "Updated": "2022-07-17T08:33:12.23Z",
       "Started": "2022-07-14T16:56:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -265,8 +265,8 @@
       "Status": "Active",
       "CanonicalUrl": "/incidents/2022/7/14/peter-fire/",
       "ExternalIncidentLink": null,
-      "StructuresDestroyed": 12,
-      "StructuresDamaged": null,
+      "StructuresDestroyed": 16,
+      "StructuresDamaged": 6,
       "StructuresThreatened": null,
       "StructuresEvacuated": null,
       "PersonnelInvolved": 221,
@@ -275,7 +275,7 @@
       "Fatalities": null,
       "Helicopters": 1,
       "Engines": 20,
-      "Dozers": 1,
+      "Dozers": null,
       "WaterTenders": 8,
       "AirTankers": null
     },
@@ -1714,7 +1714,7 @@
       "PercentContainedDisplay": "90%",
       "ExternalIncidentLink": "",
       "CountiesList": "Shasta",
-      "UpdatedDate": "2022-07-17 06:48:21",
+      "UpdatedDate": "2022-07-17 08:33:12",
       "StartedDate": "2022-07-14",
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
       "IncidentTypeDisplay": "Wildfire",
