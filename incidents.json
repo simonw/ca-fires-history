@@ -232,11 +232,11 @@
       "Location": "Bell Springs Road at Southside of Blue Rock in Mendocino County",
       "Latitude": 39.90557,
       "Longitude": -123.598273,
-      "AcresBurned": 20,
+      "AcresBurned": 22,
       "FuelType": null,
-      "PercentContained": 0,
+      "PercentContained": 40,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>Fire in the grass/oak woodlands. The suppression resources at scene have stopped the forward progress of the fire.</p>",
       "Counties": [
         "Mendocino"
       ],
@@ -244,7 +244,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE MEU",
-      "Updated": "2022-07-17T19:00:41.83Z",
+      "Updated": "2022-07-17T19:42:12.753Z",
       "Started": "2022-07-17T16:36:27Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -269,7 +269,7 @@
       "Engines": 7,
       "Dozers": 2,
       "WaterTenders": 1,
-      "AirTankers": null
+      "AirTankers": 3
     },
     {
       "UniqueId": "776de6ba-3e3c-4388-b257-44e8c9231a95",
@@ -318,7 +318,7 @@
     }
   ],
   "MatchedIncidentCount": 0,
-  "AllAcres": 29502,
+  "AllAcres": 29504,
   "AllIncidentCount": 80,
   "AllFatalities": 0,
   "AllStructures": 25,
@@ -555,11 +555,11 @@
       "Location": "Bell Springs Road at Southside of Blue Rock in Mendocino County",
       "Latitude": 39.90557,
       "Longitude": -123.598273,
-      "AcresBurned": 20,
+      "AcresBurned": 22,
       "FuelType": null,
-      "PercentContained": 0,
+      "PercentContained": 40,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>Fire in the grass/oak woodlands. The suppression resources at scene have stopped the forward progress of the fire.</p>",
       "Counties": [
         "Mendocino"
       ],
@@ -567,7 +567,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE MEU",
-      "Updated": "2022-07-17T19:00:41.83Z",
+      "Updated": "2022-07-17T19:42:12.753Z",
       "Started": "2022-07-17T16:36:27Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -592,7 +592,7 @@
       "Engines": 7,
       "Dozers": 2,
       "WaterTenders": 1,
-      "AirTankers": null
+      "AirTankers": 3
     },
     {
       "UniqueId": "776de6ba-3e3c-4388-b257-44e8c9231a95",
@@ -2070,11 +2070,11 @@
       "Location": "Bell Springs Road at Southside of Blue Rock in Mendocino County",
       "Latitude": 39.90557,
       "Longitude": -123.598273,
-      "AcresBurnedDisplay": "20",
-      "PercentContainedDisplay": "0%",
+      "AcresBurnedDisplay": "22",
+      "PercentContainedDisplay": "40%",
       "ExternalIncidentLink": "",
       "CountiesList": "Mendocino",
-      "UpdatedDate": "2022-07-17 19:00:41",
+      "UpdatedDate": "2022-07-17 19:42:12",
       "StartedDate": "2022-07-17",
       "AdminUnit": "CAL FIRE MEU",
       "IncidentTypeDisplay": "Wildfire",
