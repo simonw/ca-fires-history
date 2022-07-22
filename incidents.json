@@ -101,7 +101,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>On July 21, 2022, two fires started in the area of the Aromas Granite Quarry. Forward progress was quickly stopped on the fire to the north. The second fire quickly spread through eucalyptus groves to the south. The fire spotted across Highway 129, but forward progress was stopped by helicopter water drops. Firefighters worked throughout the night, and more resources continued to arrive.</p>",
       "Counties": [
         "San Benito"
       ],
@@ -109,8 +109,8 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito-Monterey Unit ",
-      "Updated": "2022-07-21T21:16:22.11Z",
-      "Started": "2022-07-21T15:24:00Z",
+      "Updated": "2022-07-22T07:27:25.98Z",
+      "Started": "2022-07-21T15:21:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
       "Public": true,
@@ -424,7 +424,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>On July 21, 2022, two fires started in the area of the Aromas Granite Quarry. Forward progress was quickly stopped on the fire to the north. The second fire quickly spread through eucalyptus groves to the south. The fire spotted across Highway 129, but forward progress was stopped by helicopter water drops. Firefighters worked throughout the night, and more resources continued to arrive.</p>",
       "Counties": [
         "San Benito"
       ],
@@ -432,8 +432,8 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito-Monterey Unit ",
-      "Updated": "2022-07-21T21:16:22.11Z",
-      "Started": "2022-07-21T15:24:00Z",
+      "Updated": "2022-07-22T07:27:25.98Z",
+      "Started": "2022-07-21T15:21:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
       "Public": true,
@@ -2182,7 +2182,7 @@
       "PercentContainedDisplay": "0%",
       "ExternalIncidentLink": "",
       "CountiesList": "San Benito",
-      "UpdatedDate": "2022-07-21 21:16:22",
+      "UpdatedDate": "2022-07-22 07:27:25",
       "StartedDate": "2022-07-21",
       "AdminUnit": "CAL FIRE San Benito-Monterey Unit ",
       "IncidentTypeDisplay": "Wildfire",
