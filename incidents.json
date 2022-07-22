@@ -236,7 +236,7 @@
       "FuelType": null,
       "PercentContained": 95,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Overnight, firefighters worked on strengthening containment lines and mop-up. Over the next few days, units will continue to mop-up and patrol the fire area.</p>",
+      "ConditionStatement": "<p>Over the next few days, units will continue to mop-up and patrol the fire area.</p>",
       "Counties": [
         "Mendocino"
       ],
@@ -244,7 +244,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Mendocino Unit ",
-      "Updated": "2022-07-21T19:06:48.87Z",
+      "Updated": "2022-07-21T19:28:59.03Z",
       "Started": "2022-07-19T12:25:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -559,7 +559,7 @@
       "FuelType": null,
       "PercentContained": 95,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Overnight, firefighters worked on strengthening containment lines and mop-up. Over the next few days, units will continue to mop-up and patrol the fire area.</p>",
+      "ConditionStatement": "<p>Over the next few days, units will continue to mop-up and patrol the fire area.</p>",
       "Counties": [
         "Mendocino"
       ],
@@ -567,7 +567,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Mendocino Unit ",
-      "Updated": "2022-07-21T19:06:48.87Z",
+      "Updated": "2022-07-21T19:28:59.03Z",
       "Started": "2022-07-19T12:25:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -2128,7 +2128,7 @@
       "PercentContainedDisplay": "95%",
       "ExternalIncidentLink": "",
       "CountiesList": "Mendocino",
-      "UpdatedDate": "2022-07-21 19:06:48",
+      "UpdatedDate": "2022-07-21 19:28:59",
       "StartedDate": "2022-07-19",
       "AdminUnit": "CAL FIRE Mendocino Unit ",
       "IncidentTypeDisplay": "Wildfire",
