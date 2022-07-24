@@ -101,7 +101,7 @@
       "FuelType": null,
       "PercentContained": 70,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Fog rolled in over the Anzar Fire late Saturday afternoon, which helped with fire suppression. With cooperation from PG&amp;E and Graniterock , crews continue to remove hazard trees to allow for repopulation. Firefighters continue to strengthen control lines and mop-up hot spots.</p>",
+      "ConditionStatement": "<p><strong>CAL FIRE NEWS RELEASE</strong></p>\r\n<p><strong>CONTACT: </strong>Cecile Juliette Information Officer (650) 477-0379</p>\r\n<p><strong>RELEASE DATE:</strong> July 24, 2022</p>\r\n<p><strong>San Benito &amp; Monterey Unit:</strong></p>\r\n<p><span style=\"text-decoration: underline;\"><strong>CAL FIRE BEU Lifts All Anzar Fire Evacuation Orders and Warnings</strong></span></p>\r\n<p><br />San Benito County – All remaining Anzar Fire Evacuation Orders and Warnings are lifted.</p>\r\n<p><br />Residents should remain vigilant in the burn area. Fire and utility personnel are still working in the area. Please drive with extreme caution.</p>\r\n<p>Burned trees present a danger to the public. Burned trees can fall with little to no warning. Burning stumps create ash pits, which can easily collapse. Always stay on trails when walking in a burn area.</p>\r\n<p> </p>\r\n<p><span style=\"text-decoration: underline;\"><strong>Incident Update: 7/24/22 AM </strong></span></p>\r\n<p>Fog rolled in over the Anzar Fire late Saturday afternoon, which helped with fire suppression. With cooperation from PG&amp;E and Graniterock , crews continue to remove hazard trees to allow for repopulation. Firefighters continue to strengthen control lines and mop-up hot spots.</p>",
       "Counties": [
         "San Benito"
       ],
@@ -109,7 +109,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito-Monterey Unit ",
-      "Updated": "2022-07-24T08:37:38.02Z",
+      "Updated": "2022-07-24T13:56:30.587Z",
       "Started": "2022-07-21T15:21:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -334,7 +334,7 @@
       "FuelType": null,
       "PercentContained": 70,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Fog rolled in over the Anzar Fire late Saturday afternoon, which helped with fire suppression. With cooperation from PG&amp;E and Graniterock , crews continue to remove hazard trees to allow for repopulation. Firefighters continue to strengthen control lines and mop-up hot spots.</p>",
+      "ConditionStatement": "<p><strong>CAL FIRE NEWS RELEASE</strong></p>\r\n<p><strong>CONTACT: </strong>Cecile Juliette Information Officer (650) 477-0379</p>\r\n<p><strong>RELEASE DATE:</strong> July 24, 2022</p>\r\n<p><strong>San Benito &amp; Monterey Unit:</strong></p>\r\n<p><span style=\"text-decoration: underline;\"><strong>CAL FIRE BEU Lifts All Anzar Fire Evacuation Orders and Warnings</strong></span></p>\r\n<p><br />San Benito County – All remaining Anzar Fire Evacuation Orders and Warnings are lifted.</p>\r\n<p><br />Residents should remain vigilant in the burn area. Fire and utility personnel are still working in the area. Please drive with extreme caution.</p>\r\n<p>Burned trees present a danger to the public. Burned trees can fall with little to no warning. Burning stumps create ash pits, which can easily collapse. Always stay on trails when walking in a burn area.</p>\r\n<p> </p>\r\n<p><span style=\"text-decoration: underline;\"><strong>Incident Update: 7/24/22 AM </strong></span></p>\r\n<p>Fog rolled in over the Anzar Fire late Saturday afternoon, which helped with fire suppression. With cooperation from PG&amp;E and Graniterock , crews continue to remove hazard trees to allow for repopulation. Firefighters continue to strengthen control lines and mop-up hot spots.</p>",
       "Counties": [
         "San Benito"
       ],
@@ -342,7 +342,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE San Benito-Monterey Unit ",
-      "Updated": "2022-07-24T08:37:38.02Z",
+      "Updated": "2022-07-24T13:56:30.587Z",
       "Started": "2022-07-21T15:21:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -2002,7 +2002,7 @@
       "PercentContainedDisplay": "70%",
       "ExternalIncidentLink": "",
       "CountiesList": "San Benito",
-      "UpdatedDate": "2022-07-24 08:37:38",
+      "UpdatedDate": "2022-07-24 13:56:30",
       "StartedDate": "2022-07-21",
       "AdminUnit": "CAL FIRE San Benito-Monterey Unit ",
       "IncidentTypeDisplay": "Wildfire",
