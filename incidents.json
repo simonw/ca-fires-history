@@ -415,7 +415,7 @@
       "FuelType": null,
       "PercentContained": null,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>Campbell Fire is now a part of 2022 SRF Lightning Complex Fire.</p>\r\n<p><a href=\"https://www.fire.ca.gov/incidents/2022/8/5/2022-srf-lightning-complex-fire/\">https://www.fire.ca.gov/incidents/2022/8/5/2022-srf-lightning-complex-fire/</a></p>",
       "Counties": [
         "Trinity"
       ],
@@ -423,7 +423,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Six Rivers National Forest",
-      "Updated": "2022-08-05T22:29:12.28Z",
+      "Updated": "2022-08-05T22:31:23.273Z",
       "Started": "2022-08-05T03:39:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -872,7 +872,7 @@
       "FuelType": null,
       "PercentContained": null,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p>Campbell Fire is now a part of 2022 SRF Lightning Complex Fire.</p>\r\n<p><a href=\"https://www.fire.ca.gov/incidents/2022/8/5/2022-srf-lightning-complex-fire/\">https://www.fire.ca.gov/incidents/2022/8/5/2022-srf-lightning-complex-fire/</a></p>",
       "Counties": [
         "Trinity"
       ],
@@ -880,7 +880,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Six Rivers National Forest",
-      "Updated": "2022-08-05T22:29:12.28Z",
+      "Updated": "2022-08-05T22:31:23.273Z",
       "Started": "2022-08-05T03:39:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -2720,7 +2720,7 @@
       "PercentContainedDisplay": "",
       "ExternalIncidentLink": "https://www.facebook.com/SixRiversNF/",
       "CountiesList": "Trinity",
-      "UpdatedDate": "2022-08-05 22:29:12",
+      "UpdatedDate": "2022-08-05 22:31:23",
       "StartedDate": "2022-08-05",
       "AdminUnit": "Six Rivers National Forest",
       "IncidentTypeDisplay": "Wildfire",
