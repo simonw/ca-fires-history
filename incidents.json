@@ -192,13 +192,14 @@
       "ControlStatement": null,
       "ConditionStatement": "<p>2022 SRF Lightning Complex Fire is comprised of 12 fires, including:</p>\r\n<ul>\r\n<li>Bremer Fire</li>\r\n<li>Bravo Fire </li>\r\n<li>Campbell Fire</li>\r\n<li>Cedar Fire</li>\r\n<li>Oak Fire</li>\r\n<li>Waterman Fire</li>\r\n</ul>",
       "Counties": [
-        "Siskiyou"
+        "Humboldt",
+        "Trinity"
       ],
-      "CountyIds": "47",
+      "CountyIds": "12,53",
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Six Rivers National Forest",
-      "Updated": "2022-08-06T07:05:26.597Z",
+      "Updated": "2022-08-06T10:14:48.873Z",
       "Started": "2022-08-05T21:44:29Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -604,13 +605,14 @@
       "ControlStatement": null,
       "ConditionStatement": "<p>2022 SRF Lightning Complex Fire is comprised of 12 fires, including:</p>\r\n<ul>\r\n<li>Bremer Fire</li>\r\n<li>Bravo Fire </li>\r\n<li>Campbell Fire</li>\r\n<li>Cedar Fire</li>\r\n<li>Oak Fire</li>\r\n<li>Waterman Fire</li>\r\n</ul>",
       "Counties": [
-        "Siskiyou"
+        "Humboldt",
+        "Trinity"
       ],
-      "CountyIds": "47",
+      "CountyIds": "12,53",
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Six Rivers National Forest",
-      "Updated": "2022-08-06T07:05:26.597Z",
+      "Updated": "2022-08-06T10:14:48.873Z",
       "Started": "2022-08-05T21:44:29Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -2647,8 +2649,8 @@
       "AcresBurnedDisplay": "",
       "PercentContainedDisplay": "",
       "ExternalIncidentLink": "https://www.facebook.com/SixRiversNF/",
-      "CountiesList": "Siskiyou",
-      "UpdatedDate": "2022-08-06 07:05:26",
+      "CountiesList": "Humboldt, Trinity",
+      "UpdatedDate": "2022-08-06 10:14:48",
       "StartedDate": "2022-08-05",
       "AdminUnit": "Six Rivers National Forest",
       "IncidentTypeDisplay": "Wildfire",
