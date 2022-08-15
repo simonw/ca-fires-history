@@ -328,14 +328,14 @@
       "ControlStatement": null,
       "ConditionStatement": "",
       "Counties": [
-        "Alameda",
-        "Mariposa"
+        "Mariposa",
+        "Amador"
       ],
-      "CountyIds": "1,22",
+      "CountyIds": "22,3",
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Sierra National Forest",
-      "Updated": "2022-08-11T15:12:54.567Z",
+      "Updated": "2022-08-15T15:05:43.673Z",
       "Started": "2022-07-22T14:10:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -697,14 +697,14 @@
       "ControlStatement": null,
       "ConditionStatement": "",
       "Counties": [
-        "Alameda",
-        "Mariposa"
+        "Mariposa",
+        "Amador"
       ],
-      "CountyIds": "1,22",
+      "CountyIds": "22,3",
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Sierra National Forest",
-      "Updated": "2022-08-11T15:12:54.567Z",
+      "Updated": "2022-08-15T15:05:43.673Z",
       "Started": "2022-07-22T14:10:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -2291,8 +2291,8 @@
       "AcresBurnedDisplay": "19,244",
       "PercentContainedDisplay": "98%",
       "ExternalIncidentLink": "",
-      "CountiesList": "Alameda, Mariposa",
-      "UpdatedDate": "2022-08-11 15:12:54",
+      "CountiesList": "Mariposa, Amador",
+      "UpdatedDate": "2022-08-15 15:05:43",
       "StartedDate": "2022-07-22",
       "AdminUnit": "Sierra National Forest",
       "IncidentTypeDisplay": "Wildfire",
