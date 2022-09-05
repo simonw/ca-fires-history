@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 10,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "",
       "Counties": [
         "Siskiyou"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-04T18:19:10.983Z",
+      "Updated": "2022-09-04T19:48:01.103Z",
       "Started": "2022-09-02T18:01:44Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -145,7 +145,7 @@
       "FuelType": null,
       "PercentContained": 40,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "",
       "Counties": [
         "Siskiyou"
       ],
@@ -153,7 +153,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou Unit ",
-      "Updated": "2022-09-04T18:21:40.277Z",
+      "Updated": "2022-09-04T19:47:17.533Z",
       "Started": "2022-09-02T12:49:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -558,7 +558,7 @@
       "FuelType": null,
       "PercentContained": 10,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "",
       "Counties": [
         "Siskiyou"
       ],
@@ -566,7 +566,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-04T18:19:10.983Z",
+      "Updated": "2022-09-04T19:48:01.103Z",
       "Started": "2022-09-02T18:01:44Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -693,7 +693,7 @@
       "FuelType": null,
       "PercentContained": 40,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "",
       "Counties": [
         "Siskiyou"
       ],
@@ -701,7 +701,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou Unit ",
-      "Updated": "2022-09-04T18:21:40.277Z",
+      "Updated": "2022-09-04T19:47:17.533Z",
       "Started": "2022-09-02T12:49:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3334,7 +3334,7 @@
       "PercentContainedDisplay": "40%",
       "ExternalIncidentLink": "",
       "CountiesList": "Siskiyou",
-      "UpdatedDate": "2022-09-04 18:21:40",
+      "UpdatedDate": "2022-09-04 19:47:17",
       "StartedDate": "2022-09-02",
       "AdminUnit": "CAL FIRE Siskiyou Unit ",
       "IncidentTypeDisplay": "Wildfire",
@@ -3370,7 +3370,7 @@
       "PercentContainedDisplay": "10%",
       "ExternalIncidentLink": "",
       "CountiesList": "Siskiyou",
-      "UpdatedDate": "2022-09-04 18:19:10",
+      "UpdatedDate": "2022-09-04 19:48:01",
       "StartedDate": "2022-09-02",
       "AdminUnit": "CAL FIRE Siskiyou",
       "IncidentTypeDisplay": "Wildfire",
