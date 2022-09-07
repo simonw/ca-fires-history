@@ -55,7 +55,7 @@
       "FuelType": null,
       "PercentContained": 5,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p><strong>Fairview Fire Community Meeting Annoucment </strong></p>\r\n<p><strong>WHAT: </strong>Community Meeting Announcement Fire and Law Enforcement officials will provide an update on fire condition.<strong><br />WHEN: </strong>September 7, 2022 6:00 PM<strong><br />WHERE: </strong>Garner Valley Fire Station #53 59200 Morris Ranch Rd, Mountain Center, CA 92561<strong><br />NOTES: </strong>The meeting will be standing room only and will be non-air conditioned.<br />Members of the public are welcome to bring seating if so desired.</p>",
       "Counties": [
         "Riverside"
       ],
@@ -63,7 +63,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: CAL FIRE Riverside Unit & Hemet Fire Department ",
-      "Updated": "2022-09-07T12:53:52.783Z",
+      "Updated": "2022-09-07T14:49:10.663Z",
       "Started": "2022-09-05T16:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -604,7 +604,7 @@
       "FuelType": null,
       "PercentContained": 5,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "<p><strong>Fairview Fire Community Meeting Annoucment </strong></p>\r\n<p><strong>WHAT: </strong>Community Meeting Announcement Fire and Law Enforcement officials will provide an update on fire condition.<strong><br />WHEN: </strong>September 7, 2022 6:00 PM<strong><br />WHERE: </strong>Garner Valley Fire Station #53 59200 Morris Ranch Rd, Mountain Center, CA 92561<strong><br />NOTES: </strong>The meeting will be standing room only and will be non-air conditioned.<br />Members of the public are welcome to bring seating if so desired.</p>",
       "Counties": [
         "Riverside"
       ],
@@ -612,7 +612,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: CAL FIRE Riverside Unit & Hemet Fire Department ",
-      "Updated": "2022-09-07T12:53:52.783Z",
+      "Updated": "2022-09-07T14:49:10.663Z",
       "Started": "2022-09-05T16:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3426,7 +3426,7 @@
       "PercentContainedDisplay": "5%",
       "ExternalIncidentLink": "https://www.rvcfire.org/incidents/fact-sheets/FairviewFIRE",
       "CountiesList": "Riverside",
-      "UpdatedDate": "2022-09-07 12:53:52",
+      "UpdatedDate": "2022-09-07 14:49:10",
       "StartedDate": "2022-09-05",
       "AdminUnit": "Unified Command: CAL FIRE Riverside Unit & Hemet Fire Department ",
       "IncidentTypeDisplay": "Wildfire",
