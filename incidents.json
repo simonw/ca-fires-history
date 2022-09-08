@@ -55,7 +55,7 @@
       "FuelType": null,
       "PercentContained": 45,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Fire behavior was moderate with smoldering and creeping activity, with occasional small flare ups within control lines. Warm temperatures and critically dry fuels with gusty winds continue to be a concern with the dry thunderstorms in and around the fire area. Todays Red Flag Warning is in effect until 9 PM this evening, with a Red Flag Warning issued from 11 AM Tomorrow through the evening hours. Damage Assessment is nearing completion, inspection teams are still validating data.</p>",
+      "ConditionStatement": "<p>Minimal fire activity was observed overnight however, isolated areas of heat<br />continue to be mopped-up within the established fire perimeter. Critically dry fuels<br />and warm temperatures continue to persist with wind gusts up to 25 MPH. Damage<br />Assessment is nearing completion, inspection teams are still validating data.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -63,7 +63,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-07T19:32:33.403Z",
+      "Updated": "2022-09-08T07:44:04.06Z",
       "Started": "2022-09-02T15:48:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -739,7 +739,7 @@
       "FuelType": null,
       "PercentContained": 45,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Fire behavior was moderate with smoldering and creeping activity, with occasional small flare ups within control lines. Warm temperatures and critically dry fuels with gusty winds continue to be a concern with the dry thunderstorms in and around the fire area. Todays Red Flag Warning is in effect until 9 PM this evening, with a Red Flag Warning issued from 11 AM Tomorrow through the evening hours. Damage Assessment is nearing completion, inspection teams are still validating data.</p>",
+      "ConditionStatement": "<p>Minimal fire activity was observed overnight however, isolated areas of heat<br />continue to be mopped-up within the established fire perimeter. Critically dry fuels<br />and warm temperatures continue to persist with wind gusts up to 25 MPH. Damage<br />Assessment is nearing completion, inspection teams are still validating data.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -747,7 +747,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-07T19:32:33.403Z",
+      "Updated": "2022-09-08T07:44:04.06Z",
       "Started": "2022-09-02T15:48:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3642,7 +3642,7 @@
       "PercentContainedDisplay": "45%",
       "ExternalIncidentLink": "",
       "CountiesList": "Siskiyou",
-      "UpdatedDate": "2022-09-07 19:32:33",
+      "UpdatedDate": "2022-09-08 07:44:04",
       "StartedDate": "2022-09-02",
       "AdminUnit": "CAL FIRE Siskiyou",
       "IncidentTypeDisplay": "Wildfire",
