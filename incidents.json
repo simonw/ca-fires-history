@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 5,
       "ControlStatement": null,
-      "ConditionStatement": "<div class=\"\" data-block=\"true\" data-editor=\"4td2n\" data-offset-key=\"fduu2-0-0\">\r\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"fduu2-0-0\">Active fire behavior occurred in the east, south, and north portions of the incident. East winds at sundown pushed the fire to the west. As the winds subsided, the eastern portions of the incident continued to spread due to the complex terrain. Fire will become active with primary movement to the east due to the west winds. Steep drainages will aid the spread with the up canyon/up slope winds and heavy fuels.</div>\r\n</div>",
+      "ConditionStatement": "<div class=\"\" data-block=\"true\" data-editor=\"4td2n\" data-offset-key=\"fduu2-0-0\">\r\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"fduu2-0-0\"><strong>**FAIRVIEW FIRE COMMUNITY MEETING ANNOUNCEMENT**</strong><br /><strong>WHAT:</strong> Community Meeting Announcement Fire and Law Enforcement officials will provide an update on fire condition.<br /><strong>WHEN:</strong> September 8, 2022, 6:00 PM<br /><strong>WHERE:</strong> Riverside County Fire Dept Station 96 37700 Glen Oaks Rd, Temecula, CA 92592<br /><strong>NOTES:</strong> The meeting will be standing room only and will be non-air conditioned.<br />Members of the public are welcome to bring seating if so desired.</div>\r\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"fduu2-0-0\">Active fire behavior occurred in the east, south, and north portions of the incident. East winds at sundown pushed the fire to the west. As the winds subsided, the eastern portions of the incident continued to spread due to the complex terrain. Fire will become active with primary movement to the east due to the west winds. Steep drainages will aid the spread with the up canyon/up slope winds and heavy fuels.</div>\r\n</div>",
       "Counties": [
         "Riverside"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: CAL FIRE Riverside Unit & Hemet Fire Department ",
-      "Updated": "2022-09-08T12:26:07.94Z",
+      "Updated": "2022-09-08T13:09:34.853Z",
       "Started": "2022-09-05T16:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -739,7 +739,7 @@
       "FuelType": null,
       "PercentContained": 5,
       "ControlStatement": null,
-      "ConditionStatement": "<div class=\"\" data-block=\"true\" data-editor=\"4td2n\" data-offset-key=\"fduu2-0-0\">\r\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"fduu2-0-0\">Active fire behavior occurred in the east, south, and north portions of the incident. East winds at sundown pushed the fire to the west. As the winds subsided, the eastern portions of the incident continued to spread due to the complex terrain. Fire will become active with primary movement to the east due to the west winds. Steep drainages will aid the spread with the up canyon/up slope winds and heavy fuels.</div>\r\n</div>",
+      "ConditionStatement": "<div class=\"\" data-block=\"true\" data-editor=\"4td2n\" data-offset-key=\"fduu2-0-0\">\r\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"fduu2-0-0\"><strong>**FAIRVIEW FIRE COMMUNITY MEETING ANNOUNCEMENT**</strong><br /><strong>WHAT:</strong> Community Meeting Announcement Fire and Law Enforcement officials will provide an update on fire condition.<br /><strong>WHEN:</strong> September 8, 2022, 6:00 PM<br /><strong>WHERE:</strong> Riverside County Fire Dept Station 96 37700 Glen Oaks Rd, Temecula, CA 92592<br /><strong>NOTES:</strong> The meeting will be standing room only and will be non-air conditioned.<br />Members of the public are welcome to bring seating if so desired.</div>\r\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"fduu2-0-0\">Active fire behavior occurred in the east, south, and north portions of the incident. East winds at sundown pushed the fire to the west. As the winds subsided, the eastern portions of the incident continued to spread due to the complex terrain. Fire will become active with primary movement to the east due to the west winds. Steep drainages will aid the spread with the up canyon/up slope winds and heavy fuels.</div>\r\n</div>",
       "Counties": [
         "Riverside"
       ],
@@ -747,7 +747,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "Unified Command: CAL FIRE Riverside Unit & Hemet Fire Department ",
-      "Updated": "2022-09-08T12:26:07.94Z",
+      "Updated": "2022-09-08T13:09:34.853Z",
       "Started": "2022-09-05T16:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3786,7 +3786,7 @@
       "PercentContainedDisplay": "5%",
       "ExternalIncidentLink": "https://www.rvcfire.org/incidents/fact-sheets/FairviewFIRE",
       "CountiesList": "Riverside",
-      "UpdatedDate": "2022-09-08 12:26:07",
+      "UpdatedDate": "2022-09-08 13:09:34",
       "StartedDate": "2022-09-05",
       "AdminUnit": "Unified Command: CAL FIRE Riverside Unit & Hemet Fire Department ",
       "IncidentTypeDisplay": "Wildfire",
