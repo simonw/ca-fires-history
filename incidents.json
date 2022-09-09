@@ -191,7 +191,7 @@
       "FuelType": null,
       "PercentContained": 20,
       "ControlStatement": null,
-      "ConditionStatement": "<p>The Fork fire remained active throughout the day with uphill runs, isolated torching and short range spotting. Vegetation is extremely receptive to embers and fuel moisture remains historically low. Firefighters continue to construct and reinforce control lines and defend structures. Steep rugged terrain is hampering suppression efforts. A damage assessment team has been activated.</p>\r\n<p>Interactive Map – <a href=\"https://community.zonehaven.com\">https://community.zonehaven.com</a></p>\r\n<p><strong>Please sign up for emergency alert notifications.</strong><br />Madera County – MCAlert.org or text your zip code to 888777</p>",
+      "ConditionStatement": "<p>The Fork fire did not exhibit much fire growth overnight. Firefighters continue to aggressively construct and reinforce control lines. Mop up operations have begun. Hot and dry weather conditions are still a concern. A damage assessment team has been activated and will be confirming damaged and/or destroyed structures.</p>\r\n<p>Interactive Map – <a href=\"https://community.zonehaven.com\">https://community.zonehaven.com</a></p>\r\n<p><strong>Please sign up for emergency alert notifications.</strong><br />Madera County – MCAlert.org or text your zip code to 888777</p>",
       "Counties": [
         "Madera"
       ],
@@ -199,7 +199,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CALFIRE Madera-Mariposa-Merced Unit ",
-      "Updated": "2022-09-08T19:42:42.15Z",
+      "Updated": "2022-09-09T06:52:11.87Z",
       "Started": "2022-09-07T15:30:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -965,7 +965,7 @@
       "FuelType": null,
       "PercentContained": 20,
       "ControlStatement": null,
-      "ConditionStatement": "<p>The Fork fire remained active throughout the day with uphill runs, isolated torching and short range spotting. Vegetation is extremely receptive to embers and fuel moisture remains historically low. Firefighters continue to construct and reinforce control lines and defend structures. Steep rugged terrain is hampering suppression efforts. A damage assessment team has been activated.</p>\r\n<p>Interactive Map – <a href=\"https://community.zonehaven.com\">https://community.zonehaven.com</a></p>\r\n<p><strong>Please sign up for emergency alert notifications.</strong><br />Madera County – MCAlert.org or text your zip code to 888777</p>",
+      "ConditionStatement": "<p>The Fork fire did not exhibit much fire growth overnight. Firefighters continue to aggressively construct and reinforce control lines. Mop up operations have begun. Hot and dry weather conditions are still a concern. A damage assessment team has been activated and will be confirming damaged and/or destroyed structures.</p>\r\n<p>Interactive Map – <a href=\"https://community.zonehaven.com\">https://community.zonehaven.com</a></p>\r\n<p><strong>Please sign up for emergency alert notifications.</strong><br />Madera County – MCAlert.org or text your zip code to 888777</p>",
       "Counties": [
         "Madera"
       ],
@@ -973,7 +973,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CALFIRE Madera-Mariposa-Merced Unit ",
-      "Updated": "2022-09-08T19:42:42.15Z",
+      "Updated": "2022-09-09T06:52:11.87Z",
       "Started": "2022-09-07T15:30:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3984,7 +3984,7 @@
       "PercentContainedDisplay": "20%",
       "ExternalIncidentLink": "",
       "CountiesList": "Madera",
-      "UpdatedDate": "2022-09-08 19:42:42",
+      "UpdatedDate": "2022-09-09 06:52:11",
       "StartedDate": "2022-09-07",
       "AdminUnit": "CALFIRE Madera-Mariposa-Merced Unit ",
       "IncidentTypeDisplay": "Wildfire",
