@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": "<p>The fire spread significantly overnight due to extreme fire behavior and heavy smoke limited visibility. The fire made uphill runs with short-range spotting. Weather will be minimal winds and 21% relative humidity.</p>\r\n<p><br />This extreme fire behavior caused evacuation orders and evacuation warnings issued by the El Dorado County Sheriff’s Office for the communities of Volcanoville, Georgetown, Bottle Hill, Stumpy Meadows, Slate Mountain, and Cool. Placer County Sheriff’s Office also issued evacuation orders and evacuation warnings for the communities of Michigan Bluff, Baker Ranch, Crystal View Road &amp; Bath Road, Foresthill, Todd Valley, Sky View Spring Garden, and Yankee Jims.<br />There are approximately 1,700 personnel assigned to the incident. The priority for firefighting personnel is to provide life safety and structure protection for the community. Additionally, the construction of direct and indirect containment lines utilizing handcrews and bulldozers is a significant objective.</p>\r\n<p><br />The Unified Commanders of the Mosquito Fire thank the community for their support and cooperation in adhering to evacuation orders and warnings, and remind those who are in an area when an evacuation order is implemented that it is time to leave. The decision to evacuate a community is done with the understanding of the inconvenience it places on those who live and work in a community, but also with the priority of life safety. Be Ready, Set, Go! and visit <a href=\"http://www.readyforwildfire.org\">www.readyforwildfire.org</a></p>\r\n<p> </p>",
+      "ConditionStatement": "<p>Yesterday resources were able to construct dozer and handline on the north side of Quintette to the community. Resources have been making progress building containment line on the northwest side of the fire. Last night fire growth was predominantly moving in a southeast and northeast direction.<br /><br />Today with the onset of the low-pressure system, higher winds will move in which will fan the fire and increase activity. Fire crews will work to construct direct and indirect line around the perimeter of the fire. Additional resources will be working on perimeter control and preparing structures for defensive actions.<br /><br />Both the El Dorado County Sheriff’s Office as well as the Placer County Sheriff’s Office are constantly monitoring and evaluating evacuated areas assessing the need for additional evacuations and when it is safe to repopulate.<br /><br />The Unified Commanders of the Mosquito Fire thank the community for their support and cooperation in adhering to evacuation orders and warnings, and remind those who are in an area when an evacuation order is implemented that it is time to leave. The decision to evacuate a community is done with the understanding of the inconvenience it places on those who live and work in a community, but also with the priority of life safety. Be Ready, Set, Go! and visit <a href=\"http://www.readyforwildfire.org\">www.readyforwildfire.org</a></p>",
       "Counties": [
         "El Dorado",
         "Placer"
@@ -18,8 +18,8 @@
       "CountyIds": "9,31",
       "SearchDescription": null,
       "SearchKeywords": null,
-      "AdminUnit": "Unified Command: CAL FIRE Nevada-Yuba-Placer Unit, USFS Tahoe National Forest, Foresthill Fire Protection District, and Placer County Sheriff’s Office",
-      "Updated": "2022-09-10T10:41:39.433Z",
+      "AdminUnit": "Unified Command: CAL FIRE Nevada-Yuba-Placer Unit, CAL FIRE Amador- El Dorado Unit, USFS Tahoe National Forest, Foresthill Fire Protection District, El and Placer County Sheriff’s Office",
+      "Updated": "2022-09-10T15:36:43.67Z",
       "Started": "2022-09-06T18:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -784,7 +784,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": "<p>The fire spread significantly overnight due to extreme fire behavior and heavy smoke limited visibility. The fire made uphill runs with short-range spotting. Weather will be minimal winds and 21% relative humidity.</p>\r\n<p><br />This extreme fire behavior caused evacuation orders and evacuation warnings issued by the El Dorado County Sheriff’s Office for the communities of Volcanoville, Georgetown, Bottle Hill, Stumpy Meadows, Slate Mountain, and Cool. Placer County Sheriff’s Office also issued evacuation orders and evacuation warnings for the communities of Michigan Bluff, Baker Ranch, Crystal View Road &amp; Bath Road, Foresthill, Todd Valley, Sky View Spring Garden, and Yankee Jims.<br />There are approximately 1,700 personnel assigned to the incident. The priority for firefighting personnel is to provide life safety and structure protection for the community. Additionally, the construction of direct and indirect containment lines utilizing handcrews and bulldozers is a significant objective.</p>\r\n<p><br />The Unified Commanders of the Mosquito Fire thank the community for their support and cooperation in adhering to evacuation orders and warnings, and remind those who are in an area when an evacuation order is implemented that it is time to leave. The decision to evacuate a community is done with the understanding of the inconvenience it places on those who live and work in a community, but also with the priority of life safety. Be Ready, Set, Go! and visit <a href=\"http://www.readyforwildfire.org\">www.readyforwildfire.org</a></p>\r\n<p> </p>",
+      "ConditionStatement": "<p>Yesterday resources were able to construct dozer and handline on the north side of Quintette to the community. Resources have been making progress building containment line on the northwest side of the fire. Last night fire growth was predominantly moving in a southeast and northeast direction.<br /><br />Today with the onset of the low-pressure system, higher winds will move in which will fan the fire and increase activity. Fire crews will work to construct direct and indirect line around the perimeter of the fire. Additional resources will be working on perimeter control and preparing structures for defensive actions.<br /><br />Both the El Dorado County Sheriff’s Office as well as the Placer County Sheriff’s Office are constantly monitoring and evaluating evacuated areas assessing the need for additional evacuations and when it is safe to repopulate.<br /><br />The Unified Commanders of the Mosquito Fire thank the community for their support and cooperation in adhering to evacuation orders and warnings, and remind those who are in an area when an evacuation order is implemented that it is time to leave. The decision to evacuate a community is done with the understanding of the inconvenience it places on those who live and work in a community, but also with the priority of life safety. Be Ready, Set, Go! and visit <a href=\"http://www.readyforwildfire.org\">www.readyforwildfire.org</a></p>",
       "Counties": [
         "El Dorado",
         "Placer"
@@ -792,8 +792,8 @@
       "CountyIds": "9,31",
       "SearchDescription": null,
       "SearchKeywords": null,
-      "AdminUnit": "Unified Command: CAL FIRE Nevada-Yuba-Placer Unit, USFS Tahoe National Forest, Foresthill Fire Protection District, and Placer County Sheriff’s Office",
-      "Updated": "2022-09-10T10:41:39.433Z",
+      "AdminUnit": "Unified Command: CAL FIRE Nevada-Yuba-Placer Unit, CAL FIRE Amador- El Dorado Unit, USFS Tahoe National Forest, Foresthill Fire Protection District, El and Placer County Sheriff’s Office",
+      "Updated": "2022-09-10T15:36:43.67Z",
       "Started": "2022-09-06T18:00:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3966,9 +3966,9 @@
       "PercentContainedDisplay": "0%",
       "ExternalIncidentLink": "",
       "CountiesList": "El Dorado, Placer",
-      "UpdatedDate": "2022-09-10 10:41:39",
+      "UpdatedDate": "2022-09-10 15:36:43",
       "StartedDate": "2022-09-06",
-      "AdminUnit": "Unified Command: CAL FIRE Nevada-Yuba-Placer Unit, USFS Tahoe National Forest, Foresthill Fire Protection District, and Placer County Sheriff’s Office",
+      "AdminUnit": "Unified Command: CAL FIRE Nevada-Yuba-Placer Unit, CAL FIRE Amador- El Dorado Unit, USFS Tahoe National Forest, Foresthill Fire Protection District, El and Placer County Sheriff’s Office",
       "IncidentTypeDisplay": "Wildfire",
       "Url": "https://www.fire.ca.gov/incidents/2022/9/6/mosquito-fire/",
       "IsActive": "Y"
