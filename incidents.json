@@ -101,7 +101,7 @@
       "FuelType": null,
       "PercentContained": 60,
       "ControlStatement": null,
-      "ConditionStatement": "<p>The spot fire is established in the Macks Gulch drainage. Overnight, fire activity was active with wind gusts over 30 MPH and dry conditions leading to uphill runs and short-range spotting in heavy brush and timber fuels. Firefighters will continue to construct direct and indirect fireline today.</p>\r\n<p>A cooling trend will develop across the area with a slight increase in relative humidity.</p>\r\n<p><strong>The Local Assistance Center is located at the Weed Community Center, 161 East </strong><strong>Lincoln Ave, Weed, CA. and is open today, September 11, 2022, from 10 a.m. to 6 </strong><strong>p.m. The center will provide access to county departments, service providers, </strong><strong>State, Federal as well as many others.</strong></p>\r\n<p>For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
+      "ConditionStatement": "<p><strong>MOUNTAIN FIRE EVACUATION ORDERS AND EVACUATION WARNINGS - </strong>Release date: 9/11/2022, 1:00PM</p>\r\n<p><strong> WHAT:</strong> Mountain Fire Evacuation Orders/ Warnings<br /><br /><strong>WHEN:</strong> 1:00 P.M. 9/11/2022 <br /><strong><br />WHERE:</strong> The following ZONE is in an Evacuation Order<br /><strong><br />Zone SIS-2218B<br /></strong> The following ZONES are in an Evacuation Warning <br /><strong><br />Zone SIS-2218 <br />Zone SIS-2218C</strong></p>\r\n<p><strong>For more information about wildfire preparedness visit: <a href=\"https://www.readyforwildfire.org/\">https://www.readyforwildfire.org/</a></strong><strong><br />View the most current evacuation warnings and orders visit: <a href=\"https://www.co.siskiyou.ca.us/emergencyservices/page/mill-and-mountain-fire-information\">Mill and Mountain Fire Information | Siskiyou County California/</a><br /></strong></p>\r\n<hr />\r\n<p>The spot fire is established in the Macks Gulch drainage. Overnight, fire activity was active with wind gusts over 30 MPH and dry conditions leading to uphill runs and short-range spotting in heavy brush and timber fuels. Firefighters will continue to construct direct and indirect fireline today.</p>\r\n<p>A cooling trend will develop across the area with a slight increase in relative humidity.</p>\r\n<p><strong>The Local Assistance Center is located at the Weed Community Center, 161 East </strong><strong>Lincoln Ave, Weed, CA. and is open today, September 11, 2022, from 10 a.m. to 6 </strong><strong>p.m. The center will provide access to county departments, service providers, </strong><strong>State, Federal as well as many others.</strong></p>\r\n<p>For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -109,7 +109,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-11T07:54:29.32Z",
+      "Updated": "2022-09-11T13:35:31.187Z",
       "Started": "2022-09-02T15:48:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -830,7 +830,7 @@
       "FuelType": null,
       "PercentContained": 60,
       "ControlStatement": null,
-      "ConditionStatement": "<p>The spot fire is established in the Macks Gulch drainage. Overnight, fire activity was active with wind gusts over 30 MPH and dry conditions leading to uphill runs and short-range spotting in heavy brush and timber fuels. Firefighters will continue to construct direct and indirect fireline today.</p>\r\n<p>A cooling trend will develop across the area with a slight increase in relative humidity.</p>\r\n<p><strong>The Local Assistance Center is located at the Weed Community Center, 161 East </strong><strong>Lincoln Ave, Weed, CA. and is open today, September 11, 2022, from 10 a.m. to 6 </strong><strong>p.m. The center will provide access to county departments, service providers, </strong><strong>State, Federal as well as many others.</strong></p>\r\n<p>For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
+      "ConditionStatement": "<p><strong>MOUNTAIN FIRE EVACUATION ORDERS AND EVACUATION WARNINGS - </strong>Release date: 9/11/2022, 1:00PM</p>\r\n<p><strong> WHAT:</strong> Mountain Fire Evacuation Orders/ Warnings<br /><br /><strong>WHEN:</strong> 1:00 P.M. 9/11/2022 <br /><strong><br />WHERE:</strong> The following ZONE is in an Evacuation Order<br /><strong><br />Zone SIS-2218B<br /></strong> The following ZONES are in an Evacuation Warning <br /><strong><br />Zone SIS-2218 <br />Zone SIS-2218C</strong></p>\r\n<p><strong>For more information about wildfire preparedness visit: <a href=\"https://www.readyforwildfire.org/\">https://www.readyforwildfire.org/</a></strong><strong><br />View the most current evacuation warnings and orders visit: <a href=\"https://www.co.siskiyou.ca.us/emergencyservices/page/mill-and-mountain-fire-information\">Mill and Mountain Fire Information | Siskiyou County California/</a><br /></strong></p>\r\n<hr />\r\n<p>The spot fire is established in the Macks Gulch drainage. Overnight, fire activity was active with wind gusts over 30 MPH and dry conditions leading to uphill runs and short-range spotting in heavy brush and timber fuels. Firefighters will continue to construct direct and indirect fireline today.</p>\r\n<p>A cooling trend will develop across the area with a slight increase in relative humidity.</p>\r\n<p><strong>The Local Assistance Center is located at the Weed Community Center, 161 East </strong><strong>Lincoln Ave, Weed, CA. and is open today, September 11, 2022, from 10 a.m. to 6 </strong><strong>p.m. The center will provide access to county departments, service providers, </strong><strong>State, Federal as well as many others.</strong></p>\r\n<p>For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -838,7 +838,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-11T07:54:29.32Z",
+      "Updated": "2022-09-11T13:35:31.187Z",
       "Started": "2022-09-02T15:48:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3732,7 +3732,7 @@
       "PercentContainedDisplay": "60%",
       "ExternalIncidentLink": "",
       "CountiesList": "Siskiyou",
-      "UpdatedDate": "2022-09-11 07:54:29",
+      "UpdatedDate": "2022-09-11 13:35:31",
       "StartedDate": "2022-09-02",
       "AdminUnit": "CAL FIRE Siskiyou",
       "IncidentTypeDisplay": "Wildfire",
