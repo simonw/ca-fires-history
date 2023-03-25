@@ -1,5 +1,17 @@
 [
   {
+    "id": 411268,
+    "datetime": "2023-03-25 22:16:53 +01:00",
+    "name": "25 mars 21:57, Övrigt, Hässleholm",
+    "summary": "Polisen skickas till Hässleholm efter att en hög smäll hörts i området.",
+    "url": "/aktuellt/handelser/2023/mars/25/25-mars-2157-ovrigt-hassleholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
     "id": 411270,
     "datetime": "2023-03-25 22:44:44 +01:00",
     "name": "25 mars 21:15, Fylleri/LOB, Stockholm",
@@ -21,18 +33,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 411268,
-    "datetime": "2023-03-25 22:16:53 +01:00",
-    "name": "25 mars 21:57, Övrigt, Hässleholm",
-    "summary": "Polisen skickas till Hässleholm efter att en hög smäll hörts i området.",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-2157-ovrigt-hassleholm/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
     }
   },
   {
