@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
+        curl https://polisen.se/api/events | jq . > events.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
