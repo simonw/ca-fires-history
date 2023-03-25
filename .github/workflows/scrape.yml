@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '6,26,46 * * * *'
+    - cron:  '6,36 * * * *'
 
 jobs:
   scheduled:
@@ -12,9 +12,12 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Fetch latest data
+    - name: Fetch latest json
       run: |-
         curl https://polisen.se/api/events | jq . > events.json
+    - name: Download latest html files
+      run: |-
+        bash download-html.sh
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
