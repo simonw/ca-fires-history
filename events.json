@@ -1,5 +1,233 @@
 [
   {
+    "id": 411289,
+    "datetime": "2023-03-26 10:04:59 +02:00",
+    "name": "26 mars 09:28, Trafikolycka, singel, Norrtälje",
+    "summary": "Polis och ambulans kallas till länsväg 278 på Humlö med anledning av att en personbil kört av vägen.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0928-trafikolycka-singel-norrtalje/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 411291,
+    "datetime": "2023-03-26 10:58:59 +02:00",
+    "name": "26 mars 08:04, Farligt föremål, misstänkt, Järfälla",
+    "summary": "Polis kallas till ett industriområde i Barkarby med anledning av ett misstänkt farligt föremål som anträffats ",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0804-farligt-foremal-misstankt-jarfalla/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
+    "id": 411290,
+    "datetime": "2023-03-26 10:57:58 +02:00",
+    "name": "26 mars 10:15, Rattfylleri, Uppsala",
+    "summary": "Förare misstänkt för rattfylleri efter förföljande.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1015-rattfylleri-uppsala/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 411287,
+    "datetime": "2023-03-26 8:35:34 +02:00",
+    "name": "26 mars 01:14, Rån övrigt, Norrtälje",
+    "summary": "En inringare från Norrtälje uppger att han blivit rånad av en för honom okänd gärningsman.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0114-ran-ovrigt-norrtalje/",
+    "type": "Rån övrigt",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 411288,
+    "datetime": "2023-03-26 8:41:56 +02:00",
+    "name": "26 mars 03:53, Rattfylleri, Stockholm",
+    "summary": "När en polispatrull stoppade en personbil för kontroll av föraren på Vasagatan uppstod misstanke om rattfyller",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0353-rattfylleri-stockholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 411286,
+    "datetime": "2023-03-26 8:15:20 +02:00",
+    "name": "26 mars 08:15, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0815-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 411285,
+    "datetime": "2023-03-26 8:15:18 +02:00",
+    "name": "26 mars 07:48, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer en sammanfattning av nattens händelser i länet",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0748-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 411284,
+    "datetime": "2023-03-26 8:14:41 +02:00",
+    "name": "26 mars 08:14, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0814-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 411283,
+    "datetime": "2023-03-26 8:14:00 +02:00",
+    "name": "26 mars 08:13, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0813-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 411282,
+    "datetime": "2023-03-26 8:11:23 +02:00",
+    "name": "26 mars 08:11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0811-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 411281,
+    "datetime": "2023-03-26 8:01:22 +02:00",
+    "name": "26 mars 08:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0800-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 411280,
+    "datetime": "2023-03-26 8:01:08 +02:00",
+    "name": "26 mars 08:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0800-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 411279,
+    "datetime": "2023-03-26 7:48:52 +02:00",
+    "name": "26 mars 07:38, Sammanfattning natt, Värmlands län",
+    "summary": "Nedan följer en sammanfattning av nattens händelser i länet",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0738-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 411278,
+    "datetime": "2023-03-26 7:38:31 +02:00",
+    "name": "26 mars 07:37, Sammanfattning natt, Dalarnas län",
+    "summary": "Nedan följer en sammanfattning av nattens händelser i länet",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0737-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 411275,
+    "datetime": "2023-03-26 7:08:06 +02:00",
+    "name": "25 mars 23:48, Brand, Västerås",
+    "summary": "Skador på flera fordon och byggnad efter brand.",
+    "url": "/aktuellt/handelser/2023/mars/25/25-mars-2348-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 411277,
+    "datetime": "2023-03-26 7:16:40 +02:00",
+    "name": "26 mars 01:16, Misshandel, Ronneby",
+    "summary": "Flera omhändertagna efter slagsmål, Eringsboda.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0116-misshandel-ronneby/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 411274,
+    "datetime": "2023-03-26 7:00:51 +02:00",
+    "name": "26 mars 04:17, Brand, Kalmar",
+    "summary": "Flera bilar skadade efter bilbrand, Två Bröders väg.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0417-brand-kalmar/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 411273,
+    "datetime": "2023-03-26 6:55:09 +02:00",
+    "name": "26 mars 00:55, Rån, Helsingborg",
+    "summary": "Taxichaufför utsatt för rån, Lundsbäcksgatan.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0055-ran-helsingborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 411272,
+    "datetime": "2023-03-26 6:54:19 +02:00",
+    "name": "26 mars 00:05, Narkotikabrott, Uppsala",
+    "summary": "Man hamnade i Svandammen efter narkotikamisstankar.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0005-narkotikabrott-uppsala/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
     "id": 411268,
     "datetime": "2023-03-25 22:16:53 +01:00",
     "name": "25 mars 21:57, Övrigt, Hässleholm",
@@ -5769,234 +5997,6 @@
     "location": {
       "name": "Säter",
       "gps": "60.34665,15.7479"
-    }
-  },
-  {
-    "id": 409596,
-    "datetime": "2023-03-20 15:48:48 +01:00",
-    "name": "20 mars 15:02, Bråk, Sundsvall",
-    "summary": "Polisen kontaktas angående ett bråk mellan två personer i Stenstan.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1502-brak-sundsvall/",
-    "type": "Bråk",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 409587,
-    "datetime": "2023-03-20 15:41:25 +01:00",
-    "name": "20 mars 14:24, Misshandel, Östersund",
-    "summary": "Polispatrull beordras till centrala Östersund med anledning av ett bråk utomhus med flera personer inblandade.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1424-misshandel-ostersund/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 409586,
-    "datetime": "2023-03-20 15:38:53 +01:00",
-    "name": "20 mars 14:16, Inbrott, Stockholm",
-    "summary": "Lägenhetsinbrott i Beckomberga.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1416-inbrott-stockholm/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 409576,
-    "datetime": "2023-03-20 15:34:49 +01:00",
-    "name": "20 mars 14:32, Fylleri/LOB, Stockholm",
-    "summary": "I Högdalen omhändertogs en berusad kvinna.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1432-fyllerilob-stockholm/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 409565,
-    "datetime": "2023-03-20 14:14:02 +01:00",
-    "name": "20 mars 14:13, Trafikolycka, Norrköping",
-    "summary": "Singelolycka Simonstorp, Norrköping",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1413-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 409572,
-    "datetime": "2023-03-20 15:04:57 +01:00",
-    "name": "20 mars 12:46, Stöld, Skellefteå",
-    "summary": "Misstänkt ringa stöld i butik, Anderstorp.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1246-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 409538,
-    "datetime": "2023-03-20 11:04:29 +01:00",
-    "name": "20 mars 09:49, Mord/dråp, försök, Karlskrona",
-    "summary": "Polisen befinner sig på en skola i Jämjö med anledning av en kontroll.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-0949-morddrap-forsok-karlskrona/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 409566,
-    "datetime": "2023-03-20 14:42:26 +01:00",
-    "name": "20 mars 13:49, Trafikolycka, Boden",
-    "summary": "Larm om trafikolycka i centrala Boden.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1349-trafikolycka-boden/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 409562,
-    "datetime": "2023-03-20 13:36:41 +01:00",
-    "name": "20 mars 13:25, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat på Örsholmen",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1325-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 409563,
-    "datetime": "2023-03-20 13:55:43 +01:00",
-    "name": "20 mars 10:57, Vapenlagen, Sundsvall",
-    "summary": "Inre hamnen, ett vapen har hittats i samband med arbete på platsen",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1057-vapenlagen-sundsvall/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 409559,
-    "datetime": "2023-03-20 13:10:43 +01:00",
-    "name": "20 mars 13:00, Trafikkontroll, Umeå",
-    "summary": "Fridhem, resultat efter trafikkontroll på Strombergs väg",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1300-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 409557,
-    "datetime": "2023-03-20 12:53:04 +01:00",
-    "name": "20 mars 12:48, Trafikolycka, Sollentuna",
-    "summary": "Polis kallas till Fasanvägen/Lomvägen i Sollentuna med anledning av en trafikolycka.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1248-trafikolycka-sollentuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 409541,
-    "datetime": "2023-03-20 11:09:46 +01:00",
-    "name": "20 mars 10:18, Trafikolycka, Kiruna",
-    "summary": "Malmvägen, larm inkommer om trafikanter som kolliderat",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1018-trafikolycka-kiruna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 409544,
-    "datetime": "2023-03-20 11:36:29 +01:00",
-    "name": "20 mars 12:37, Brand, Linköping",
-    "summary": "Brand på Gottorpsgatan Tornby, Linköping",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1237-brand-linkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 409542,
-    "datetime": "2023-03-20 11:15:11 +01:00",
-    "name": "20 mars 11:00, Trafikolycka, Burlöv",
-    "summary": "Larm om trafikolycka på Harjagersvägen, Kävlinge",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1100-trafikolycka-burlov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 409534,
-    "datetime": "2023-03-20 10:19:26 +01:00",
-    "name": "20 mars 10:14, Trafikolycka, Malmö",
-    "summary": "Larm om påkörd person, Norra grängesbergsgatan.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1014-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 409554,
-    "datetime": "2023-03-20 11:58:36 +01:00",
-    "name": "20 mars 10:42, Ofredande/förargelse, Stockholm",
-    "summary": "Polis kallas till Vasastaden med uppgifter om att två män är oense om en parkeringsplats.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1042-ofredandeforargelse-stockholm/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 409540,
-    "datetime": "2023-03-20 11:06:14 +01:00",
-    "name": "20 mars 09:42, Arbetsplatsolycka, Göteborg",
-    "summary": "En man har skadats på sin arbetsplats.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-0942-arbetsplatsolycka-goteborg/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 409539,
-    "datetime": "2023-03-20 11:05:03 +01:00",
-    "name": "20 mars 10:00, Trafikolycka, Kalix",
-    "summary": "Centrum, två trafikanter har kolliderat vid Rammelbergstord/Valhallavägen",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1000-trafikolycka-kalix/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   }
 ]
