@@ -1,22 +1,5 @@
 [
   {
-    "Name": "Wildcat Fire",
-    "Updated": "2023-06-21",
-    "Started": "2023-06-16",
-    "AdminUnit": "Lead agency: United States Forest Service-Sierra National Forest",
-    "County": "Fresno",
-    "Location": "Forest Service Road 10S069 and Trimmer Springs Road, Pine Flat ",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -119.2043,
-    "Latitude": 36.9351,
-    "Type": null,
-    "UniqueId": "8fd8a93e-1959-4382-9861-979a77194624",
-    "Url": "/incidents/2023/6/16/wildcat-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true
-  },
-  {
     "Name": "Balfour Fire",
     "Updated": "2023-06-25",
     "Started": "2023-06-25",
