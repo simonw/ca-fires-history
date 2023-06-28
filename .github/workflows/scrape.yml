@@ -1,20 +1,21 @@
 name: Scrape latest data
 
 on:
-  # push:
+  push:
   workflow_dispatch:
-  # schedule:
-  #  - cron:  '6,26,46 * * * *'
+  schedule:
+  - cron: '6,26,46 * * * *'
 
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Fetch latest data
       run: |-
-        curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
+        curl 'https://www.fire.ca.gov/api/sitecore/Incident/GetFiresForMap' \
+          -X POST --data-raw 'showFeatured=False' | jq > incidents-june-2023-format.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
