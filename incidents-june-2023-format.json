@@ -17,23 +17,6 @@
     "IsActive": true
   },
   {
-    "Name": "Crane Fire",
-    "Updated": "2023-06-28",
-    "Started": "2023-06-27",
-    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
-    "County": "Fresno",
-    "Location": "Crane Lane and Ackers Lane, near Squaw Valley ",
-    "AcresBurned": 24,
-    "PercentContained": 55,
-    "Longitude": -119.0137,
-    "Latitude": 36.8675,
-    "Type": null,
-    "UniqueId": "417b7148-f644-4919-880f-8d529e1f8b95",
-    "Url": "/incidents/2023/6/27/crane-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true
-  },
-  {
     "Name": "Juniper Fire",
     "Updated": "2023-06-28",
     "Started": "2023-06-27",
