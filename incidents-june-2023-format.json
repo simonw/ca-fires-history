@@ -15,5 +15,22 @@
     "Url": "/incidents/2023/6/27/nice-fire/",
     "StartedDateOnly": null,
     "IsActive": true
+  },
+  {
+    "Name": "Champagne Fire ",
+    "Updated": "2023-06-30",
+    "Started": "2023-06-30",
+    "AdminUnit": "Kern County Fire",
+    "County": "Kern",
+    "Location": "Champagne Ave and 170 St, southwest of Mojave",
+    "AcresBurned": 25,
+    "PercentContained": 50,
+    "Longitude": -118.4252,
+    "Latitude": 34.9516,
+    "Type": null,
+    "UniqueId": "7ee1424d-3aab-465e-9094-280e5cd5b83e",
+    "Url": "/incidents/2023/6/30/champagne-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true
   }
 ]
