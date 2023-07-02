@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "Name": "Gann Fire",
+    "Updated": "2023-07-02",
+    "Started": "2023-07-02",
+    "AdminUnit": "CAL FIRE Tuolumne -Calaveras Unit",
+    "County": "Calaveras",
+    "Location": "near Hogan Dam Road and Quartz Hill Road, Valley Springs",
+    "AcresBurned": 35,
+    "PercentContained": 0,
+    "Longitude": -120.798285,
+    "Latitude": 38.114444,
+    "Type": null,
+    "UniqueId": "5d6d342e-3696-4de4-a730-a89de03df378",
+    "Url": "/incidents/2023/7/2/gann-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true
+  }
+]
