@@ -1,13 +1,13 @@
 [
   {
     "Name": "Whiskey Fire",
-    "Updated": "2023-07-03",
+    "Updated": "2023-07-04",
     "Started": "2023-07-03",
     "AdminUnit": "Unified Command: CAL FIRE Madera-Mariposa-Merced & Sierra National Forest",
     "County": "Madera",
     "Location": "Road 225 North Fork",
-    "AcresBurned": 48,
-    "PercentContained": 15,
+    "AcresBurned": 83.6,
+    "PercentContained": 20,
     "Longitude": -119.46781,
     "Latitude": 37.193819,
     "Type": null,
