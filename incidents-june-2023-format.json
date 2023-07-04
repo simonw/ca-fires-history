@@ -15,22 +15,5 @@
     "Url": "/incidents/2023/7/3/whiskey-fire/",
     "StartedDateOnly": null,
     "IsActive": true
-  },
-  {
-    "Name": "Peter Fire",
-    "Updated": "2023-07-03",
-    "Started": "2023-07-03",
-    "AdminUnit": "Lead agency: CAL FIRE San Bernardino Unit and Los Angeles County Fire Department",
-    "County": "San Bernardino",
-    "Location": "Dwight Lee Street and Crown Valley Road, Acton",
-    "AcresBurned": 15,
-    "PercentContained": 0,
-    "Longitude": -118.193056,
-    "Latitude": 34.516944,
-    "Type": null,
-    "UniqueId": "f20ef989-476d-4e60-8b32-b61d9f211e1a",
-    "Url": "/incidents/2023/7/3/peter-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true
   }
 ]
