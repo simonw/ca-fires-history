@@ -32,5 +32,22 @@
     "Url": "/incidents/2023/7/4/roundup-fire/",
     "StartedDateOnly": null,
     "IsActive": true
+  },
+  {
+    "Name": "Lincoln Fire",
+    "Updated": "2023-07-05",
+    "Started": "2023-07-05",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "Lincoln Road and Ave 64 in Mecca",
+    "AcresBurned": 15,
+    "PercentContained": 0,
+    "Longitude": -116.078906,
+    "Latitude": 33.583941,
+    "Type": null,
+    "UniqueId": "7452e778-443b-4a4d-8cfd-8972832332f2",
+    "Url": "/incidents/2023/7/5/lincoln-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true
   }
 ]
