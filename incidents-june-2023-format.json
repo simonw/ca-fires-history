@@ -49,5 +49,22 @@
     "Url": "/incidents/2023/7/5/lincoln-fire/",
     "StartedDateOnly": null,
     "IsActive": true
+  },
+  {
+    "Name": "Day Fire",
+    "Updated": "2023-07-05",
+    "Started": "2023-07-05",
+    "AdminUnit": "CAL FIRE Riverside County Fire",
+    "County": "Riverside",
+    "Location": "Day Street and Cajalco Road, near Mead Valley ",
+    "AcresBurned": 56,
+    "PercentContained": 0,
+    "Longitude": -117.278984,
+    "Latitude": 33.837311,
+    "Type": null,
+    "UniqueId": "1c29b20c-8287-49e7-88da-a057174c5b25",
+    "Url": "/incidents/2023/7/5/day-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true
   }
 ]
