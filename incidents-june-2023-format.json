@@ -17,23 +17,6 @@
     "IsActive": true
   },
   {
-    "Name": "Roundup Fire",
-    "Updated": "2023-07-05",
-    "Started": "2023-07-04",
-    "AdminUnit": "CAL FIRE San Bernardino Unit",
-    "County": "San Bernardino",
-    "Location": "Juniper Flats and Baldwin Road near Apple valley ",
-    "AcresBurned": 34,
-    "PercentContained": 95,
-    "Longitude": -117.186767,
-    "Latitude": 34.38695,
-    "Type": null,
-    "UniqueId": "67943cd3-69db-40b5-ad6f-64eff64cbb1e",
-    "Url": "/incidents/2023/7/4/roundup-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true
-  },
-  {
     "Name": "Lincoln Fire",
     "Updated": "2023-07-05",
     "Started": "2023-07-05",
@@ -58,7 +41,7 @@
     "County": "Riverside",
     "Location": "Day Street and Cajalco Road, near Mead Valley ",
     "AcresBurned": 56,
-    "PercentContained": 0,
+    "PercentContained": 10,
     "Longitude": -117.278984,
     "Latitude": 33.837311,
     "Type": null,
