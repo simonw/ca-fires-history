@@ -49,22 +49,5 @@
     "Url": "/incidents/2023/7/6/frog-fire/",
     "StartedDateOnly": null,
     "IsActive": true
-  },
-  {
-    "Name": "Frog Fire",
-    "Updated": "2023-07-06",
-    "Started": "2023-07-06",
-    "AdminUnit": "Riverside County Fire",
-    "County": "Riverside",
-    "Location": "Frogs Leap and Villa Helena Street, Temecula ",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -117.0575,
-    "Latitude": 33.479,
-    "Type": null,
-    "UniqueId": "ffceeb86-d03d-46b4-ab62-2a8262d138fc",
-    "Url": "/incidents/2023/7/6/frog-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true
   }
 ]
