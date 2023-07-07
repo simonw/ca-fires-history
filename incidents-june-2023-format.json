@@ -1,7 +1,7 @@
 [
   {
     "Name": "Whiskey Fire",
-    "Updated": "2023-07-04",
+    "Updated": "2023-07-06",
     "Started": "2023-07-03",
     "AdminUnit": " Sierra National Forest",
     "County": "Madera",
@@ -34,19 +34,19 @@
     "IsActive": true
   },
   {
-    "Name": "Day Fire",
+    "Name": "Frog Fire",
     "Updated": "2023-07-06",
-    "Started": "2023-07-05",
-    "AdminUnit": "CAL FIRE Riverside County Fire",
+    "Started": "2023-07-06",
+    "AdminUnit": "Riverside County Fire",
     "County": "Riverside",
-    "Location": "Day Street and Cajalco Road, near Mead Valley ",
-    "AcresBurned": 56,
-    "PercentContained": 80,
-    "Longitude": -117.278984,
-    "Latitude": 33.837311,
+    "Location": "Frogs Leap and Villa Helena Street, Temecula ",
+    "AcresBurned": 0,
+    "PercentContained": 0,
+    "Longitude": -117.0575,
+    "Latitude": 33.479,
     "Type": null,
-    "UniqueId": "1c29b20c-8287-49e7-88da-a057174c5b25",
-    "Url": "/incidents/2023/7/5/day-fire/",
+    "UniqueId": "155dba26-11cd-4f55-8cc5-09c93ce7155e",
+    "Url": "/incidents/2023/7/6/frog-fire/",
     "StartedDateOnly": null,
     "IsActive": true
   },
@@ -62,7 +62,7 @@
     "Longitude": -117.0575,
     "Latitude": 33.479,
     "Type": null,
-    "UniqueId": "155dba26-11cd-4f55-8cc5-09c93ce7155e",
+    "UniqueId": "ffceeb86-d03d-46b4-ab62-2a8262d138fc",
     "Url": "/incidents/2023/7/6/frog-fire/",
     "StartedDateOnly": null,
     "IsActive": true
