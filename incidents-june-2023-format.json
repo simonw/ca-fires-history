@@ -32,5 +32,22 @@
     "Url": "/incidents/2023/7/6/frog-fire/",
     "StartedDateOnly": null,
     "IsActive": true
+  },
+  {
+    "Name": "District Fire",
+    "Updated": "2023-07-07",
+    "Started": "2023-07-07",
+    "AdminUnit": "Kern County Fire Department",
+    "County": "Kern",
+    "Location": "Interstate 5 and Fort Tejon Rd, north of Lebec",
+    "AcresBurned": 150,
+    "PercentContained": 0,
+    "Longitude": -118.9033,
+    "Latitude": 34.8866,
+    "Type": null,
+    "UniqueId": "ef08a1c3-8626-4881-b25c-64b7a913d174",
+    "Url": "/incidents/2023/7/7/district-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true
   }
 ]
