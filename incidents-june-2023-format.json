@@ -32,5 +32,22 @@
     "Url": "/incidents/2023/7/7/district-fire/",
     "StartedDateOnly": null,
     "IsActive": true
+  },
+  {
+    "Name": "Village Fire",
+    "Updated": "2023-07-08",
+    "Started": "2023-07-08",
+    "AdminUnit": "Riverside County Fire Department ",
+    "County": "Riverside",
+    "Location": "Country Village Drive and Hy 60, near Jurupa Valley ",
+    "AcresBurned": 0,
+    "PercentContained": 0,
+    "Longitude": -117.5072,
+    "Latitude": 34.0204,
+    "Type": null,
+    "UniqueId": "efb46e4a-b101-41ab-9085-9121ccaf5232",
+    "Url": "/incidents/2023/7/8/village-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true
   }
 ]
