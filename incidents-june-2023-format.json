@@ -49,5 +49,22 @@
     "Url": "/incidents/2023/7/9/park-fire/",
     "StartedDateOnly": null,
     "IsActive": true
+  },
+  {
+    "Name": "Vineyard Fire",
+    "Updated": "2023-07-09",
+    "Started": "2023-07-09",
+    "AdminUnit": "CAL FIRE San Benito-Monterey",
+    "County": "Monterey",
+    "Location": "Vineyard Canyon Road and Indian Valley Road, East of San Miguel ",
+    "AcresBurned": 150,
+    "PercentContained": 0,
+    "Longitude": -120.8169,
+    "Latitude": 35.8,
+    "Type": null,
+    "UniqueId": "5fedc370-e53e-4751-b259-1f52dc429ab3",
+    "Url": "/incidents/2023/7/9/vineyard-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true
   }
 ]
