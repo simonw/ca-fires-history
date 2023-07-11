@@ -32,5 +32,22 @@
     "Url": "/incidents/2023/7/9/park-fire/",
     "StartedDateOnly": null,
     "IsActive": true
+  },
+  {
+    "Name": "Rider Fire",
+    "Updated": "2023-07-11",
+    "Started": "2023-07-11",
+    "AdminUnit": "CAL FIRE Riverside Unit ",
+    "County": "Riverside",
+    "Location": "19991 Seaton Ave. Mead and 23000 BLK Rider St. ",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -117.2616,
+    "Latitude": 33.8302,
+    "Type": null,
+    "UniqueId": "93936963-a4c7-406a-9d8e-8ee11aa68e40",
+    "Url": "/incidents/2023/7/11/rider-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true
   }
 ]
