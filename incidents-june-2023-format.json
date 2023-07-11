@@ -49,5 +49,22 @@
     "Url": "/incidents/2023/7/11/rider-fire/",
     "StartedDateOnly": null,
     "IsActive": true
+  },
+  {
+    "Name": "Carbon Fire",
+    "Updated": "2023-07-11",
+    "Started": "2023-07-11",
+    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
+    "County": "Amador",
+    "Location": "Carbondale Rd. and Willow Creek, near Ione",
+    "AcresBurned": 56,
+    "PercentContained": 15,
+    "Longitude": -120.98731,
+    "Latitude": 38.43948,
+    "Type": null,
+    "UniqueId": "13c0aa67-6f1a-4471-8f05-0d8810bd55e4",
+    "Url": "/incidents/2023/7/11/carbon-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true
   }
 ]
