@@ -17,23 +17,6 @@
     "IsActive": true
   },
   {
-    "Name": "District Fire",
-    "Updated": "2023-07-10",
-    "Started": "2023-07-07",
-    "AdminUnit": "Kern County Fire Department",
-    "County": "Kern",
-    "Location": "Interstate 5 and Fort Tejon Road, north of Lebec",
-    "AcresBurned": 1044,
-    "PercentContained": 90,
-    "Longitude": -118.9033,
-    "Latitude": 34.8866,
-    "Type": null,
-    "UniqueId": "ef08a1c3-8626-4881-b25c-64b7a913d174",
-    "Url": "/incidents/2023/7/7/district-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true
-  },
-  {
     "Name": "Park Fire",
     "Updated": "2023-07-10",
     "Started": "2023-07-09",
@@ -47,23 +30,6 @@
     "Type": null,
     "UniqueId": "1d1c4ff0-544e-425a-b558-f5e3ca586bea",
     "Url": "/incidents/2023/7/9/park-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true
-  },
-  {
-    "Name": "Vineyard Fire",
-    "Updated": "2023-07-10",
-    "Started": "2023-07-09",
-    "AdminUnit": "CAL FIRE San Benito-Monterey",
-    "County": "Monterey,San Luis Obispo",
-    "Location": "Vineyard Canyon Road and Indian Valley Road, East of San Miguel ",
-    "AcresBurned": 355,
-    "PercentContained": 80,
-    "Longitude": -120.8169,
-    "Latitude": 35.8,
-    "Type": null,
-    "UniqueId": "5fedc370-e53e-4751-b259-1f52dc429ab3",
-    "Url": "/incidents/2023/7/9/vineyard-fire/",
     "StartedDateOnly": null,
     "IsActive": true
   }
