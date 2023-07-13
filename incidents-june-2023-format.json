@@ -36,24 +36,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Snake Fire",
-    "Updated": "2023-07-12",
-    "Started": "2023-07-11",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "Lindell Rd. and Snake Rd. in Lake Elsinore",
-    "AcresBurned": 30,
-    "PercentContained": 75,
-    "Longitude": -117.348,
-    "Latitude": 33.7505,
-    "Type": null,
-    "UniqueId": "d2ced711-9481-45ca-9d1b-943352d05fac",
-    "Url": "/incidents/2023/7/11/snake-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Liberty Fire",
     "Updated": "2023-07-13",
     "Started": "2023-07-11",
