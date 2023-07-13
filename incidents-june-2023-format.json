@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Avocado Fire",
+    "Updated": "2023-07-12",
+    "Started": "2023-07-12",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "near Avocado Mesa Road, in La Cresta",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -117.300098,
+    "Latitude": 33.505725,
+    "Type": null,
+    "UniqueId": "d8c6de46-8d1b-4e04-b3fe-c9212ce92fd3",
+    "Url": "/incidents/2023/7/12/avocado-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
