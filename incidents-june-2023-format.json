@@ -18,24 +18,6 @@
     "ExternalUrl": "https://www.fs.usda.gov/sierra"
   },
   {
-    "Name": "Carbon Fire",
-    "Updated": "2023-07-13",
-    "Started": "2023-07-11",
-    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
-    "County": "Amador",
-    "Location": "Carbondale Road and Willow Creek, near Ione",
-    "AcresBurned": 58,
-    "PercentContained": 85,
-    "Longitude": -120.98731,
-    "Latitude": 38.43948,
-    "Type": null,
-    "UniqueId": "13c0aa67-6f1a-4471-8f05-0d8810bd55e4",
-    "Url": "/incidents/2023/7/11/carbon-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Pulsar Fire",
     "Updated": "2023-07-14",
     "Started": "2023-07-13",
