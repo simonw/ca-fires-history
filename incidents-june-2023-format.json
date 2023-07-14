@@ -36,24 +36,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Liberty Fire",
-    "Updated": "2023-07-13",
-    "Started": "2023-07-11",
-    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
-    "County": "Amador",
-    "Location": "East Liberty Road and Ranchero Road, north of Camanche Reservoir",
-    "AcresBurned": 71,
-    "PercentContained": 98,
-    "Longitude": -121.0089,
-    "Latitude": 38.2387,
-    "Type": null,
-    "UniqueId": "9d067cfd-3688-464f-916f-95cb7793169b",
-    "Url": "/incidents/2023/7/11/liberty-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Pulsar Fire",
     "Updated": "2023-07-14",
     "Started": "2023-07-13",
