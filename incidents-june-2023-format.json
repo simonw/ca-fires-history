@@ -34,5 +34,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Reche Fire",
+    "Updated": "2023-07-14",
+    "Started": "2023-07-14",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "9400 blk Reche Canyon Rd., Moreno Valley",
+    "AcresBurned": 160,
+    "PercentContained": 0,
+    "Longitude": -117.2169,
+    "Latitude": 33.9835,
+    "Type": null,
+    "UniqueId": "d6d8f162-a40e-407e-bb95-7e9c32e02727",
+    "Url": "/incidents/2023/7/14/reche-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
