@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Pulsar Fire",
+    "Updated": "2023-07-14",
+    "Started": "2023-07-13",
+    "AdminUnit": "CALFIRE Riverside County Fire Department",
+    "County": "Riverside",
+    "Location": "Pulsar View Road, Lakeview",
+    "AcresBurned": 12,
+    "PercentContained": 0,
+    "Longitude": -117.068009,
+    "Latitude": 33.821929,
+    "Type": null,
+    "UniqueId": "bbd4db04-faef-41c7-9422-ee1393ca1b1f",
+    "Url": "/incidents/2023/7/13/pulsar-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
