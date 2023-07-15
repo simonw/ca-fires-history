@@ -52,5 +52,41 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Highland Fire",
+    "Updated": "2023-07-14",
+    "Started": "2023-07-14",
+    "AdminUnit": "CALFIRE Riverside County Fire Department",
+    "County": "Riverside",
+    "Location": "South Highland Springs Ave and Breckenridge Ave, Beaumont, Ca.",
+    "AcresBurned": 225,
+    "PercentContained": 0,
+    "Longitude": -116.946498,
+    "Latitude": 33.907342,
+    "Type": null,
+    "UniqueId": "e8f155bc-20c6-4344-b5dc-69ce1d0b8613",
+    "Url": "/incidents/2023/7/14/highland-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Rabbit Fire",
+    "Updated": "2023-07-14",
+    "Started": "2023-07-14",
+    "AdminUnit": "",
+    "County": "Riverside",
+    "Location": "Gilman Springs Rd and Olive Ave, Moreno Valley, Ca",
+    "AcresBurned": 600,
+    "PercentContained": 0,
+    "Longitude": -117.070916,
+    "Latitude": 33.889467,
+    "Type": null,
+    "UniqueId": "472e88dd-7121-4fb6-825c-91af4d5ed373",
+    "Url": "/incidents/2023/7/14/rabbit-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
