@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Whiskey Fire",
-    "Updated": "2023-07-06",
-    "Started": "2023-07-03",
-    "AdminUnit": " Sierra National Forest",
-    "County": "Madera",
-    "Location": "Road 225 North Fork",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -119.46781,
-    "Latitude": 37.193819,
-    "Type": null,
-    "UniqueId": "c65b1fd8-47f9-4c0f-9512-a444137f9371",
-    "Url": "/incidents/2023/7/3/whiskey-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://www.fs.usda.gov/sierra"
-  },
-  {
     "Name": "Reche Fire",
     "Updated": "2023-07-16",
     "Started": "2023-07-14",
@@ -78,7 +60,7 @@
     "AdminUnit": "CALFIRE Riverside County Fire Department",
     "County": "Riverside",
     "Location": "Gavilan Road and Smith Road in Lake Matthews",
-    "AcresBurned": 250,
+    "AcresBurned": 338,
     "PercentContained": 50,
     "Longitude": -117.358124,
     "Latitude": 33.817004,
