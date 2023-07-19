@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Juniper Fire",
+    "Updated": "2023-07-18",
+    "Started": "2023-07-18",
+    "AdminUnit": "CAL FIRE Fresno-Kings County Fire",
+    "County": "Fresno",
+    "Location": "Highway 198 and Crump Lane, West of Coalinga ",
+    "AcresBurned": 15,
+    "PercentContained": 10,
+    "Longitude": -120.5689,
+    "Latitude": 36.1132,
+    "Type": null,
+    "UniqueId": "33f3bc95-bab6-445a-95d0-58b7cd247431",
+    "Url": "/incidents/2023/7/18/juniper-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
