@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Reche Fire",
-    "Updated": "2023-07-19",
-    "Started": "2023-07-14",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "9400 blk Reche Canyon Rd., Moreno Valley",
-    "AcresBurned": 437,
-    "PercentContained": 95,
-    "Longitude": -117.2169,
-    "Latitude": 33.9835,
-    "Type": null,
-    "UniqueId": "d6d8f162-a40e-407e-bb95-7e9c32e02727",
-    "Url": "/incidents/2023/7/14/reche-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Rabbit Fire",
     "Updated": "2023-07-19",
     "Started": "2023-07-14",
@@ -103,6 +85,24 @@
     "Type": null,
     "UniqueId": "33f3bc95-bab6-445a-95d0-58b7cd247431",
     "Url": "/incidents/2023/7/18/juniper-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Reche Fire",
+    "Updated": "2023-07-19",
+    "Started": "2023-07-14",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "9400 blk Reche Canyon Rd., Moreno Valley",
+    "AcresBurned": 437,
+    "PercentContained": 95,
+    "Longitude": -117.2169,
+    "Latitude": 33.9835,
+    "Type": null,
+    "UniqueId": "eb2196cc-8ecb-49f6-ae21-a832da54a663",
+    "Url": "/incidents/2023/7/14/reche-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
