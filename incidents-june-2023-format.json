@@ -36,24 +36,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Lodoga Fire",
-    "Updated": "2023-07-18",
-    "Started": "2023-07-16",
-    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
-    "County": "Colusa",
-    "Location": "Sites Lodoga Road and Lodoga Stonyford Road, Colusa County",
-    "AcresBurned": 22,
-    "PercentContained": 80,
-    "Longitude": -122.466,
-    "Latitude": 39.2694,
-    "Type": null,
-    "UniqueId": "b57f434d-f307-4055-b47b-e49337374dd9",
-    "Url": "/incidents/2023/7/16/lodoga-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Stony Fire",
     "Updated": "2023-07-19",
     "Started": "2023-07-18",
