@@ -106,5 +106,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Oak Fire",
+    "Updated": "2023-07-19",
+    "Started": "2023-07-19",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "7000 blk of Sierra Ave, in Jurupa Valley",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -117.4261,
+    "Latitude": 34.0182,
+    "Type": null,
+    "UniqueId": "4882ca86-e46f-429b-bc3c-194654bfb01f",
+    "Url": "/incidents/2023/7/19/oak-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
