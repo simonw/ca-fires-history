@@ -1,5 +1,23 @@
 [
   {
+    "Name": "Idria Fire",
+    "Updated": "2023-07-19",
+    "Started": "2023-07-19",
+    "AdminUnit": "CAL FIRE San Benito-Monterey",
+    "County": "San Benito",
+    "Location": "New Idria Riad, near New Idria",
+    "AcresBurned": 100,
+    "PercentContained": 0,
+    "Longitude": -120.801732,
+    "Latitude": 36.490487,
+    "Type": null,
+    "UniqueId": "8e5b1375-7f14-4731-aa73-86e5db2e7f70",
+    "Url": "/incidents/2023/7/19/idria-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Rabbit Fire",
     "Updated": "2023-07-19",
     "Started": "2023-07-14",
