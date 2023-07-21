@@ -36,24 +36,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Reche Fire",
-    "Updated": "2023-07-20",
-    "Started": "2023-07-14",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "Reche Canyon Road and Broe Road, Moreno Valley",
-    "AcresBurned": 437,
-    "PercentContained": 98,
-    "Longitude": -117.2169,
-    "Latitude": 33.9835,
-    "Type": null,
-    "UniqueId": "eb2196cc-8ecb-49f6-ae21-a832da54a663",
-    "Url": "/incidents/2023/7/14/reche-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Idria Fire",
     "Updated": "2023-07-20",
     "Started": "2023-07-19",
