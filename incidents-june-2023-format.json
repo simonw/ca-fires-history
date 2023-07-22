@@ -16,23 +16,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Idria Fire",
-    "Updated": "2023-07-21",
-    "Started": "2023-07-19",
-    "AdminUnit": "CAL FIRE San Benito-Monterey",
-    "County": "San Benito",
-    "Location": "New Idria Road, near New Idria",
-    "AcresBurned": 296,
-    "PercentContained": 95,
-    "Longitude": -120.801732,
-    "Latitude": 36.490487,
-    "Type": null,
-    "UniqueId": "8e5b1375-7f14-4731-aa73-86e5db2e7f70",
-    "Url": "/incidents/2023/7/19/idria-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
