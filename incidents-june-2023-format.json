@@ -1,5 +1,23 @@
 [
   {
+    "Name": "Long Fire",
+    "Updated": "2023-07-25",
+    "Started": "2023-07-25",
+    "AdminUnit": "CAL FIRE Fresno-Kings unit",
+    "County": "Fresno",
+    "Location": "45,000 block of Longview Rd, near Yokuts Valley, Ca",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -119.1521739,
+    "Latitude": 36.6932792,
+    "Type": null,
+    "UniqueId": "9e60d69f-373a-45db-b23f-cebb88b82aaf",
+    "Url": "/incidents/2023/7/25/long-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Wonder Fire",
     "Updated": "2023-07-25",
     "Started": "2023-07-24",
