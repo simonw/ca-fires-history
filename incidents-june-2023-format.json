@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Wonder Fire",
+    "Updated": "2023-07-24",
+    "Started": "2023-07-24",
+    "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
+    "County": "Shasta",
+    "Location": "Wonderland Blvd and Fawndale Rd, south of Shasta Lake",
+    "AcresBurned": 40,
+    "PercentContained": 0,
+    "Longitude": -122.3232056,
+    "Latitude": 40.7316228,
+    "Type": null,
+    "UniqueId": "3501b740-d8be-4b0b-a0c8-cf6c923ee810",
+    "Url": "/incidents/2023/7/24/wonder-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
