@@ -34,5 +34,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Victor Fire",
+    "Updated": "2023-07-26",
+    "Started": "2023-07-25",
+    "AdminUnit": "Los Angeles County Fire Department",
+    "County": "Los Angeles",
+    "Location": "North Sierra Highway and Needham Ranch Parkway, Santa Clarita",
+    "AcresBurned": 70,
+    "PercentContained": 10,
+    "Longitude": -118.507954,
+    "Latitude": 34.356691,
+    "Type": null,
+    "UniqueId": "44518f29-7ba2-45c1-b6f6-13e3556ee941",
+    "Url": "/incidents/2023/7/25/victor-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
