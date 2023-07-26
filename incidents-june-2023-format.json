@@ -36,6 +36,24 @@
     "ExternalUrl": ""
   },
   {
+    "Name": "Turkey Fire",
+    "Updated": "2023-07-26",
+    "Started": "2023-07-26",
+    "AdminUnit": "CAL FIRE Butte Unit",
+    "County": "Butte",
+    "Location": "Turkey Creek Trail, Swedes Flat Rd, Bangor",
+    "AcresBurned": 15,
+    "PercentContained": 0,
+    "Longitude": -121.399989,
+    "Latitude": 39.446994,
+    "Type": null,
+    "UniqueId": "6401556e-3e19-467b-8c26-af4a20864672",
+    "Url": "/incidents/2023/7/26/turkey-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Victor Fire",
     "Updated": "2023-07-26",
     "Started": "2023-07-25",
