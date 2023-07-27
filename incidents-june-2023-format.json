@@ -42,8 +42,8 @@
     "AdminUnit": "CAL FIRE Butte Unit",
     "County": "Butte",
     "Location": "Turkey Creek Trail, Swedes Flat Rd, Bangor",
-    "AcresBurned": 30,
-    "PercentContained": 0,
+    "AcresBurned": 20,
+    "PercentContained": 10,
     "Longitude": -121.399989,
     "Latitude": 39.446994,
     "Type": null,
@@ -88,23 +88,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/caanf-agua-fire"
-  },
-  {
-    "Name": "Border 20 Fire",
-    "Updated": "2023-07-26",
-    "Started": "2023-07-26",
-    "AdminUnit": "CAL FIRE San Diego Unit",
-    "County": "San Diego",
-    "Location": "International border with Mexico",
-    "AcresBurned": 100,
-    "PercentContained": 0,
-    "Longitude": -116.62747,
-    "Latitude": 32.57638,
-    "Type": null,
-    "UniqueId": "d86fe85e-66ba-40cf-8582-2b3216839b39",
-    "Url": "/incidents/2023/7/26/border-20-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
