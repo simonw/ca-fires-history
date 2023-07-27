@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/caanf-agua-fire"
+  },
+  {
+    "Name": "Bonny Fire",
+    "Updated": "2023-07-27",
+    "Started": "2023-07-27",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "45000 Block of Bonny Lane, Aguanga",
+    "AcresBurned": 30,
+    "PercentContained": 0,
+    "Longitude": -116.7247,
+    "Latitude": 33.4769,
+    "Type": null,
+    "UniqueId": "9140903a-8dd4-45f9-aac7-70921d3f1948",
+    "Url": "/incidents/2023/7/27/bonny-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
