@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Sunset Fire",
+    "Updated": "2023-07-27",
+    "Started": "2023-07-27",
+    "AdminUnit": "CAL FIRE Riverside County Fire",
+    "County": "Riverside",
+    "Location": "Mesa Street cross of Gilman Street, Banning CA",
+    "AcresBurned": 103,
+    "PercentContained": 50,
+    "Longitude": -116.9081,
+    "Latitude": 33.9372,
+    "Type": null,
+    "UniqueId": "6444fb86-d180-4a36-98fe-e2959a14965d",
+    "Url": "/incidents/2023/7/27/sunset-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
