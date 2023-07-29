@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Scodie Fire",
+    "Updated": "2023-07-29",
+    "Started": "2023-07-28",
+    "AdminUnit": "Kern County Fire Department",
+    "County": "Kern",
+    "Location": "Highway 178 and Scodie Park Road, near Onyx",
+    "AcresBurned": 10,
+    "PercentContained": 10,
+    "Longitude": -118.2148,
+    "Latitude": 35.6967,
+    "Type": null,
+    "UniqueId": "3e418d3a-f64b-48cf-9a0a-f6f893ddf75c",
+    "Url": "/incidents/2023/7/28/scodie-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
