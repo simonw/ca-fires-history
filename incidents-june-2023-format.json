@@ -73,7 +73,7 @@
   },
   {
     "Name": "Bonny Fire",
-    "Updated": "2023-07-29",
+    "Updated": "2023-07-30",
     "Started": "2023-07-27",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "County": "Riverside",
@@ -103,24 +103,6 @@
     "Type": null,
     "UniqueId": "3e418d3a-f64b-48cf-9a0a-f6f893ddf75c",
     "Url": "/incidents/2023/7/28/scodie-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
-    "Name": "Flynn Fire",
-    "Updated": "2023-07-29",
-    "Started": "2023-07-29",
-    "AdminUnit": "CAL FIRE Santa Clara Unit",
-    "County": "Alameda",
-    "Location": "I-580 and North Flynn Road, Altamont ",
-    "AcresBurned": 79,
-    "PercentContained": 20,
-    "Longitude": -121.6065,
-    "Latitude": 37.7356,
-    "Type": null,
-    "UniqueId": "09e1c7bf-e40b-4843-b245-917cb162130b",
-    "Url": "/incidents/2023/7/29/flynn-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
