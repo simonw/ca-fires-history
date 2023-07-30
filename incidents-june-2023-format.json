@@ -106,5 +106,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Shell Fire",
+    "Updated": "2023-07-30",
+    "Started": "2023-07-30",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "County": "San Luis Obispo",
+    "Location": "Shell Creek and HWY 58, east of Creston",
+    "AcresBurned": 60,
+    "PercentContained": 0,
+    "Longitude": -120.334625,
+    "Latitude": 35.458459,
+    "Type": null,
+    "UniqueId": "6550e4e3-ef7f-4ebd-87ca-4a4244fdffd2",
+    "Url": "/incidents/2023/7/30/shell-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
