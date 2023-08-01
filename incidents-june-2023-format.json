@@ -124,5 +124,41 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/camnp-2023-york-fire"
+  },
+  {
+    "Name": "Haberkern Fire",
+    "Updated": "2023-08-01",
+    "Started": "2023-08-01",
+    "AdminUnit": "Kern County Fire ",
+    "County": "Kern",
+    "Location": " Lebec, South of Bakersfield",
+    "AcresBurned": 35,
+    "PercentContained": 30,
+    "Longitude": -118.404,
+    "Latitude": 34.694,
+    "Type": null,
+    "UniqueId": "1df129dd-265c-450d-a605-b46d82ca0436",
+    "Url": "/incidents/2023/8/1/haberkern-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Beale Fire",
+    "Updated": "2023-08-01",
+    "Started": "2023-08-01",
+    "AdminUnit": "Kern County Fire",
+    "County": "Kern",
+    "Location": "Hart Flat, West of Tehachapi",
+    "AcresBurned": 52,
+    "PercentContained": 60,
+    "Longitude": -118.518,
+    "Latitude": 35.188,
+    "Type": null,
+    "UniqueId": "5b23e547-15ae-4b24-a9dd-6d8a8298c0cd",
+    "Url": "/incidents/2023/8/1/beale-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
