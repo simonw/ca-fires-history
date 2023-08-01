@@ -196,5 +196,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "East Fire ",
+    "Updated": "2023-08-01",
+    "Started": "2023-08-01",
+    "AdminUnit": "Kern County Fire Department",
+    "County": "Kern",
+    "Location": "24118 Round Mountain Road, Bakersfield",
+    "AcresBurned": 0,
+    "PercentContained": 0,
+    "Longitude": -118.901897,
+    "Latitude": 35.516539,
+    "Type": null,
+    "UniqueId": "29d92f74-bbef-483e-9cf5-4f45aa82a8ba",
+    "Url": "/incidents/2023/8/1/east-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
