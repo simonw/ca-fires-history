@@ -178,5 +178,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "RV Fire",
+    "Updated": "2023-08-01",
+    "Started": "2023-08-01",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "County": "Merced",
+    "Location": "Interstate 5 near Arburua Rd",
+    "AcresBurned": 29,
+    "PercentContained": 0,
+    "Longitude": -120.8839,
+    "Latitude": 36.9648,
+    "Type": null,
+    "UniqueId": "e9755bce-f853-4b18-82b7-cdf0921d62a5",
+    "Url": "/incidents/2023/8/1/rv-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
