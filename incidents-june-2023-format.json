@@ -180,6 +180,24 @@
     "ExternalUrl": ""
   },
   {
+    "Name": "Stanley Fire",
+    "Updated": "2023-08-02",
+    "Started": "2023-08-02",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "Stanley Road & Red Mountain Road, Hemet",
+    "AcresBurned": 15,
+    "PercentContained": 0,
+    "Longitude": -116.84334,
+    "Latitude": 33.602019,
+    "Type": null,
+    "UniqueId": "08b36383-406f-49a5-bf71-0c629c3c0010",
+    "Url": "/incidents/2023/8/2/stanley-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Almond Fire",
     "Updated": "2023-08-02",
     "Started": "2023-08-02",
