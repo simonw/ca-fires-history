@@ -162,24 +162,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Nuevo Fire",
-    "Updated": "2023-08-01",
-    "Started": "2023-08-01",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "31120 Nuevo Road, Juniper Hills",
-    "AcresBurned": 10,
-    "PercentContained": 0,
-    "Longitude": -117.11938,
-    "Latitude": 33.7995,
-    "Type": null,
-    "UniqueId": "55585f3b-648c-476d-bccb-e2939fd1a670",
-    "Url": "/incidents/2023/8/1/nuevo-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "East Fire ",
     "Updated": "2023-08-02",
     "Started": "2023-08-01",
