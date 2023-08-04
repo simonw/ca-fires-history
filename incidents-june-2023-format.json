@@ -90,42 +90,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Stanley Fire",
-    "Updated": "2023-08-03",
-    "Started": "2023-08-02",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "Stanley Road & Red Mountain Road, Hemet",
-    "AcresBurned": 16,
-    "PercentContained": 50,
-    "Longitude": -116.84334,
-    "Latitude": 33.602019,
-    "Type": null,
-    "UniqueId": "08b36383-406f-49a5-bf71-0c629c3c0010",
-    "Url": "/incidents/2023/8/2/stanley-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
-    "Name": "Almond Fire",
-    "Updated": "2023-08-02",
-    "Started": "2023-08-02",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "Bonita Avenue and Poplar Street, Cabazon",
-    "AcresBurned": 95,
-    "PercentContained": 70,
-    "Longitude": -116.76111,
-    "Latitude": 33.91436,
-    "Type": null,
-    "UniqueId": "e595da7d-9cd4-48a3-9b11-5363cfd066e1",
-    "Url": "/incidents/2023/8/2/almond-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Clayton Fire",
     "Updated": "2023-08-04",
     "Started": "2023-08-03",
@@ -145,9 +109,9 @@
   },
   {
     "Name": "Tecuya Fire",
-    "Updated": "2023-08-03",
+    "Updated": "2023-08-04",
     "Started": "2023-08-02",
-    "AdminUnit": "Lead Agency:  USFS/ Los Padres National Forest",
+    "AdminUnit": "USFS/Los Padres National Forest",
     "County": "Kern",
     "Location": "North of Frazier Park, Tecuya Mountain",
     "AcresBurned": 0,
@@ -159,6 +123,6 @@
     "Url": "/incidents/2023/8/2/tecuya-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": ""
+    "ExternalUrl": "https://www.fs.usda.gov/"
   }
 ]
