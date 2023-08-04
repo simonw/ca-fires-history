@@ -55,13 +55,13 @@
   },
   {
     "Name": "York Fire",
-    "Updated": "2023-08-03",
+    "Updated": "2023-08-04",
     "Started": "2023-08-01",
     "AdminUnit": "Mojave National Preserve ",
     "County": "San Bernardino",
     "Location": "New York Mountains, San Bernardino County, and Clark County",
-    "AcresBurned": 94009,
-    "PercentContained": 34,
+    "AcresBurned": 0,
+    "PercentContained": 0,
     "Longitude": -115.317389,
     "Latitude": 35.191889,
     "Type": null,
@@ -69,7 +69,7 @@
     "Url": "/incidents/2023/8/1/york-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/camnp-2023-york-fire"
+    "ExternalUrl": "https://inciweb.wildfire.gov/incident-publication/camnp-2023-york-fire/york-fire-update-73123-830am"
   },
   {
     "Name": "Beale Fire",
