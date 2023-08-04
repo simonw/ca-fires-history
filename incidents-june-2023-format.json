@@ -160,5 +160,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Tecuya Fire",
+    "Updated": "2023-08-03",
+    "Started": "2023-08-02",
+    "AdminUnit": "Lead Agency:  USFS/ Los Padres National Forest",
+    "County": "Kern",
+    "Location": "North of Frazier Park, Tecuya Mountain",
+    "AcresBurned": 0,
+    "PercentContained": 0,
+    "Longitude": -118.997325,
+    "Latitude": 34.847129,
+    "Type": null,
+    "UniqueId": "3178236b-9195-40af-93c6-34e7d13f405a",
+    "Url": "/incidents/2023/8/2/tecuya-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
