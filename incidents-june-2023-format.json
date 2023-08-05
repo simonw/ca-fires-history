@@ -160,5 +160,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Ridge Fire",
+    "Updated": "2023-08-04",
+    "Started": "2023-08-04",
+    "AdminUnit": "CALFIRE Shasta-Trinity Unit",
+    "County": "Shasta",
+    "Location": "15000 block of Fawn Ridge Drive, French Gulch, Ca",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -122.6245166,
+    "Latitude": 40.7359861,
+    "Type": null,
+    "UniqueId": "020c90c3-3cbb-4bd2-b120-62b1be73cbf8",
+    "Url": "/incidents/2023/8/4/ridge-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
