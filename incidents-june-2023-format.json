@@ -142,5 +142,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "No Name Fire",
+    "Updated": "2023-08-05",
+    "Started": "2023-08-05",
+    "AdminUnit": "Kern County Fire",
+    "County": "Kern",
+    "Location": "Sand Canyon Rd , southwest of Pearsonville",
+    "AcresBurned": 300,
+    "PercentContained": 0,
+    "Longitude": -117.8875,
+    "Latitude": 35.78611,
+    "Type": null,
+    "UniqueId": "128eaf5b-0947-44d0-9df9-fd7975d0fe9d",
+    "Url": "/incidents/2023/8/5/no-name-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
