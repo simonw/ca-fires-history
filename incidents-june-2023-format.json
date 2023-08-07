@@ -160,5 +160,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Almond Fire",
+    "Updated": "2023-08-06",
+    "Started": "2023-08-06",
+    "AdminUnit": "Kern County Fire",
+    "County": "Kern",
+    "Location": "Highway 46 and highway 33 West of Lost Hills. ",
+    "AcresBurned": 2100,
+    "PercentContained": 0,
+    "Longitude": -119.84444,
+    "Latitude": 36.61388,
+    "Type": null,
+    "UniqueId": "ac1b69c8-652d-428a-90eb-008eff0029d7",
+    "Url": "/incidents/2023/8/6/almond-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
