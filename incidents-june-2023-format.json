@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Rock Fire",
+    "Updated": "2023-08-09",
+    "Started": "2023-08-09",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "Southwest of Martin St & Davis Rd, Lake Perris",
+    "AcresBurned": 106,
+    "PercentContained": 0,
+    "Longitude": -117.150639,
+    "Latitude": 33.871189,
+    "Type": null,
+    "UniqueId": "0a2ff66b-76bc-4671-9afe-a2023060b6d9",
+    "Url": "/incidents/2023/8/9/rock-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
