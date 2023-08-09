@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Bunnie Fire",
+    "Updated": "2023-08-09",
+    "Started": "2023-08-09",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "County": "San Diego",
+    "Location": "San Vicente Road and Chuck Wagon Road",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -116.848017,
+    "Latitude": 32.998172,
+    "Type": null,
+    "UniqueId": "bdbc6903-5fea-4b29-9ddf-874bfd7174c8",
+    "Url": "/incidents/2023/8/9/bunnie-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
