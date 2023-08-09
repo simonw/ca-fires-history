@@ -18,24 +18,6 @@
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/caanf-agua-fire"
   },
   {
-    "Name": "Bonny Fire",
-    "Updated": "2023-08-04",
-    "Started": "2023-07-27",
-    "AdminUnit": "Unified Command: CAL FIRE Riverside Unit and Riverside County Sheriff's Department. ",
-    "County": "Riverside",
-    "Location": "45000 Block of Bonny Lane, near Aguanga",
-    "AcresBurned": 2322,
-    "PercentContained": 98,
-    "Longitude": -116.7247,
-    "Latitude": 33.4769,
-    "Type": null,
-    "UniqueId": "9140903a-8dd4-45f9-aac7-70921d3f1948",
-    "Url": "/incidents/2023/7/27/bonny-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "York Fire",
     "Updated": "2023-08-05",
     "Started": "2023-08-01",
@@ -106,24 +88,6 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://www.fs.usda.gov/"
-  },
-  {
-    "Name": "Ridge Fire",
-    "Updated": "2023-08-06",
-    "Started": "2023-08-04",
-    "AdminUnit": "CALFIRE Shasta-Trinity Unit",
-    "County": "Shasta",
-    "Location": "15000 block of Fawn Ridge Drive, French Gulch, Ca",
-    "AcresBurned": 28,
-    "PercentContained": 90,
-    "Longitude": -122.624538,
-    "Latitude": 40.735974,
-    "Type": null,
-    "UniqueId": "8ae10edc-77d0-4df3-a398-846bea7acac0",
-    "Url": "/incidents/2023/8/4/ridge-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   },
   {
     "Name": "No Name Fire",
