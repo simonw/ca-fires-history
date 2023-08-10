@@ -106,5 +106,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Dry Creek Complex",
+    "Updated": "2023-08-10",
+    "Started": "2023-08-10",
+    "AdminUnit": "CAL FIRE Tulare Unit",
+    "County": "Tulare",
+    "Location": "Dry Creek Drive near East Fork Dry Creek and North of Woodlake, in Tulare County",
+    "AcresBurned": 375,
+    "PercentContained": 5,
+    "Longitude": -119.0113,
+    "Latitude": 36.5323,
+    "Type": null,
+    "UniqueId": "954a9ca6-3863-4a6f-b22f-fc6bb6fcef6c",
+    "Url": "/incidents/2023/8/10/dry-creek-complex/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
