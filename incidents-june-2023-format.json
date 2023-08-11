@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Agua Fire",
-    "Updated": "2023-07-27",
-    "Started": "2023-07-25",
-    "AdminUnit": "Angeles National Forest ",
-    "County": "Los Angeles",
-    "Location": "Soledad Canyon, west of Acton",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -118.326389,
-    "Latitude": 34.438333,
-    "Type": null,
-    "UniqueId": "287f3a55-d3a6-4273-ad3c-c66910a12cb9",
-    "Url": "/incidents/2023/7/25/agua-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/caanf-agua-fire"
-  },
-  {
     "Name": "York Fire",
     "Updated": "2023-08-05",
     "Started": "2023-08-01",
