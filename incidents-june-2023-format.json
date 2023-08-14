@@ -16,23 +16,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.wildfire.gov/incident-publication/camnp-2023-york-fire/york-fire-update-73123-830am"
-  },
-  {
-    "Name": "Dry Creek Complex",
-    "Updated": "2023-08-13",
-    "Started": "2023-08-10",
-    "AdminUnit": "CAL FIRE Tulare Unit",
-    "County": "Tulare",
-    "Location": "Dry Creek Road and Mile Marker 4, northeast of Woodlake in Tulare County",
-    "AcresBurned": 441,
-    "PercentContained": 70,
-    "Longitude": -119.0113,
-    "Latitude": 36.5323,
-    "Type": null,
-    "UniqueId": "954a9ca6-3863-4a6f-b22f-fc6bb6fcef6c",
-    "Url": "/incidents/2023/8/10/dry-creek-complex/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
