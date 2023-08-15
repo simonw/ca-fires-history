@@ -16,5 +16,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.wildfire.gov/incident-publication/camnp-2023-york-fire/york-fire-update-73123-830am"
+  },
+  {
+    "Name": "Trotter Dr. Fire",
+    "Updated": "2023-08-14",
+    "Started": "2023-08-14",
+    "AdminUnit": "Lead Agency: Kern County Fire Department",
+    "County": "Kern",
+    "Location": "Trotter Dr and Skyline Dr, West of Tehachapi ",
+    "AcresBurned": 0,
+    "PercentContained": 0,
+    "Longitude": -118.6027987,
+    "Latitude": 35.1387962,
+    "Type": null,
+    "UniqueId": "2b5b710e-acec-4818-9d26-22062a75d793",
+    "Url": "/incidents/2023/8/14/trotter-dr-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
