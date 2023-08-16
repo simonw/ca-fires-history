@@ -34,5 +34,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://kerncountyfire.org/"
+  },
+  {
+    "Name": "Bitter Fire",
+    "Updated": "2023-08-15",
+    "Started": "2023-08-15",
+    "AdminUnit": "CALFIRE - San Luis Obispo Unit",
+    "County": "San Luis Obispo",
+    "Location": "Soda Lake Road and Bitterwater Road, Southeast of Shandon",
+    "AcresBurned": 150,
+    "PercentContained": 0,
+    "Longitude": -120.0574,
+    "Latitude": 35.4854,
+    "Type": null,
+    "UniqueId": "db55b282-4079-4a2a-beb8-e85f42b0491b",
+    "Url": "/incidents/2023/8/15/bitter-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": "https://calfireslo.org/"
   }
 ]
