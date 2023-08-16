@@ -36,7 +36,7 @@
     "ExternalUrl": "https://kerncountyfire.org/"
   },
   {
-    "Name": "August Lightning Complex",
+    "Name": "SKU August Lightning Complex",
     "Updated": "2023-08-16",
     "Started": "2023-08-15",
     "AdminUnit": "CALFIRE Siskiyou Unit",
@@ -48,9 +48,27 @@
     "Latitude": 41.2477,
     "Type": null,
     "UniqueId": "c9ed4253-40dd-4388-8988-d832d313a728",
-    "Url": "/incidents/2023/8/15/august-lightning-complex/",
+    "Url": "/incidents/2023/8/15/sku-august-lightning-complex/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Klamath National Forest",
+    "Updated": "2023-08-16",
+    "Started": "2023-08-16",
+    "AdminUnit": "Klamath National Forest Service",
+    "County": "Siskiyou",
+    "Location": "Klamath and Scott Rivers",
+    "AcresBurned": 0,
+    "PercentContained": 0,
+    "Longitude": -123,
+    "Latitude": 41.740833,
+    "Type": null,
+    "UniqueId": "768cfece-dfab-4ca3-adbb-b7e4cc150592",
+    "Url": "/incidents/2023/8/16/klamath-national-forest/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/caknf-2023-klamath-national-forest-august-lightning-fires"
   }
 ]
