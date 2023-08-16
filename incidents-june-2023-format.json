@@ -18,7 +18,7 @@
     "ExternalUrl": "https://inciweb.wildfire.gov/incident-publication/camnp-2023-york-fire/york-fire-update-73123-830am"
   },
   {
-    "Name": "Trotter Dr. Fire",
+    "Name": "Trotter",
     "Updated": "2023-08-16",
     "Started": "2023-08-14",
     "AdminUnit": "Kern County Fire Department",
@@ -30,13 +30,13 @@
     "Latitude": 35.1387962,
     "Type": null,
     "UniqueId": "2b5b710e-acec-4818-9d26-22062a75d793",
-    "Url": "/incidents/2023/8/14/trotter-dr-fire/",
+    "Url": "/incidents/2023/8/14/trotter/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://kerncountyfire.org/"
   },
   {
-    "Name": "SKU August Lightning Complex",
+    "Name": "August Lightning Complex",
     "Updated": "2023-08-16",
     "Started": "2023-08-15",
     "AdminUnit": "CALFIRE Siskiyou Unit",
@@ -48,7 +48,7 @@
     "Latitude": 41.2477,
     "Type": null,
     "UniqueId": "c9ed4253-40dd-4388-8988-d832d313a728",
-    "Url": "/incidents/2023/8/15/sku-august-lightning-complex/",
+    "Url": "/incidents/2023/8/15/august-lightning-complex/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
