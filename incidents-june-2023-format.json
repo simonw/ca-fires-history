@@ -72,7 +72,7 @@
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/caknf-2023-klamath-national-forest-august-lightning-fires"
   },
   {
-    "Name": "Upper Fire",
+    "Name": "Deep Fire",
     "Updated": "2023-08-16",
     "Started": "2023-08-16",
     "AdminUnit": "Shasta-Trinity National Forest Service",
@@ -84,7 +84,7 @@
     "Latitude": 40.93686,
     "Type": null,
     "UniqueId": "47a47e9a-ab8a-4f4c-91fb-3504843cdf45",
-    "Url": "/incidents/2023/8/16/upper-fire/",
+    "Url": "/incidents/2023/8/16/deep-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://www.facebook.com/ShastaTrinityNF"
