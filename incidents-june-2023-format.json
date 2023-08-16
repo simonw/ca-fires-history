@@ -126,24 +126,6 @@
     "ExternalUrl": "https://www.fs.usda.gov/klamath"
   },
   {
-    "Name": "Smith River Complex",
-    "Updated": "2023-08-16",
-    "Started": "2023-08-16",
-    "AdminUnit": "Six Rivers National Forest Service",
-    "County": "Siskiyou",
-    "Location": "South of Rockland",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -123.89598,
-    "Latitude": 41.95189,
-    "Type": null,
-    "UniqueId": "86c9da60-5b2d-4a4a-b686-884740f27803",
-    "Url": "/incidents/2023/8/16/smith-river-complex/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://www.fs.usda.gov/srnf"
-  },
-  {
     "Name": "Lone Pine Fire",
     "Updated": "2023-08-16",
     "Started": "2023-08-15",
