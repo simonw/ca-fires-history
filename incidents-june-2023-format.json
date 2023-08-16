@@ -54,7 +54,7 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Klamath National Forest",
+    "Name": "Klamath National Forest Lightning Complex",
     "Updated": "2023-08-16",
     "Started": "2023-08-16",
     "AdminUnit": "Klamath National Forest Service",
@@ -66,9 +66,45 @@
     "Latitude": 41.740833,
     "Type": null,
     "UniqueId": "768cfece-dfab-4ca3-adbb-b7e4cc150592",
-    "Url": "/incidents/2023/8/16/klamath-national-forest/",
+    "Url": "/incidents/2023/8/16/klamath-national-forest-lightning-complex/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/caknf-2023-klamath-national-forest-august-lightning-fires"
+  },
+  {
+    "Name": "Upper Fire",
+    "Updated": "2023-08-16",
+    "Started": "2023-08-16",
+    "AdminUnit": "Shasta-Trinity National Forest Service",
+    "County": "Shasta",
+    "Location": "Stuart Fork drainage",
+    "AcresBurned": 0,
+    "PercentContained": 0,
+    "Longitude": -122.94871,
+    "Latitude": 40.93686,
+    "Type": null,
+    "UniqueId": "47a47e9a-ab8a-4f4c-91fb-3504843cdf45",
+    "Url": "/incidents/2023/8/16/upper-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": "https://www.facebook.com/ShastaTrinityNF"
+  },
+  {
+    "Name": "Slide Fire",
+    "Updated": "2023-08-16",
+    "Started": "2023-08-16",
+    "AdminUnit": "Mendocino National Forest Service",
+    "County": "Mendocino",
+    "Location": "North of Mount Linn",
+    "AcresBurned": 0,
+    "PercentContained": 0,
+    "Longitude": -122.855,
+    "Latitude": 40.036944,
+    "Type": null,
+    "UniqueId": "b552934b-98f7-48dd-bbd5-33e1caf89817",
+    "Url": "/incidents/2023/8/16/slide-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": "https://www.facebook.com/MendocinoNF"
   }
 ]
