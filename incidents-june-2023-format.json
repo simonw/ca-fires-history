@@ -37,7 +37,7 @@
   },
   {
     "Name": "Klamath National Forest Lightning Complex",
-    "Updated": "2023-08-16",
+    "Updated": "2023-08-17",
     "Started": "2023-08-16",
     "AdminUnit": "Klamath National Forest Service",
     "County": "Siskiyou",
@@ -127,7 +127,7 @@
   },
   {
     "Name": "Lone Pine Fire",
-    "Updated": "2023-08-16",
+    "Updated": "2023-08-17",
     "Started": "2023-08-15",
     "AdminUnit": "Six Rivers National Forest",
     "County": "Trinity",
@@ -165,7 +165,7 @@
     "Name": "Highway Fire",
     "Updated": "2023-08-17",
     "Started": "2023-08-16",
-    "AdminUnit": "U.S. Forest Service - Tahoe National Forest\r\nCAL FIRE Nevada-Yuba-Placer Unit",
+    "AdminUnit": "U.S. Forest Service - Tahoe National Forest",
     "County": "Nevada",
     "Location": "Washington Road south of Alpha Road",
     "AcresBurned": 0,
