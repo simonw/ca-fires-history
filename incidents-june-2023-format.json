@@ -108,24 +108,6 @@
     "ExternalUrl": "https://www.fs.usda.gov/klamath"
   },
   {
-    "Name": "Prescott Fire",
-    "Updated": "2023-08-16",
-    "Started": "2023-08-16",
-    "AdminUnit": "Six Rivers National Forest Service",
-    "County": "Del Norte",
-    "Location": "West to Southwest of Prescott Mountain",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -123.68485,
-    "Latitude": 41.72538,
-    "Type": null,
-    "UniqueId": "d4208918-4369-4505-9c2f-b05290fd1a63",
-    "Url": "/incidents/2023/8/16/prescott-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://www.fs.usda.gov/main/srnf/fire"
-  },
-  {
     "Name": "Lone Pine Fire",
     "Updated": "2023-08-17",
     "Started": "2023-08-15",
@@ -145,7 +127,7 @@
   },
   {
     "Name": "Smith River Complex",
-    "Updated": "2023-08-16",
+    "Updated": "2023-08-17",
     "Started": "2023-08-15",
     "AdminUnit": "Six Rivers National Forest",
     "County": "Del Norte",
