@@ -163,9 +163,9 @@
   },
   {
     "Name": "Highway Fire",
-    "Updated": "2023-08-16",
+    "Updated": "2023-08-17",
     "Started": "2023-08-16",
-    "AdminUnit": "Tahoe National Forest",
+    "AdminUnit": "U.S. Forest Service - Tahoe National Forest\r\nCAL FIRE Nevada-Yuba-Placer Unit",
     "County": "Nevada",
     "Location": "Washington Road south of Alpha Road",
     "AcresBurned": 0,
