@@ -196,5 +196,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Happy Camp Complex",
+    "Updated": "2023-08-18",
+    "Started": "2023-08-16",
+    "AdminUnit": " Klamath National Forest Service",
+    "County": "Siskiyou",
+    "Location": "Klamath National Forest",
+    "AcresBurned": 0,
+    "PercentContained": 0,
+    "Longitude": -123.045093,
+    "Latitude": 41.777554,
+    "Type": null,
+    "UniqueId": "2b9ad272-c3c1-4de1-870d-d35b1e383912",
+    "Url": "/incidents/2023/8/16/happy-camp-complex/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/caknf-2023-happy-camp-complex-klamath-nf"
   }
 ]
