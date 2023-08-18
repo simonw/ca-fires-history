@@ -187,7 +187,7 @@
     "County": "San Diego",
     "Location": "Coyote Holler Rd and Round Potrero Road, Potrero",
     "AcresBurned": 400,
-    "PercentContained": 0,
+    "PercentContained": 5,
     "Longitude": -116.6415,
     "Latitude": 32.6347,
     "Type": null,
