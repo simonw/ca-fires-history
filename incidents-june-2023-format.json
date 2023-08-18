@@ -90,24 +90,6 @@
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/camnf-2023-slide-1"
   },
   {
-    "Name": "Scott Fire",
-    "Updated": "2023-08-16",
-    "Started": "2023-08-16",
-    "AdminUnit": " Klamath National Forest Service",
-    "County": "Siskiyou",
-    "Location": "Near the Scott Bar Lookout",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -123.07098,
-    "Latitude": 41.67529,
-    "Type": null,
-    "UniqueId": "ebe3522a-03f4-457f-85c2-90a5c7bd801c",
-    "Url": "/incidents/2023/8/16/scott-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://www.fs.usda.gov/klamath"
-  },
-  {
     "Name": "Lone Pine Fire",
     "Updated": "2023-08-18",
     "Started": "2023-08-15",
