@@ -55,7 +55,7 @@
   },
   {
     "Name": "Deep Fire",
-    "Updated": "2023-08-17",
+    "Updated": "2023-08-19",
     "Started": "2023-08-16",
     "AdminUnit": "Shasta-Trinity National Forest Service",
     "County": "Trinity",
@@ -72,8 +72,8 @@
     "ExternalUrl": "https://www.facebook.com/ShastaTrinityNF"
   },
   {
-    "Name": "Slide Fire",
-    "Updated": "2023-08-16",
+    "Name": "Slide 1 Fire",
+    "Updated": "2023-08-19",
     "Started": "2023-08-16",
     "AdminUnit": "Mendocino National Forest Service",
     "County": "Mendocino",
@@ -84,16 +84,16 @@
     "Latitude": 40.036944,
     "Type": null,
     "UniqueId": "b552934b-98f7-48dd-bbd5-33e1caf89817",
-    "Url": "/incidents/2023/8/16/slide-fire/",
+    "Url": "/incidents/2023/8/16/slide-1-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/camnf-2023-slide-1"
   },
   {
     "Name": "Lone Pine Fire",
-    "Updated": "2023-08-18",
+    "Updated": "2023-08-19",
     "Started": "2023-08-15",
-    "AdminUnit": "Six Rivers National Forest",
+    "AdminUnit": "Six Rivers National Forest Service",
     "County": "Trinity",
     "Location": "North of Horse Linto Creek and East of Trinity River",
     "AcresBurned": 0,
