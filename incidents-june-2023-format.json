@@ -98,14 +98,14 @@
     "Location": "Humboldt County",
     "AcresBurned": 4080,
     "PercentContained": 15,
-    "Longitude": 0,
-    "Latitude": 0,
+    "Longitude": -123.611167,
+    "Latitude": 41.017222,
     "Type": null,
     "UniqueId": "ad8025a3-0060-49db-a048-bce567ee0a57",
     "Url": "/incidents/2023/8/20/srf-lightning-complex/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": ""
+    "ExternalUrl": "https://www.fs.usda.gov/srnf"
   },
   {
     "Name": "Smith River Complex",
