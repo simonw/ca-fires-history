@@ -108,24 +108,6 @@
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/casrf-smith-river-complex-"
   },
   {
-    "Name": "Highway Fire",
-    "Updated": "2023-08-17",
-    "Started": "2023-08-16",
-    "AdminUnit": "U.S. Forest Service - Tahoe National Forest",
-    "County": "Nevada",
-    "Location": "Washington Road south of Alpha Road",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -120.788152,
-    "Latitude": 39.339386,
-    "Type": null,
-    "UniqueId": "057328b4-b239-4e07-ba59-441522e6a47e",
-    "Url": "/incidents/2023/8/16/highway-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://www.fs.usda.gov/main/tahoe/fire"
-  },
-  {
     "Name": "Cochrane Fire",
     "Updated": "2023-08-18",
     "Started": "2023-08-16",
