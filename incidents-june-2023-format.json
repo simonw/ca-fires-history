@@ -72,24 +72,6 @@
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/camnf-2023-slide-1"
   },
   {
-    "Name": "SRF Lightning Complex",
-    "Updated": "2023-08-20",
-    "Started": "2023-08-20",
-    "AdminUnit": "Unified Command: Six Rivers National Forest & CAL FIRE Humboldt-Del Norte Unit",
-    "County": "Humboldt",
-    "Location": "Humboldt County",
-    "AcresBurned": 4080,
-    "PercentContained": 15,
-    "Longitude": -123.611167,
-    "Latitude": 41.017222,
-    "Type": null,
-    "UniqueId": "ad8025a3-0060-49db-a048-bce567ee0a57",
-    "Url": "/incidents/2023/8/20/srf-lightning-complex/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html"
-  },
-  {
     "Name": "Smith River Complex",
     "Updated": "2023-08-17",
     "Started": "2023-08-15",
@@ -160,5 +142,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://www.fs.usda.gov/main/srnf/fire"
+  },
+  {
+    "Name": "SRF Lightning Complex",
+    "Updated": "2023-08-20",
+    "Started": "2023-08-20",
+    "AdminUnit": "Unified Command: Six Rivers National Forest & CAL FIRE Humboldt-Del Norte Unit",
+    "County": "Humboldt",
+    "Location": "Humboldt County",
+    "AcresBurned": 4080,
+    "PercentContained": 15,
+    "Longitude": -123.611167,
+    "Latitude": 41.017222,
+    "Type": null,
+    "UniqueId": "ad8025a3-0060-49db-a048-bce567ee0a57",
+    "Url": "/incidents/2023/8/20/srf-lightning-complex/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": "https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html"
   }
 ]
