@@ -160,23 +160,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://www.fs.usda.gov/main/srnf/fire"
-  },
-  {
-    "Name": "Plant Fire",
-    "Updated": "2023-08-22",
-    "Started": "2023-08-19",
-    "AdminUnit": "Unified Command: Santa Barbara County Fire Department and Los Padres National Forest",
-    "County": "Santa Barbara",
-    "Location": "Aliso Park Road and Foothill Road, New Cuyama",
-    "AcresBurned": 5464,
-    "PercentContained": 75,
-    "Longitude": -119.73328,
-    "Latitude": 34.9190169,
-    "Type": null,
-    "UniqueId": "e3297f9e-f753-49b6-9cdf-78700edde34f",
-    "Url": "/incidents/2023/8/19/plant-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
