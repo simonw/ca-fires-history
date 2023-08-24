@@ -54,24 +54,6 @@
     "ExternalUrl": "https://www.facebook.com/ShastaTrinityNF"
   },
   {
-    "Name": "Slide 1 Fire",
-    "Updated": "2023-08-19",
-    "Started": "2023-08-16",
-    "AdminUnit": "Mendocino National Forest Service",
-    "County": "Mendocino",
-    "Location": "North of Mount Linn",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -122.855,
-    "Latitude": 40.036944,
-    "Type": null,
-    "UniqueId": "b552934b-98f7-48dd-bbd5-33e1caf89817",
-    "Url": "/incidents/2023/8/16/slide-1-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/camnf-2023-slide-1"
-  },
-  {
     "Name": "Smith River Complex",
     "Updated": "2023-08-17",
     "Started": "2023-08-15",
