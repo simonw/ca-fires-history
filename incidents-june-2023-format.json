@@ -1,23 +1,5 @@
 [
   {
-    "Name": "SKU August Lightning Complex",
-    "Updated": "2023-08-25",
-    "Started": "2023-08-15",
-    "AdminUnit": "CAL FIRE Siskiyou Unit",
-    "County": "Siskiyou",
-    "Location": "Siskiyou County",
-    "AcresBurned": 883,
-    "PercentContained": 100,
-    "Longitude": -121.5041,
-    "Latitude": 41.2477,
-    "Type": null,
-    "UniqueId": "c9ed4253-40dd-4388-8988-d832d313a728",
-    "Url": "/incidents/2023/8/15/sku-august-lightning-complex/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Klamath National Forest Lightning Complex",
     "Updated": "2023-08-18",
     "Started": "2023-08-16",
