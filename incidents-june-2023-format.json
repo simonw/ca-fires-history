@@ -109,13 +109,13 @@
   },
   {
     "Name": "SRF Lightning Complex",
-    "Updated": "2023-08-23",
+    "Updated": "2023-08-25",
     "Started": "2023-08-20",
     "AdminUnit": "Unified Command: Six Rivers National Forest & CAL FIRE Humboldt-Del Norte Unit",
     "County": "Humboldt",
     "Location": "Humboldt County",
-    "AcresBurned": 5441,
-    "PercentContained": 15,
+    "AcresBurned": 0,
+    "PercentContained": 0,
     "Longitude": -123.611167,
     "Latitude": 41.017222,
     "Type": null,
@@ -123,6 +123,6 @@
     "Url": "/incidents/2023/8/20/srf-lightning-complex/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": "https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html"
+    "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/casrf-2023-srf-lightning-complex-and-redwood-lightning-complex"
   }
 ]
