@@ -1,7 +1,7 @@
 [
   {
     "Name": "Klamath National Forest Lightning Complex",
-    "Updated": "2023-08-18",
+    "Updated": "2023-09-05",
     "Started": "2023-08-16",
     "AdminUnit": "Klamath National Forest Service",
     "County": "Siskiyou",
@@ -15,7 +15,7 @@
     "Url": "/incidents/2023/8/16/klamath-national-forest-lightning-complex/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/caknf-2023-klamath-national-forest-august-lightning-fires"
+    "ExternalUrl": "https://inciweb.wildfire.gov/incident-information/caknf-2023-klamath-national-forest-lightning-fires"
   },
   {
     "Name": "Deep Fire",
