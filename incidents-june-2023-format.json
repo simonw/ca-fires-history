@@ -124,5 +124,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Knoll Fire",
+    "Updated": "2023-09-10",
+    "Started": "2023-09-10",
+    "AdminUnit": "CAL FIRE - Tuolumne-Calaveras Unit",
+    "County": "Calaveras",
+    "Location": "New Hogan Lake, Valley Springs",
+    "AcresBurned": 30,
+    "PercentContained": 0,
+    "Longitude": -120.9728,
+    "Latitude": 38.4197,
+    "Type": null,
+    "UniqueId": "6d65a6f6-b12a-4ed9-94b9-7f90246c8615",
+    "Url": "/incidents/2023/9/10/knoll-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
