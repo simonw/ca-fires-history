@@ -108,24 +108,6 @@
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/casrf-2023-srf-lightning-complex-and-redwood-lightning-complex"
   },
   {
-    "Name": "Creek Fire",
-    "Updated": "2023-09-08",
-    "Started": "2023-09-06",
-    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
-    "County": "Lake",
-    "Location": "Highway 29 and Clayton Creek Road, south of Lower Lake in Lake County",
-    "AcresBurned": 28,
-    "PercentContained": 95,
-    "Longitude": -122.601667,
-    "Latitude": 38.903333,
-    "Type": null,
-    "UniqueId": "4adc26cb-281f-44ef-b6e2-f3509f1c03be",
-    "Url": "/incidents/2023/9/6/creek-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Knoll Fire",
     "Updated": "2023-09-11",
     "Started": "2023-09-10",
