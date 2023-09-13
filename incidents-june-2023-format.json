@@ -124,5 +124,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Alta Fire",
+    "Updated": "2023-09-12",
+    "Started": "2023-09-12",
+    "AdminUnit": "Sonoma-Lake-Napa Unit",
+    "County": "Napa",
+    "Location": "Wooden Valley Rd and White Creek, northeast of Napa",
+    "AcresBurned": 14,
+    "PercentContained": 35,
+    "Longitude": -122.1796,
+    "Latitude": 38.3702,
+    "Type": null,
+    "UniqueId": "81a42060-b157-40e7-bbb0-a9371a2435c3",
+    "Url": "/incidents/2023/9/12/alta-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
