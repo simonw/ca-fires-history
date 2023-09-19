@@ -106,23 +106,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/casrf-2023-srf-lightning-complex-and-redwood-lightning-complex"
-  },
-  {
-    "Name": "Caliente Fire",
-    "Updated": "2023-09-17",
-    "Started": "2023-09-16",
-    "AdminUnit": "Kern County Fire",
-    "County": "Kern",
-    "Location": "East of Bealville Road and West of Keene",
-    "AcresBurned": 55,
-    "PercentContained": 99,
-    "Longitude": -118.616,
-    "Latitude": 35.2674,
-    "Type": null,
-    "UniqueId": "6c0acbd1-309a-4555-9161-3b757f38d2cc",
-    "Url": "/incidents/2023/9/16/caliente-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
