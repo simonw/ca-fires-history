@@ -106,23 +106,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/casrf-2023-srf-lightning-complex-and-redwood-lightning-complex"
-  },
-  {
-    "Name": "Meadow Fire",
-    "Updated": "2023-09-27",
-    "Started": "2023-09-26",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "Sharp Road and Springs Street, Lake Elsinore",
-    "AcresBurned": 23,
-    "PercentContained": 90,
-    "Longitude": -117.279764,
-    "Latitude": 33.753608,
-    "Type": null,
-    "UniqueId": "f9914d6e-0e0d-49ea-a754-5b380ce3cdf0",
-    "Url": "/incidents/2023/9/26/meadow-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
