@@ -106,5 +106,41 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/casrf-2023-srf-lightning-complex-and-redwood-lightning-complex"
+  },
+  {
+    "Name": "Green Fire",
+    "Updated": "2023-10-06",
+    "Started": "2023-10-06",
+    "AdminUnit": "CAL FIRE San Luis Obispo",
+    "County": "San Luis Obispo",
+    "Location": "6000 Block of Hwy 46 W.  East of Cambria",
+    "AcresBurned": 40,
+    "PercentContained": 0,
+    "Longitude": -120.9739,
+    "Latitude": 35.5421,
+    "Type": null,
+    "UniqueId": "c5c1319d-b98a-4b1e-ac51-65d2f1c2de6f",
+    "Url": "/incidents/2023/10/6/green-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Grade Fire",
+    "Updated": "2023-10-06",
+    "Started": "2023-10-06",
+    "AdminUnit": "Santa Barbra County Fire Department",
+    "County": "Santa Barbara",
+    "Location": "Hwy 101 and Old Coast Hwy, 6 Miles South of Buellton",
+    "AcresBurned": 45,
+    "PercentContained": 0,
+    "Longitude": -120.1959,
+    "Latitude": 34.5423,
+    "Type": null,
+    "UniqueId": "a64fd824-e68a-43a8-bbeb-b153e0c752d6",
+    "Url": "/incidents/2023/10/6/grade-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
