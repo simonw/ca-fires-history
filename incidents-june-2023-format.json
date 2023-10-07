@@ -160,5 +160,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Wiley Fire",
+    "Updated": "2023-10-07",
+    "Started": "2023-10-07",
+    "AdminUnit": "â€¯Fairfield Fire Department/Suisun Fire District",
+    "County": "Solano",
+    "Location": "4600 block of Wiley Lane, Suisun",
+    "AcresBurned": 36,
+    "PercentContained": 0,
+    "Longitude": -121.981732,
+    "Latitude": 38.265241,
+    "Type": null,
+    "UniqueId": "8cb88028-9b7f-49a9-be2d-6d81c7e06193",
+    "Url": "/incidents/2023/10/7/wiley-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
