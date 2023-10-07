@@ -132,8 +132,8 @@
     "AdminUnit": "Santa Barbra County Fire Department",
     "County": "Santa Barbara",
     "Location": "Hwy 101 and Old Coast Hwy, South of Buellton",
-    "AcresBurned": 97,
-    "PercentContained": 80,
+    "AcresBurned": 0,
+    "PercentContained": 0,
     "Longitude": -120.1959,
     "Latitude": 34.5423,
     "Type": null,
@@ -141,7 +141,7 @@
     "Url": "/incidents/2023/10/6/grade-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": ""
+    "ExternalUrl": "https://sbcfire.com/active-incidents/"
   },
   {
     "Name": "Williams Fire",
