@@ -108,24 +108,6 @@
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/casrf-2023-srf-lightning-complex-and-redwood-lightning-complex"
   },
   {
-    "Name": "Green Fire",
-    "Updated": "2023-10-08",
-    "Started": "2023-10-06",
-    "AdminUnit": "CAL FIRE San Luis Obispo",
-    "County": "San Luis Obispo",
-    "Location": "6000 Block of Hwy 46 W., East of Cambria",
-    "AcresBurned": 243,
-    "PercentContained": 95,
-    "Longitude": -120.9739,
-    "Latitude": 35.5421,
-    "Type": null,
-    "UniqueId": "c5c1319d-b98a-4b1e-ac51-65d2f1c2de6f",
-    "Url": "/incidents/2023/10/6/green-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Williams Fire",
     "Updated": "2023-10-09",
     "Started": "2023-10-06",
