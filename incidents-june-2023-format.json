@@ -142,23 +142,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://www.fs.usda.gov/sierra"
-  },
-  {
-    "Name": "Stanley Fire",
-    "Updated": "2023-10-17",
-    "Started": "2023-10-17",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "46000 Stanley Road, in Aguanga",
-    "AcresBurned": 12,
-    "PercentContained": 0,
-    "Longitude": -116.857302,
-    "Latitude": 33.592915,
-    "Type": null,
-    "UniqueId": "c577f6b5-b79e-4e61-b0da-f14fd1bc6dcd",
-    "Url": "/incidents/2023/10/17/stanley-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
