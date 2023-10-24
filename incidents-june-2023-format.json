@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Deep Fire",
-    "Updated": "2023-09-03",
-    "Started": "2023-08-16",
-    "AdminUnit": "Shasta-Trinity National Forest Service",
-    "County": "Trinity",
-    "Location": "Stuart Fork Drainage",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -122.94871,
-    "Latitude": 40.93686,
-    "Type": null,
-    "UniqueId": "47a47e9a-ab8a-4f4c-91fb-3504843cdf45",
-    "Url": "/incidents/2023/8/16/deep-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/cashf-deep-fire"
-  },
-  {
     "Name": "Smith River Complex",
     "Updated": "2023-08-30",
     "Started": "2023-08-15",
