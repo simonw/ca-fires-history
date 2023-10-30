@@ -54,24 +54,6 @@
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/cashf-south-fork-complex"
   },
   {
-    "Name": "SRF Lightning Complex",
-    "Updated": "2023-09-01",
-    "Started": "2023-08-20",
-    "AdminUnit": "Six Rivers National Forest ",
-    "County": "Humboldt",
-    "Location": "Humboldt County",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -123.611167,
-    "Latitude": 41.017222,
-    "Type": null,
-    "UniqueId": "ad8025a3-0060-49db-a048-bce567ee0a57",
-    "Url": "/incidents/2023/8/20/srf-lightning-complex/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/casrf-2023-srf-lightning-complex-and-redwood-lightning-complex"
-  },
-  {
     "Name": "King Fire",
     "Updated": "2023-10-14",
     "Started": "2023-10-14",
