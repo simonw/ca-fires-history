@@ -1,5 +1,23 @@
 [
   {
+    "Name": "Border 34",
+    "Updated": "2023-10-29",
+    "Started": "2023-10-29",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "County": "San Diego",
+    "Location": "Otay Mountain Wilderness, east of Otay Mesa",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -116.9196,
+    "Latitude": 32.598,
+    "Type": null,
+    "UniqueId": "e90b6420-76a9-424b-8e26-67422eadc6a0",
+    "Url": "/incidents/2023/10/29/border-34/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Smith River Complex",
     "Updated": "2023-08-30",
     "Started": "2023-08-15",
