@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Border 34",
-    "Updated": "2023-10-29",
+    "Name": "Border 34 Fire",
+    "Updated": "2023-10-30",
     "Started": "2023-10-29",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "County": "San Diego",
@@ -12,7 +12,7 @@
     "Latitude": 32.598,
     "Type": null,
     "UniqueId": "e90b6420-76a9-424b-8e26-67422eadc6a0",
-    "Url": "/incidents/2023/10/29/border-34/",
+    "Url": "/incidents/2023/10/29/border-34-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
@@ -72,19 +72,19 @@
     "ExternalUrl": "https://www.fs.usda.gov/sierra"
   },
   {
-    "Name": "Highland",
+    "Name": "Highland Fire",
     "Updated": "2023-10-30",
     "Started": "2023-10-30",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "County": "Riverside",
     "Location": "Highland Road and Aguanga Ranchos Road, Aguanga",
-    "AcresBurned": 14,
+    "AcresBurned": 40,
     "PercentContained": 0,
     "Longitude": -116.82307,
     "Latitude": 33.438207,
     "Type": null,
     "UniqueId": "de8dad71-4393-449f-874b-8a6ce378f5b6",
-    "Url": "/incidents/2023/10/30/highland/",
+    "Url": "/incidents/2023/10/30/highland-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
