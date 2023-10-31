@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Border 34 Fire",
-    "Updated": "2023-10-30",
-    "Started": "2023-10-29",
-    "AdminUnit": "CAL FIRE San Diego Unit",
-    "County": "San Diego",
-    "Location": "Otay Mountain Wilderness, east of Otay Mesa",
-    "AcresBurned": 24,
-    "PercentContained": 60,
-    "Longitude": -116.9196,
-    "Latitude": 32.598,
-    "Type": null,
-    "UniqueId": "e90b6420-76a9-424b-8e26-67422eadc6a0",
-    "Url": "/incidents/2023/10/29/border-34-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Smith River Complex",
     "Updated": "2023-08-30",
     "Started": "2023-08-15",
@@ -52,24 +34,6 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/cashf-south-fork-complex"
-  },
-  {
-    "Name": "King Fire",
-    "Updated": "2023-10-14",
-    "Started": "2023-10-14",
-    "AdminUnit": "Sierra National Forest",
-    "County": "Madera",
-    "Location": "Kinsman Flat Road and Mammoth Road, North West of Shaver Lake",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -119.3594,
-    "Latitude": 37.2147,
-    "Type": null,
-    "UniqueId": "8b16db9f-44f5-4559-b53f-8f01a916c91c",
-    "Url": "/incidents/2023/10/14/king-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://www.fs.usda.gov/sierra"
   },
   {
     "Name": "Highland Fire",
