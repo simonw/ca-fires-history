@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Lizzie Fire",
+    "Updated": "2023-10-30",
+    "Started": "2023-10-30",
+    "AdminUnit": "Unified Command: San Luis Obispo City Fire Department/ CAL FIRE San Luis Obispo",
+    "County": "San Luis Obispo",
+    "Location": "City of San Luis Obispo",
+    "AcresBurned": 100,
+    "PercentContained": 0,
+    "Longitude": -120.644,
+    "Latitude": 35.2808,
+    "Type": null,
+    "UniqueId": "87f3453c-ba4e-40dd-930d-c666ce049af1",
+    "Url": "/incidents/2023/10/30/lizzie-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
