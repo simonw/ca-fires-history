@@ -34,23 +34,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/cashf-south-fork-complex"
-  },
-  {
-    "Name": "Highland Fire",
-    "Updated": "2023-11-04",
-    "Started": "2023-10-30",
-    "AdminUnit": "CAL FIRE Riverside, Riverside County Sheriffâ€™s Department, Riverside County Type 3 All Hazard Incident Management Team ",
-    "County": "Riverside",
-    "Location": "Highland Road and Aguanga Ranchos Road, Aguanga",
-    "AcresBurned": 2487,
-    "PercentContained": 80,
-    "Longitude": -116.82307,
-    "Latitude": 33.438207,
-    "Type": null,
-    "UniqueId": "de8dad71-4393-449f-874b-8a6ce378f5b6",
-    "Url": "/incidents/2023/10/30/highland-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
