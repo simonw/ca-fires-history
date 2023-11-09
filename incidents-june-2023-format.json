@@ -34,5 +34,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/cashf-south-fork-complex"
+  },
+  {
+    "Name": "Sun Fire",
+    "Updated": "2023-11-09",
+    "Started": "2023-11-09",
+    "AdminUnit": "Santa Barbra County Fire Department",
+    "County": "Santa Barbara",
+    "Location": "7200 San Julian Road, Lompoc, CA 93436",
+    "AcresBurned": 200,
+    "PercentContained": 0,
+    "Longitude": -120.30288,
+    "Latitude": 34.55955,
+    "Type": null,
+    "UniqueId": "1c646b82-e568-4051-a642-059744a09eab",
+    "Url": "/incidents/2023/11/9/sun-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
