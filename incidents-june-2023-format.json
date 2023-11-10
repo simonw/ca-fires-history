@@ -43,7 +43,7 @@
     "County": "Santa Barbara",
     "Location": "Hwy 1 and Alamo Creek Rd, Lompoc",
     "AcresBurned": 211,
-    "PercentContained": 0,
+    "PercentContained": 10,
     "Longitude": -120.32318,
     "Latitude": 34.55742,
     "Type": null,
