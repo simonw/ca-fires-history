@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Midway Fire",
+    "Updated": "2023-11-12",
+    "Started": "2023-11-12",
+    "AdminUnit": "San Luis Obispo County Fire Department",
+    "County": "Kern",
+    "Location": "Kern County",
+    "AcresBurned": 62,
+    "PercentContained": 0,
+    "Longitude": -119.35,
+    "Latitude": 35.9464,
+    "Type": null,
+    "UniqueId": "0ad26a5e-a80c-4d00-a76a-a59c1b098e71",
+    "Url": "/incidents/2023/11/12/midway-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
