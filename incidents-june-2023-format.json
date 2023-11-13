@@ -55,12 +55,12 @@
   },
   {
     "Name": "Midway Fire",
-    "Updated": "2023-11-12",
+    "Updated": "2023-11-13",
     "Started": "2023-11-12",
-    "AdminUnit": "San Luis Obispo County Fire Department",
+    "AdminUnit": "Bureau of Land Management",
     "County": "Kern",
     "Location": "Kern County",
-    "AcresBurned": 62,
+    "AcresBurned": 0,
     "PercentContained": 0,
     "Longitude": -119.58333,
     "Latitude": 35.15773,
@@ -69,6 +69,6 @@
     "Url": "/incidents/2023/11/12/midway-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": ""
+    "ExternalUrl": "https://www.blm.gov/"
   }
 ]
