@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://www.blm.gov/"
+  },
+  {
+    "Name": "Lamb Fire",
+    "Updated": "2023-11-14",
+    "Started": "2023-11-14",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "Northeast of Lamb Canyon Road",
+    "AcresBurned": 13,
+    "PercentContained": 20,
+    "Longitude": -116.99867,
+    "Latitude": 33.85008,
+    "Type": null,
+    "UniqueId": "f5489c15-8095-4a6a-a3c1-76f78cb9cb18",
+    "Url": "/incidents/2023/11/14/lamb-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
