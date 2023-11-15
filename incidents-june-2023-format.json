@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Manzanita Fire",
+    "Updated": "2023-11-14",
+    "Started": "2023-11-14",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "Northbound Highway 79 and Gilman Springs Road",
+    "AcresBurned": 15,
+    "PercentContained": 0,
+    "Longitude": -117.003584,
+    "Latitude": 33.839416,
+    "Type": null,
+    "UniqueId": "7deacf45-3e46-48fd-b0ba-fdd89f65d574",
+    "Url": "/incidents/2023/11/14/manzanita-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
