@@ -79,7 +79,7 @@
     "County": "Riverside",
     "Location": "Northbound Highway 79 and Gilman Springs Road",
     "AcresBurned": 15,
-    "PercentContained": 0,
+    "PercentContained": 50,
     "Longitude": -117.003584,
     "Latitude": 33.839416,
     "Type": null,
