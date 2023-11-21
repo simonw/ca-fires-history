@@ -52,23 +52,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Sierra Fire",
-    "Updated": "2023-11-20",
-    "Started": "2023-11-20",
-    "AdminUnit": "Unified Command: CAL FIRE Riverside Unit/Corona City Fire Department",
-    "County": "Riverside",
-    "Location": "La Sierra Avenue and El Sobrante Road, El Cerrito",
-    "AcresBurned": 35,
-    "PercentContained": 70,
-    "Longitude": -117.46406,
-    "Latitude": 33.8438665,
-    "Type": null,
-    "UniqueId": "db81cfd7-c6f7-4fb6-9127-8d30939fcde2",
-    "Url": "/incidents/2023/11/20/sierra-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
