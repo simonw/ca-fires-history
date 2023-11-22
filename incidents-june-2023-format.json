@@ -34,23 +34,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/cashf-south-fork-complex"
-  },
-  {
-    "Name": "Adams Fire",
-    "Updated": "2023-11-21",
-    "Started": "2023-11-19",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "Northeast of Macomber Palms, Indio",
-    "AcresBurned": 36,
-    "PercentContained": 90,
-    "Longitude": -116.246207,
-    "Latitude": 33.809953,
-    "Type": null,
-    "UniqueId": "b7cb31c5-bc13-4655-ada4-80d16a36437c",
-    "Url": "/incidents/2023/11/19/adams-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
