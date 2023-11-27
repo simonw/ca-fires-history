@@ -19,13 +19,13 @@
   },
   {
     "Name": "Sage Fire",
-    "Updated": "2023-11-24",
+    "Updated": "2023-11-27",
     "Started": "2023-11-23",
-    "AdminUnit": "CAL FIRE San Diego Unit",
+    "AdminUnit": "United States Fish and Wildlife Service",
     "County": "San Diego",
     "Location": "Highway 94 at Vista Sage Lane, Jamul",
-    "AcresBurned": 83,
-    "PercentContained": 50,
+    "AcresBurned": 0,
+    "PercentContained": 0,
     "Longitude": -116.891493,
     "Latitude": 32.723389,
     "Type": null,
@@ -33,6 +33,6 @@
     "Url": "/incidents/2023/11/23/sage-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": ""
+    "ExternalUrl": "https://fws.gov/"
   }
 ]
