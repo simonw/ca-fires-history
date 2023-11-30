@@ -16,23 +16,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": "https://inciweb.nwcg.gov/incident-information/cashf-south-fork-complex"
-  },
-  {
-    "Name": "Sage Fire",
-    "Updated": "2023-11-28",
-    "Started": "2023-11-23",
-    "AdminUnit": "United States Fish and Wildlife Service",
-    "County": "San Diego",
-    "Location": "Highway 94 at Vista Sage Lane, Jamul",
-    "AcresBurned": 0,
-    "PercentContained": 0,
-    "Longitude": -116.891493,
-    "Latitude": 32.723389,
-    "Type": null,
-    "UniqueId": "6ebb5e9c-a73e-4685-8e58-2aa653e922f4",
-    "Url": "/incidents/2023/11/23/sage-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": "https://fws.gov/"
   }
 ]
