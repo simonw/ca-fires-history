@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Elm Fire",
+    "Updated": "2023-12-09",
+    "Started": "2023-12-09",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "Ida Avenue, Cabazon",
+    "AcresBurned": 50,
+    "PercentContained": 0,
+    "Longitude": -116.7635,
+    "Latitude": 33.9007,
+    "Type": null,
+    "UniqueId": "a17adb99-eed2-4669-91b2-aecc302fdab9",
+    "Url": "/incidents/2023/12/9/elm-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
