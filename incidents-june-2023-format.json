@@ -1,13 +1,13 @@
 [
   {
     "Name": "South Fire",
-    "Updated": "2023-12-10",
+    "Updated": "2023-12-11",
     "Started": "2023-12-09",
     "AdminUnit": "Ventura County Fire Department",
     "County": "Ventura",
     "Location": "South Mountain Loop Road and Solano Verde Drive, South of Santa Paula",
     "AcresBurned": 2715,
-    "PercentContained": 50,
+    "PercentContained": 90,
     "Longitude": -118.9938,
     "Latitude": 34.327,
     "Type": null,
