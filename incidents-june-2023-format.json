@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Pine Fire",
+    "Updated": "2023-12-15",
+    "Started": "2023-12-15",
+    "AdminUnit": "Kern County Fire Department",
+    "County": "Kern",
+    "Location": "South Granite Road and Round Mountain Road, Northeast of Bakersfield",
+    "AcresBurned": 30,
+    "PercentContained": 0,
+    "Longitude": -118.8696,
+    "Latitude": 35.5593,
+    "Type": null,
+    "UniqueId": "93dec295-6159-4227-8b85-4ae3a7abe6bb",
+    "Url": "/incidents/2023/12/15/pine-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
