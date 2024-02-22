@@ -1,15 +1,15 @@
 [
   {
     "Name": "Palmas Fire",
-    "Updated": "2024-02-21",
+    "Updated": "2024-02-22",
     "Started": "2024-02-20",
     "AdminUnit": "Bureau of Land Management",
     "County": "Riverside",
     "Location": "Dos Palmas Spring Road, North Shore ",
     "AcresBurned": 0,
     "PercentContained": 0,
-    "Longitude": -115.83168,
-    "Latitude": 33.50521,
+    "Longitude": -115.82784,
+    "Latitude": 33.5103795,
     "Type": null,
     "UniqueId": "da0f58a2-b61c-4514-8439-c4ca4792718a",
     "Url": "/incidents/2024/2/20/palmas-fire/",
