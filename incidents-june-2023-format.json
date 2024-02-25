@@ -1,9 +1,9 @@
 [
   {
-    "Name": "Iris",
+    "Name": "Iris Fire",
     "Updated": "2024-02-25",
     "Started": "2024-02-25",
-    "AdminUnit": "",
+    "AdminUnit": "Bureau of Land Management",
     "County": "San Bernardino",
     "Location": "Gas Line Rd",
     "AcresBurned": 10,
@@ -12,7 +12,7 @@
     "Latitude": 33.2962,
     "Type": null,
     "UniqueId": "24ac262a-6a05-49cb-b802-061a386fa53e",
-    "Url": "/incidents/2024/2/25/iris/",
+    "Url": "/incidents/2024/2/25/iris-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
