@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Cartago Fire",
+    "Updated": "2024-04-04",
+    "Started": "2024-04-04",
+    "AdminUnit": "",
+    "County": "Inyo",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -118.025556,
+    "Latitude": 36.320833,
+    "Type": null,
+    "UniqueId": "22229c97-8035-4ba8-b1a2-1965107977ed",
+    "Url": "/incidents/2024/4/4/cartago-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
