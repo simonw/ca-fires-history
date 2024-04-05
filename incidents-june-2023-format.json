@@ -1,13 +1,13 @@
 [
   {
     "Name": "Cartago Fire",
-    "Updated": "2024-04-04",
+    "Updated": "2024-04-05",
     "Started": "2024-04-03",
     "AdminUnit": "CAL FIRE San Bernardino Unit",
     "County": "Inyo",
     "Location": "Cartago, Inyo County ",
     "AcresBurned": 101,
-    "PercentContained": 30,
+    "PercentContained": 50,
     "Longitude": -118.026767,
     "Latitude": 36.316401,
     "Type": null,
