@@ -16,5 +16,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Bdu April 2024 Move Up Fire",
+    "Updated": "2024-04-04",
+    "Started": "2024-04-04",
+    "AdminUnit": "",
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 100,
+    "PercentContained": 0,
+    "Longitude": -117.285366,
+    "Latitude": 34.160224,
+    "Type": null,
+    "UniqueId": "cbd14df9-d960-4bc6-903b-b79a4f6dd944",
+    "Url": "/incidents/2024/4/4/bdu-april-2024-move-up-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
