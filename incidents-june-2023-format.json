@@ -6,7 +6,7 @@
     "AdminUnit": "",
     "County": "Sacramento",
     "Location": "Point Sacramento/Kimball Island",
-    "AcresBurned": 304,
+    "AcresBurned": 0,
     "PercentContained": 0,
     "Longitude": -121.83332,
     "Latitude": 38.05686,
@@ -15,7 +15,7 @@
     "Url": "/incidents/2024/4/12/marsh-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": ""
+    "ExternalUrl": "https://cameras.alertcalifornia.org/?pos=38.0200_-121.9900_10&id=Axis-EvoraRoad1"
   },
   {
     "Name": "Gardner Fire",
