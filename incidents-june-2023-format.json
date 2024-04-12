@@ -16,5 +16,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Gardner Fire",
+    "Updated": "2024-04-12",
+    "Started": "2024-04-12",
+    "AdminUnit": "",
+    "County": "Kern",
+    "Location": "East of Taft",
+    "AcresBurned": 59,
+    "PercentContained": 0,
+    "Longitude": -119.39529,
+    "Latitude": 35.153062,
+    "Type": null,
+    "UniqueId": "0563714f-e479-41f8-a2b0-59cfacdeffe1",
+    "Url": "/incidents/2024/4/12/gardner-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
