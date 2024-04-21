@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Pendola Fire",
+    "Updated": "2024-04-21",
+    "Started": "2024-04-21",
+    "AdminUnit": "",
+    "County": "Yuba",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 12.8513553447829,
+    "PercentContained": 0,
+    "Longitude": -121.070752,
+    "Latitude": 39.494086,
+    "Type": null,
+    "UniqueId": "df1a7e0d-7fc9-49af-be53-4e2d5b818411",
+    "Url": "/incidents/2024/4/21/pendola-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
