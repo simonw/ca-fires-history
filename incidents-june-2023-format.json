@@ -1,5 +1,23 @@
 [
   {
+    "Name": "York Fire",
+    "Updated": "2024-04-21",
+    "Started": "2024-04-22",
+    "AdminUnit": "",
+    "County": "Kings",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 250,
+    "PercentContained": 0,
+    "Longitude": -120.097738,
+    "Latitude": 35.817759,
+    "Type": null,
+    "UniqueId": "3ea940e2-abab-41a3-b073-6aa3ce6f8f72",
+    "Url": "/incidents/2024/4/22/york-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Pendola Fire",
     "Updated": "2024-04-21",
     "Started": "2024-04-21",
