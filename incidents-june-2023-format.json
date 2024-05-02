@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "School Fire",
+    "Updated": "2024-05-02",
+    "Started": "2024-05-02",
+    "AdminUnit": "",
+    "County": "Kern",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 1003.32051719442,
+    "PercentContained": 0,
+    "Longitude": 0,
+    "Latitude": 0,
+    "Type": null,
+    "UniqueId": "9aeb7f9d-3672-400d-ba4e-2b490220f78d",
+    "Url": "/incidents/2024/5/2/school-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
