@@ -1,12 +1,12 @@
 [
   {
     "Name": "School Fire",
-    "Updated": "2024-05-02",
+    "Updated": "2024-05-03",
     "Started": "2024-05-02",
     "AdminUnit": "Kern County Fire Department",
     "County": "Kern",
     "Location": "Maricopa Highway and Pentland Road, Maricopa",
-    "AcresBurned": 1286,
+    "AcresBurned": 1479,
     "PercentContained": 50,
     "Longitude": -119.33179,
     "Latitude": 35.04847,
