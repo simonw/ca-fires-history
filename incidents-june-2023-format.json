@@ -16,5 +16,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Tram Fire",
+    "Updated": "2024-05-05",
+    "Started": "2024-05-04",
+    "AdminUnit": "",
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 13.8,
+    "PercentContained": 0,
+    "Longitude": -116.55819,
+    "Latitude": 33.858369,
+    "Type": null,
+    "UniqueId": "4aad6061-4f7d-4a62-b441-255a9c53b43e",
+    "Url": "/incidents/2024/5/4/tram-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
