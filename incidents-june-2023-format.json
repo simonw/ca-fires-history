@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Dawn Fire",
+    "Updated": "2024-05-04",
+    "Started": "2024-05-04",
+    "AdminUnit": "",
+    "County": "Kern",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 12.8,
+    "PercentContained": 0,
+    "Longitude": -118.23,
+    "Latitude": 34.9117,
+    "Type": null,
+    "UniqueId": "b24e4e25-08ed-410b-87bc-4222a507158b",
+    "Url": "/incidents/2024/5/4/dawn-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
