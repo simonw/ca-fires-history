@@ -34,23 +34,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Virginiatown Fire",
-    "Updated": "2024-05-05",
-    "Started": "2024-05-02",
-    "AdminUnit": "",
-    "County": "Placer",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 95,
-    "PercentContained": 0,
-    "Longitude": -121.201005,
-    "Latitude": 38.902253,
-    "Type": null,
-    "UniqueId": "af6e0e0e-af49-4dbf-98c9-c36b1028eed7",
-    "Url": "/incidents/2024/5/2/virginiatown-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
