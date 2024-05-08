@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Magnolia Fire",
-    "Updated": "2024-05-08",
-    "Started": "2024-05-07",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "Apache Trail & Bonita Avenue, Cabazon",
-    "AcresBurned": 36.6,
-    "PercentContained": 80,
-    "Longitude": -116.807061,
-    "Latitude": 33.9208,
-    "Type": null,
-    "UniqueId": "d9d67720-8b28-47d1-a05d-3033c70b73a3",
-    "Url": "/incidents/2024/5/7/magnolia-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Almond Fire",
     "Updated": "2024-05-08",
     "Started": "2024-05-07",
