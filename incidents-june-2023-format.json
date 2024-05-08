@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Almond Fire",
-    "Updated": "2024-05-07",
-    "Started": "2024-05-07",
-    "AdminUnit": "",
-    "County": "Riverside",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 40,
-    "PercentContained": 0,
-    "Longitude": -116.774124,
-    "Latitude": 33.903392,
-    "Type": null,
-    "UniqueId": "48e43173-82a0-4573-b842-06bec1d05ee5",
-    "Url": "/incidents/2024/5/7/almond-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Magnolia Fire",
     "Updated": "2024-05-07",
     "Started": "2024-05-07",
@@ -31,6 +13,24 @@
     "Type": null,
     "UniqueId": "d9d67720-8b28-47d1-a05d-3033c70b73a3",
     "Url": "/incidents/2024/5/7/magnolia-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Almond Fire",
+    "Updated": "2024-05-07",
+    "Started": "2024-05-07",
+    "AdminUnit": "",
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 40,
+    "PercentContained": 0,
+    "Longitude": -116.774124,
+    "Latitude": 33.903392,
+    "Type": null,
+    "UniqueId": "48e43173-82a0-4573-b842-06bec1d05ee5",
+    "Url": "/incidents/2024/5/7/almond-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
