@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Sherwood Fire",
+    "Updated": "2024-05-10",
+    "Started": "2024-05-10",
+    "AdminUnit": "",
+    "County": "Kern",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 45,
+    "PercentContained": 0,
+    "Longitude": -120.115895,
+    "Latitude": 35.703557,
+    "Type": null,
+    "UniqueId": "c4439647-cf64-4a5f-bec1-3a228d5249f2",
+    "Url": "/incidents/2024/5/10/sherwood-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
