@@ -16,5 +16,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Dom Fire",
+    "Updated": "2024-05-11",
+    "Started": "2024-05-11",
+    "AdminUnit": "",
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 23.8,
+    "PercentContained": 0,
+    "Longitude": -120.340061,
+    "Latitude": 36.362559,
+    "Type": null,
+    "UniqueId": "7f75a7b7-f2dc-4817-b321-bb570f6b4991",
+    "Url": "/incidents/2024/5/11/dom-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
