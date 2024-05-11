@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Sherwood Fire",
-    "Updated": "2024-05-11",
-    "Started": "2024-05-10",
-    "AdminUnit": "Kern County Fire Department",
-    "County": "Kern",
-    "Location": "North of Sherwood Ave & Famoso Woody Rd",
-    "AcresBurned": 353,
-    "PercentContained": 100,
-    "Longitude": -118.9429,
-    "Latitude": 35.7193,
-    "Type": null,
-    "UniqueId": "c4439647-cf64-4a5f-bec1-3a228d5249f2",
-    "Url": "/incidents/2024/5/10/sherwood-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Dom Fire",
     "Updated": "2024-05-11",
     "Started": "2024-05-11",
