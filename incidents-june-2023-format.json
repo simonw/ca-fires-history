@@ -16,5 +16,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Red Fire",
+    "Updated": "2024-05-11",
+    "Started": "2024-05-11",
+    "AdminUnit": "",
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 148.04012189168,
+    "PercentContained": 0,
+    "Longitude": -117.601135,
+    "Latitude": 35.388107,
+    "Type": null,
+    "UniqueId": "c137330e-e0b9-4d93-b22b-835a1fb547e7",
+    "Url": "/incidents/2024/5/11/red-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
