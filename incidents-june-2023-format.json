@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Border 44 Fire",
-    "Updated": "2024-05-11",
-    "Started": "2024-05-11",
-    "AdminUnit": "",
-    "County": "San Diego",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 15,
-    "PercentContained": 0,
-    "Longitude": -116.711161,
-    "Latitude": 32.571374,
-    "Type": null,
-    "UniqueId": "89242de3-daa9-449d-a350-36832b8579d7",
-    "Url": "/incidents/2024/5/11/border-44-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Red Fire",
     "Updated": "2024-05-13",
     "Started": "2024-05-11",
@@ -37,7 +19,7 @@
   },
   {
     "Name": "National Fire",
-    "Updated": "2024-05-12",
+    "Updated": "2024-05-13",
     "Started": "2024-05-12",
     "AdminUnit": "",
     "County": "San Bernardino",
