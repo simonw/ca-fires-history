@@ -34,5 +34,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "National Fire",
+    "Updated": "2024-05-12",
+    "Started": "2024-05-12",
+    "AdminUnit": "",
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 21.3800686848693,
+    "PercentContained": 0,
+    "Longitude": -117.339379,
+    "Latitude": 34.602884,
+    "Type": null,
+    "UniqueId": "3ee4788b-f658-415c-879a-a11f00d10d77",
+    "Url": "/incidents/2024/5/12/national-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
