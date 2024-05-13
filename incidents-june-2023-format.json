@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Love 2 Fire",
+    "Updated": "2024-05-13",
+    "Started": "2024-05-13",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "County": "San Diego",
+    "Location": "Loveland Ln and Montiel Truck TRL, Lawson Valley",
+    "AcresBurned": 17,
+    "PercentContained": 0,
+    "Longitude": -116.771593,
+    "Latitude": 32.773121,
+    "Type": null,
+    "UniqueId": "dcf00ad9-98e6-44c8-b5f3-9693133814c5",
+    "Url": "/incidents/2024/5/13/love-2-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
