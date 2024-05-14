@@ -34,5 +34,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Janell Fire",
+    "Updated": "2024-05-14",
+    "Started": "2024-05-14",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "45900 Block of Cahuilla Road",
+    "AcresBurned": 13,
+    "PercentContained": 0,
+    "Longitude": -116.853968565988,
+    "Latitude": 33.4711393712467,
+    "Type": null,
+    "UniqueId": "0e7ec8f8-87e5-4a70-9369-08b96059d3eb",
+    "Url": "/incidents/2024/5/14/janell-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
