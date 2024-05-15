@@ -18,24 +18,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Love 2 Fire",
-    "Updated": "2024-05-13",
-    "Started": "2024-05-13",
-    "AdminUnit": "CAL FIRE San Diego Unit",
-    "County": "San Diego",
-    "Location": "Loveland Ln and Montiel Truck TRL, Lawson Valley",
-    "AcresBurned": 16,
-    "PercentContained": 50,
-    "Longitude": -116.800404470398,
-    "Latitude": 32.7754088956206,
-    "Type": null,
-    "UniqueId": "dcf00ad9-98e6-44c8-b5f3-9693133814c5",
-    "Url": "/incidents/2024/5/13/love-2-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Janell Fire",
     "Updated": "2024-05-14",
     "Started": "2024-05-14",
