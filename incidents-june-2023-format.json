@@ -1,23 +1,5 @@
 [
   {
-    "Name": "National Fire",
-    "Updated": "2024-05-13",
-    "Started": "2024-05-12",
-    "AdminUnit": "San Bernardino County Fire Department",
-    "County": "San Bernardino",
-    "Location": "National Trails Hwy, Oro Grande",
-    "AcresBurned": 42,
-    "PercentContained": 5,
-    "Longitude": -117.339379,
-    "Latitude": 34.602884,
-    "Type": null,
-    "UniqueId": "3ee4788b-f658-415c-879a-a11f00d10d77",
-    "Url": "/incidents/2024/5/12/national-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Ranch Fire",
     "Updated": "2024-05-16",
     "Started": "2024-05-15",
