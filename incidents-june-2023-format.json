@@ -18,6 +18,24 @@
     "ExternalUrl": ""
   },
   {
+    "Name": "Ranch Fire",
+    "Updated": "2024-05-15",
+    "Started": "2024-05-15",
+    "AdminUnit": "",
+    "County": "Butte",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -121.449913,
+    "Latitude": 39.693268,
+    "Type": null,
+    "UniqueId": "9c4b2458-d757-41c0-86cb-9cec1e9b4f83",
+    "Url": "/incidents/2024/5/15/ranch-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Cow Fire",
     "Updated": "2024-05-15",
     "Started": "2024-05-15",
