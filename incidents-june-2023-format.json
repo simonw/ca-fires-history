@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Russell Fire",
+    "Updated": "2024-05-16",
+    "Started": "2024-05-16",
+    "AdminUnit": "",
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 40,
+    "PercentContained": 0,
+    "Longitude": -120.653999,
+    "Latitude": 36.85064,
+    "Type": null,
+    "UniqueId": "a736ab06-6583-4e02-a81a-f3a256500d7c",
+    "Url": "/incidents/2024/5/16/russell-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
