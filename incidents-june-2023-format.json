@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Petrol Fire",
+    "Updated": "2024-05-17",
+    "Started": "2024-05-17",
+    "AdminUnit": "",
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -120.315298,
+    "Latitude": 36.24625,
+    "Type": null,
+    "UniqueId": "37e3db45-6b25-4f7b-a92b-84f10d197437",
+    "Url": "/incidents/2024/5/17/petrol-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
