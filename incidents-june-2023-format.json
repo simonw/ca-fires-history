@@ -36,25 +36,7 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "River Fire",
-    "Updated": "2024-05-17",
-    "Started": "2024-05-16",
-    "AdminUnit": "",
-    "County": "Imperial",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 25,
-    "PercentContained": 0,
-    "Longitude": -114.527,
-    "Latitude": 32.75,
-    "Type": null,
-    "UniqueId": "3d7fe386-3569-4978-ae76-1448a24a6df6",
-    "Url": "/incidents/2024/5/16/river-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
-    "Name": "Camp Roberts Range M39 Bob Fire",
+    "Name": "Roberts Fire",
     "Updated": "2024-05-17",
     "Started": "2024-05-17",
     "AdminUnit": "",
@@ -66,7 +48,7 @@
     "Latitude": 35.829559,
     "Type": null,
     "UniqueId": "842042fa-04d9-49b2-af6e-92143b21ebb1",
-    "Url": "/incidents/2024/5/17/camp-roberts-range-m39-bob-fire/",
+    "Url": "/incidents/2024/5/17/roberts-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
