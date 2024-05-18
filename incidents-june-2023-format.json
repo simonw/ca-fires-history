@@ -34,23 +34,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Roberts Fire",
-    "Updated": "2024-05-17",
-    "Started": "2024-05-17",
-    "AdminUnit": "",
-    "County": "Monterey",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 400,
-    "PercentContained": 0,
-    "Longitude": -120.811491,
-    "Latitude": 35.829559,
-    "Type": null,
-    "UniqueId": "842042fa-04d9-49b2-af6e-92143b21ebb1",
-    "Url": "/incidents/2024/5/17/roberts-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
