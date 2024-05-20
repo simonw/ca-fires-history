@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Wind Fire",
+    "Updated": "2024-05-20",
+    "Started": "2024-05-20",
+    "AdminUnit": "",
+    "County": "Kern",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 70,
+    "PercentContained": 0,
+    "Longitude": -118.983333,
+    "Latitude": 34.995,
+    "Type": null,
+    "UniqueId": "b7ca9cee-f5e3-4d5c-afd0-19ade7b24ba9",
+    "Url": "/incidents/2024/5/20/wind-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
