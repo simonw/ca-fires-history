@@ -52,23 +52,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Mission Fire",
-    "Updated": "2024-05-18",
-    "Started": "2024-05-18",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "Highway 62 and Mission Creek Road",
-    "AcresBurned": 27,
-    "PercentContained": 50,
-    "Longitude": -116.583317,
-    "Latitude": 33.984278,
-    "Type": null,
-    "UniqueId": "49095c12-ea76-4ac6-8034-ff1da7b6c03f",
-    "Url": "/incidents/2024/5/18/mission-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
