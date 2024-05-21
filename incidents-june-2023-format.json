@@ -16,23 +16,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Hall Fire",
-    "Updated": "2024-05-20",
-    "Started": "2024-05-20",
-    "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
-    "County": "Tehama",
-    "Location": "Gyle Road & Hall Road, near Tehama",
-    "AcresBurned": 11.8,
-    "PercentContained": 0,
-    "Longitude": -122.129559,
-    "Latitude": 40.014819,
-    "Type": null,
-    "UniqueId": "d52efcc5-01bb-4f2e-b838-7599a1f17c14",
-    "Url": "/incidents/2024/5/20/hall-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
