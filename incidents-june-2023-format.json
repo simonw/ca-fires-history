@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Valley Fire",
+    "Updated": "2024-05-22",
+    "Started": "2024-05-21",
+    "AdminUnit": "",
+    "County": "Modoc",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 536,
+    "PercentContained": 0,
+    "Longitude": -120.31,
+    "Latitude": 41.2449,
+    "Type": null,
+    "UniqueId": "9967523f-061a-477c-9142-9660e9920a6b",
+    "Url": "/incidents/2024/5/21/valley-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
