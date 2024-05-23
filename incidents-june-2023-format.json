@@ -34,5 +34,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Lazy Fire",
+    "Updated": "2024-05-22",
+    "Started": "2024-05-22",
+    "AdminUnit": "",
+    "County": "San Diego",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 17,
+    "PercentContained": 0,
+    "Longitude": -116.390091,
+    "Latitude": 33.275165,
+    "Type": null,
+    "UniqueId": "5cb0dc38-62fe-4cbb-bfa5-e9827dda3b12",
+    "Url": "/incidents/2024/5/22/lazy-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
