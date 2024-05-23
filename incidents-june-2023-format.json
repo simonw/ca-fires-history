@@ -16,5 +16,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Knolls Fire",
+    "Updated": "2024-05-22",
+    "Started": "2024-05-22",
+    "AdminUnit": "",
+    "County": "San Diego",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 17.1,
+    "PercentContained": 0,
+    "Longitude": -117.170895,
+    "Latitude": 33.02113,
+    "Type": null,
+    "UniqueId": "9fdbe919-5581-44a9-aaf6-307037193995",
+    "Url": "/incidents/2024/5/22/knolls-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
