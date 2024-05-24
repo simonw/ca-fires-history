@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Seven Fire",
+    "Updated": "2024-05-23",
+    "Started": "2024-05-23",
+    "AdminUnit": "",
+    "County": "Butte",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.7,
+    "PercentContained": 0,
+    "Longitude": -121.908346,
+    "Latitude": 39.539678,
+    "Type": null,
+    "UniqueId": "198dd536-7be9-44ca-b300-763e8927737c",
+    "Url": "/incidents/2024/5/23/seven-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
