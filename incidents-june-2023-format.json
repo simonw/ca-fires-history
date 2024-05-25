@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Name": "Panoche Fire",
+    "Updated": "2024-05-25",
+    "Started": "2024-05-25",
+    "AdminUnit": "",
+    "County": "San Benito",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 90,
+    "PercentContained": 0,
+    "Longitude": -120.837657,
+    "Latitude": 36.56109,
+    "Type": null,
+    "UniqueId": "72e46bd8-232b-45c0-a715-46fec070b9e1",
+    "Url": "/incidents/2024/5/25/panoche-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  }
+]
