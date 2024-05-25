@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Holiday Fire",
+    "Updated": "2024-05-25",
+    "Started": "2024-05-25",
+    "AdminUnit": "",
+    "County": "Kern",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 397.5,
+    "PercentContained": 0,
+    "Longitude": 0,
+    "Latitude": 0,
+    "Type": null,
+    "UniqueId": "159367fb-6bee-4914-8815-84f629994473",
+    "Url": "/incidents/2024/5/25/holiday-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
