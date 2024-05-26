@@ -18,24 +18,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Shirleon Fire",
-    "Updated": "2024-05-25",
-    "Started": "2024-05-25",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "Southeast of Old Idyllwild Road & Shirleon Drive, Banning",
-    "AcresBurned": 34,
-    "PercentContained": 80,
-    "Longitude": -116.901498,
-    "Latitude": 33.895775,
-    "Type": null,
-    "UniqueId": "dd8e4500-bd34-4dea-acde-fd1b4ff00ca3",
-    "Url": "/incidents/2024/5/25/shirleon-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Holiday Fire",
     "Updated": "2024-05-25",
     "Started": "2024-05-25",
