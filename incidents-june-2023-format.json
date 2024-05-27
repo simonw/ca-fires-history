@@ -16,23 +16,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Border 51 Fire",
-    "Updated": "2024-05-26",
-    "Started": "2024-05-26",
-    "AdminUnit": "CAL FIRE San Diego Unit",
-    "County": "San Diego",
-    "Location": "Mine Canyon Truck Trail & Marron Valley Road",
-    "AcresBurned": 12,
-    "PercentContained": 0,
-    "Longitude": -116.76972,
-    "Latitude": 32.57583,
-    "Type": null,
-    "UniqueId": "3f03a89c-3bdd-4ef8-a89f-c68161ee84e4",
-    "Url": "/incidents/2024/5/26/border-51-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
