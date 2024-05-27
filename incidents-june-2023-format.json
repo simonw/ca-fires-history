@@ -34,5 +34,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Vince Fire",
+    "Updated": "2024-05-27",
+    "Started": "2024-05-27",
+    "AdminUnit": "Los Angeles County Fire Department",
+    "County": "Los Angeles",
+    "Location": "4300 Block of East Avenue, Palmdale",
+    "AcresBurned": 22.4,
+    "PercentContained": 0,
+    "Longitude": -118.05215,
+    "Latitude": 34.50941,
+    "Type": null,
+    "UniqueId": "85074131-29f7-435f-8f43-8c9cf067bbd2",
+    "Url": "/incidents/2024/5/27/vince-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
