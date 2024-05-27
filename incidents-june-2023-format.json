@@ -1,13 +1,13 @@
 [
   {
     "Name": "Panoche Fire",
-    "Updated": "2024-05-26",
+    "Updated": "2024-05-27",
     "Started": "2024-05-25",
     "AdminUnit": "CAL FIRE San Benito-Monterey Unit ",
     "County": "San Benito",
     "Location": "Pimental Creek Rd West of New Idria Rd, Paicines",
     "AcresBurned": 191,
-    "PercentContained": 65,
+    "PercentContained": 70,
     "Longitude": -120.847135080488,
     "Latitude": 36.5097274085376,
     "Type": null,
