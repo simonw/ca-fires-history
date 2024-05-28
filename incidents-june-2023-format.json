@@ -18,8 +18,8 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Millerton",
-    "Updated": "2024-05-26",
+    "Name": "Millerton Fire",
+    "Updated": "2024-05-28",
     "Started": "2024-05-26",
     "AdminUnit": "Madera-Mariposa-Merced Unit ",
     "County": "Madera",
@@ -30,25 +30,7 @@
     "Latitude": 37.01741,
     "Type": null,
     "UniqueId": "661cf1f8-a032-4812-96cc-ce45f8a0db31",
-    "Url": "/incidents/2024/5/26/millerton/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
-    "Name": "Vince Fire",
-    "Updated": "2024-05-27",
-    "Started": "2024-05-27",
-    "AdminUnit": "Los Angeles County Fire Department",
-    "County": "Los Angeles",
-    "Location": "4300 Block of East Avenue, Palmdale",
-    "AcresBurned": 22.4,
-    "PercentContained": 0,
-    "Longitude": -118.05215,
-    "Latitude": 34.50941,
-    "Type": null,
-    "UniqueId": "85074131-29f7-435f-8f43-8c9cf067bbd2",
-    "Url": "/incidents/2024/5/27/vince-fire/",
+    "Url": "/incidents/2024/5/26/millerton-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
