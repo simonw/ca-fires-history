@@ -16,23 +16,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Millerton Fire",
-    "Updated": "2024-05-28",
-    "Started": "2024-05-26",
-    "AdminUnit": "Madera-Mariposa-Merced Unit ",
-    "County": "Madera",
-    "Location": "Millerton Lake ",
-    "AcresBurned": 47,
-    "PercentContained": 70,
-    "Longitude": -119.689804,
-    "Latitude": 37.01741,
-    "Type": null,
-    "UniqueId": "661cf1f8-a032-4812-96cc-ce45f8a0db31",
-    "Url": "/incidents/2024/5/26/millerton-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
