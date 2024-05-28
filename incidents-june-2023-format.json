@@ -16,5 +16,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Hill Fire",
+    "Updated": "2024-05-28",
+    "Started": "2024-05-28",
+    "AdminUnit": "Santa Barbra County Fire Department",
+    "County": "Santa Barbara",
+    "Location": "South of Foothill Rd & Kirschenmann Rd, Cuyama",
+    "AcresBurned": 75,
+    "PercentContained": 0,
+    "Longitude": -120.012836,
+    "Latitude": 34.671971,
+    "Type": null,
+    "UniqueId": "a8dbeeba-fe5a-4cc2-b1f5-c0f62d9c13a7",
+    "Url": "/incidents/2024/5/28/hill-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
