@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Watt Fire",
+    "Updated": "2024-05-29",
+    "Started": "2024-05-28",
+    "AdminUnit": "",
+    "County": "Placer",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 19.5,
+    "PercentContained": 0,
+    "Longitude": -121.392475,
+    "Latitude": 38.728881,
+    "Type": null,
+    "UniqueId": "9090538e-dcd6-451a-9641-fd08a8606707",
+    "Url": "/incidents/2024/5/28/watt-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
