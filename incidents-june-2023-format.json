@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Shirleon Fire",
+    "Updated": "2024-05-28",
+    "Started": "2024-05-28",
+    "AdminUnit": "",
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15,
+    "PercentContained": 0,
+    "Longitude": -116.917099,
+    "Latitude": 33.896179,
+    "Type": null,
+    "UniqueId": "82b3117e-68c8-4994-99e2-c863fe19f38e",
+    "Url": "/incidents/2024/5/28/shirleon-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
