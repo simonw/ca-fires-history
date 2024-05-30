@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Bank Fire",
+    "Updated": "2024-05-30",
+    "Started": "2024-05-30",
+    "AdminUnit": "",
+    "County": "Tehama",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -122.398582,
+    "Latitude": 40.089713,
+    "Type": null,
+    "UniqueId": "b5746d62-f66c-4bc2-a8a9-4b91bce936b2",
+    "Url": "/incidents/2024/5/30/bank-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
