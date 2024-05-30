@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Howard Fire",
+    "Updated": "2024-05-30",
+    "Started": "2024-05-30",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "Howard Road & Old Ranch Road, Anza ",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -116.718429,
+    "Latitude": 33.56557,
+    "Type": null,
+    "UniqueId": "24ea1259-3db7-44bb-9d52-ec12666d7c14",
+    "Url": "/incidents/2024/5/30/howard-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
