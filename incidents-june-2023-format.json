@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Great 3 Fire",
+    "Updated": "2024-05-30",
+    "Started": "2024-05-30",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "County": "San Diego",
+    "Location": "Great Southern Overland in Agua Caliente",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -116.445214,
+    "Latitude": 32.99107,
+    "Type": null,
+    "UniqueId": "e7d90ab8-6031-4178-826e-69bbba7e8866",
+    "Url": "/incidents/2024/5/30/great-3-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
