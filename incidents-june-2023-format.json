@@ -160,5 +160,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Rru/howard Fire",
+    "Updated": "2024-05-31",
+    "Started": "2024-05-30",
+    "AdminUnit": "",
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 32,
+    "PercentContained": 0,
+    "Longitude": -116.694098,
+    "Latitude": 33.596776,
+    "Type": null,
+    "UniqueId": "4e7e8192-db53-417c-93ed-1e70df0e4c17",
+    "Url": "/incidents/2024/5/30/rru-howard-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
