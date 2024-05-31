@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Tesoro Fire",
+    "Updated": "2024-05-31",
+    "Started": "2024-05-31",
+    "AdminUnit": "",
+    "County": "Madera",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 80,
+    "PercentContained": 0,
+    "Longitude": -119.7939,
+    "Latitude": 37.01047,
+    "Type": null,
+    "UniqueId": "82165e58-8aeb-41a6-9416-8e08ccc11efe",
+    "Url": "/incidents/2024/5/31/tesoro-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
