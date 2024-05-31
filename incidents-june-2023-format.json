@@ -90,6 +90,24 @@
     "ExternalUrl": ""
   },
   {
+    "Name": "Tesoro",
+    "Updated": "2024-05-31",
+    "Started": "2024-05-31",
+    "AdminUnit": "Madera-Mariposa-Merced",
+    "County": "Madera",
+    "Location": "Hwy 145 cross of Hwy 41, Madera County, Tesoro Viejo",
+    "AcresBurned": 80,
+    "PercentContained": 70,
+    "Longitude": -119.7939,
+    "Latitude": 37.01047,
+    "Type": null,
+    "UniqueId": "09d3283d-bd32-4c33-b5f6-0470d9894583",
+    "Url": "/incidents/2024/5/31/tesoro/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Tesoro Fire",
     "Updated": "2024-05-31",
     "Started": "2024-05-31",
