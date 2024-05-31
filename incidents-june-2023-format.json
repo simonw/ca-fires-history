@@ -18,24 +18,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Mateo Fire",
-    "Updated": "2024-05-30",
-    "Started": "2024-05-29",
-    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
-    "County": "Fresno",
-    "Location": "North San Mateo Avenue and West Whitebridge Avenue, Mendota",
-    "AcresBurned": 762,
-    "PercentContained": 50,
-    "Longitude": -120.314598,
-    "Latitude": 36.734329,
-    "Type": null,
-    "UniqueId": "a2d5f248-e4a3-4b3a-8327-83f2ba9b5be4",
-    "Url": "/incidents/2024/5/29/mateo-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Howard Fire",
     "Updated": "2024-05-31",
     "Started": "2024-05-30",
