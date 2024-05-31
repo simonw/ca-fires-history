@@ -178,5 +178,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Rosamond Fire",
+    "Updated": "2024-05-30",
+    "Started": "2024-05-30",
+    "AdminUnit": "",
+    "County": "Los Angeles",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 124.5,
+    "PercentContained": 0,
+    "Longitude": -118.25483,
+    "Latitude": 34.72107,
+    "Type": null,
+    "UniqueId": "de3e7a5d-9f8d-4c72-b60a-d40b94ac83c2",
+    "Url": "/incidents/2024/5/30/rosamond-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
