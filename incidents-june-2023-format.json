@@ -72,24 +72,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Valley Center Fire",
-    "Updated": "2024-05-30",
-    "Started": "2024-05-28",
-    "AdminUnit": "",
-    "County": "San Bernardino",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 10,
-    "PercentContained": 0,
-    "Longitude": -116.792378,
-    "Latitude": 34.879647,
-    "Type": null,
-    "UniqueId": "74f2dc61-32ff-4e11-86e5-d19112203bc0",
-    "Url": "/incidents/2024/5/28/valley-center-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Tesoro",
     "Updated": "2024-05-31",
     "Started": "2024-05-31",
