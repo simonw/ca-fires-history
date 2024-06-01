@@ -90,6 +90,24 @@
     "ExternalUrl": ""
   },
   {
+    "Name": "Fields Fire",
+    "Updated": "2024-05-31",
+    "Started": "2024-05-31",
+    "AdminUnit": "",
+    "County": "Merced",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 22,
+    "PercentContained": 0,
+    "Longitude": -120.425878,
+    "Latitude": 37.565014,
+    "Type": null,
+    "UniqueId": "aeaaa127-7246-4a93-b7af-1a705002ada2",
+    "Url": "/incidents/2024/5/31/fields-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Field Fire",
     "Updated": "2024-05-31",
     "Started": "2024-05-31",
