@@ -54,24 +54,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Field Fire",
-    "Updated": "2024-06-01",
-    "Started": "2024-05-31",
-    "AdminUnit": "",
-    "County": "Santa Barbara",
-    "Location": "Highway 166, New Cuyama",
-    "AcresBurned": 201,
-    "PercentContained": 90,
-    "Longitude": -119.698014,
-    "Latitude": 34.9592,
-    "Type": null,
-    "UniqueId": "46d80e55-328e-4dd7-9563-41c794e34337",
-    "Url": "/incidents/2024/5/31/field-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Ranch Fire",
     "Updated": "2024-06-01",
     "Started": "2024-05-31",
