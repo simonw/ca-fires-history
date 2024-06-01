@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Site 300 15999 Corral Hollow Altamont Fire",
+    "Updated": "2024-06-01",
+    "Started": "2024-06-01",
+    "AdminUnit": "",
+    "County": "San Joaquin",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 25,
+    "PercentContained": 0,
+    "Longitude": -121.50259,
+    "Latitude": 37.633908,
+    "Type": null,
+    "UniqueId": "6a5bdbfa-a78f-45dc-a3b2-e417abfd9f50",
+    "Url": "/incidents/2024/6/1/site-300-15999-corral-hollow-altamont-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
