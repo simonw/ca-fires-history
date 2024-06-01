@@ -90,7 +90,7 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Site 300 15999 Corral Hollow Altamont Fire",
+    "Name": "Corral Fire",
     "Updated": "2024-06-01",
     "Started": "2024-06-01",
     "AdminUnit": "",
@@ -102,7 +102,7 @@
     "Latitude": 37.633908,
     "Type": null,
     "UniqueId": "6a5bdbfa-a78f-45dc-a3b2-e417abfd9f50",
-    "Url": "/incidents/2024/6/1/site-300-15999-corral-hollow-altamont-fire/",
+    "Url": "/incidents/2024/6/1/corral-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
