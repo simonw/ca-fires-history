@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Shadow Fire",
+    "Updated": "2024-06-03",
+    "Started": "2024-06-03",
+    "AdminUnit": "Kern County Fire Department",
+    "County": "Kern",
+    "Location": "Squirrel Mountain Valley, East of Lake Isabella",
+    "AcresBurned": 86,
+    "PercentContained": 30,
+    "Longitude": -118.401334,
+    "Latitude": 35.619008,
+    "Type": null,
+    "UniqueId": "ef29e2fa-0e3b-4d2b-8a4d-710b4ba0c4b9",
+    "Url": "/incidents/2024/6/3/shadow-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
