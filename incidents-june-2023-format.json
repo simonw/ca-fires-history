@@ -72,24 +72,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Park Fire",
-    "Updated": "2024-06-02",
-    "Started": "2024-06-02",
-    "AdminUnit": "CAL FIRE/Riverside County Fire",
-    "County": "Riverside",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 13,
-    "PercentContained": 60,
-    "Longitude": -116.927045,
-    "Latitude": 33.790804,
-    "Type": null,
-    "UniqueId": "a952074a-0d98-4b47-a18e-f3265d778236",
-    "Url": "/incidents/2024/6/2/park-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "West Fire",
     "Updated": "2024-06-02",
     "Started": "2024-05-30",
