@@ -160,23 +160,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Springs Fire",
-    "Updated": "2024-06-04",
-    "Started": "2024-06-04",
-    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
-    "County": "Tuolumne",
-    "Location": "Highway 108 and Green Springs Road",
-    "AcresBurned": 17,
-    "PercentContained": 25,
-    "Longitude": -120.524741,
-    "Latitude": 37.842308,
-    "Type": null,
-    "UniqueId": "d88897da-5b31-475a-981f-6d8367809aef",
-    "Url": "/incidents/2024/6/4/springs-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
