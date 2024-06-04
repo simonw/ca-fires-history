@@ -126,24 +126,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Kelly Fire",
-    "Updated": "2024-06-04",
-    "Started": "2024-05-01",
-    "AdminUnit": "",
-    "County": "Del Norte",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 81148.3,
-    "PercentContained": 0,
-    "Longitude": -123.94475,
-    "Latitude": 41.860828,
-    "Type": null,
-    "UniqueId": "7b6cd516-2965-41ec-add7-2d99bd71a1fa",
-    "Url": "/incidents/2024/5/1/kelly-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Russell Fire",
     "Updated": "2024-06-04",
     "Started": "2024-06-04",
