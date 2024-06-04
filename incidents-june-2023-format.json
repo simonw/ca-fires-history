@@ -106,5 +106,41 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Patterson Fire",
+    "Updated": "2024-06-03",
+    "Started": "2024-06-03",
+    "AdminUnit": "",
+    "County": "Alameda",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 95.2,
+    "PercentContained": 0,
+    "Longitude": -121.568029,
+    "Latitude": 37.714616,
+    "Type": null,
+    "UniqueId": "6fd967b4-ccbd-46c2-a039-e9d5ab8bf0b2",
+    "Url": "/incidents/2024/6/3/patterson-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Sorrel Fire",
+    "Updated": "2024-06-03",
+    "Started": "2024-06-03",
+    "AdminUnit": "",
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 19.1,
+    "PercentContained": 0,
+    "Longitude": -117.118935,
+    "Latitude": 34.68341,
+    "Type": null,
+    "UniqueId": "f9fafd72-6c1a-4a06-864f-dcd4ff15b5b7",
+    "Url": "/incidents/2024/6/3/sorrel-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
