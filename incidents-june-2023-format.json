@@ -142,5 +142,41 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Russell Fire",
+    "Updated": "2024-06-04",
+    "Started": "2024-06-04",
+    "AdminUnit": "",
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 25,
+    "PercentContained": 0,
+    "Longitude": -120.657895,
+    "Latitude": 36.916374,
+    "Type": null,
+    "UniqueId": "b56fbb47-fef4-4027-b4dc-fb908dd86088",
+    "Url": "/incidents/2024/6/4/russell-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Springs Fire",
+    "Updated": "2024-06-04",
+    "Started": "2024-06-04",
+    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+    "County": "Tuolumne",
+    "Location": "Green Springs Rd, California",
+    "AcresBurned": 10,
+    "PercentContained": 25,
+    "Longitude": -120.524741,
+    "Latitude": 37.842308,
+    "Type": null,
+    "UniqueId": "d88897da-5b31-475a-981f-6d8367809aef",
+    "Url": "/incidents/2024/6/4/springs-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
