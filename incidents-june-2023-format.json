@@ -142,5 +142,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Road Fire",
+    "Updated": "2024-06-04",
+    "Started": "2024-06-04",
+    "AdminUnit": "Kern County Fire Department",
+    "County": "Kern",
+    "Location": "West of Taft",
+    "AcresBurned": 50,
+    "PercentContained": 0,
+    "Longitude": -119.490203,
+    "Latitude": 35.131115,
+    "Type": null,
+    "UniqueId": "9c71fa25-b34c-44b2-82a9-ba8748df5822",
+    "Url": "/incidents/2024/6/4/road-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
