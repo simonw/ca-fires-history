@@ -18,24 +18,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Boyd Fire",
-    "Updated": "2024-06-03",
-    "Started": "2024-06-01",
-    "AdminUnit": "CAL FIRE Tulare Unit",
-    "County": "Tulare",
-    "Location": "Boyd Drive between Avenue 420 and Highway 245, East of Orosi",
-    "AcresBurned": 36,
-    "PercentContained": 85,
-    "Longitude": -119.238103,
-    "Latitude": 36.573169,
-    "Type": null,
-    "UniqueId": "78c444a4-62f6-4a10-a6c5-82060428386c",
-    "Url": "/incidents/2024/6/1/boyd-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Corral Fire",
     "Updated": "2024-06-05",
     "Started": "2024-06-01",
@@ -108,24 +90,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Russell Fire",
-    "Updated": "2024-06-04",
-    "Started": "2024-06-04",
-    "AdminUnit": "CAL FIRE Fresno Kings Unit",
-    "County": "Fresno",
-    "Location": "North Russell Avenue, Firebaugh",
-    "AcresBurned": 25,
-    "PercentContained": 0,
-    "Longitude": -120.657895,
-    "Latitude": 36.916374,
-    "Type": null,
-    "UniqueId": "b56fbb47-fef4-4027-b4dc-fb908dd86088",
-    "Url": "/incidents/2024/6/4/russell-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Road Fire",
     "Updated": "2024-06-05",
     "Started": "2024-06-04",
@@ -133,7 +97,7 @@
     "County": "Kern",
     "Location": "South of Taft",
     "AcresBurned": 1088,
-    "PercentContained": 5,
+    "PercentContained": 60,
     "Longitude": -119.48669,
     "Latitude": 35.113531,
     "Type": null,
