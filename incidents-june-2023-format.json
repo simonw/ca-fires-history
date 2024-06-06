@@ -54,24 +54,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Lotus Fire",
-    "Updated": "2024-06-06",
-    "Started": "2024-06-05",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "County": "Riverside",
-    "Location": "5800 Block of 28th Street, Jurupa Valley",
-    "AcresBurned": 30,
-    "PercentContained": 100,
-    "Longitude": -117.403656,
-    "Latitude": 34.013717,
-    "Type": null,
-    "UniqueId": "8dc8f472-8478-4acd-abcd-53cff119034a",
-    "Url": "/incidents/2024/6/5/lotus-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Crystal Fire",
     "Updated": "2024-06-06",
     "Started": "2024-06-05",
