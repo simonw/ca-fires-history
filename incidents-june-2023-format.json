@@ -106,5 +106,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Relay Fire",
+    "Updated": "2024-06-06",
+    "Started": "2024-06-06",
+    "AdminUnit": "CAL FIRE/Riverside County Fire Department",
+    "County": "Riverside",
+    "Location": "Near the intersection Beaumont Avenue and California",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -116.980503,
+    "Latitude": 33.910994,
+    "Type": null,
+    "UniqueId": "687f0b9f-3685-46d1-953b-38540b363b8c",
+    "Url": "/incidents/2024/6/6/relay-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
