@@ -142,5 +142,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Little Fire",
+    "Updated": "2024-06-06",
+    "Started": "2024-06-06",
+    "AdminUnit": "",
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -120.729222,
+    "Latitude": 36.777907,
+    "Type": null,
+    "UniqueId": "fd38093a-e9db-4603-99f0-e760d7c92e97",
+    "Url": "/incidents/2024/6/6/little-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
