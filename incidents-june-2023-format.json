@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Albers Fire",
+    "Updated": "2024-06-07",
+    "Started": "2024-06-07",
+    "AdminUnit": "",
+    "County": "Contra Costa",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 21.2,
+    "PercentContained": 0,
+    "Longitude": -121.765839,
+    "Latitude": 37.904572,
+    "Type": null,
+    "UniqueId": "9ed61dc6-ca25-4cba-a9b5-f39c07a617b8",
+    "Url": "/incidents/2024/6/7/albers-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
