@@ -124,5 +124,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Gaskell Fire",
+    "Updated": "2024-06-06",
+    "Started": "2024-06-06",
+    "AdminUnit": "",
+    "County": "Los Angeles",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 260.3,
+    "PercentContained": 0,
+    "Longitude": -118.43139,
+    "Latitude": 34.81862,
+    "Type": null,
+    "UniqueId": "5fbf1bfd-1767-4459-a8f7-eee8e83463e8",
+    "Url": "/incidents/2024/6/6/gaskell-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
