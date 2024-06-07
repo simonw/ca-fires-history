@@ -54,6 +54,24 @@
     "ExternalUrl": ""
   },
   {
+    "Name": "Garlock Fire",
+    "Updated": "2024-06-07",
+    "Started": "2024-06-07",
+    "AdminUnit": "Fresno-Kings Unit",
+    "County": "Fresno",
+    "Location": "Garlock Lane C/O Gooseberry Lane, Eastern Fresno County",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -119.514348,
+    "Latitude": 36.991558,
+    "Type": null,
+    "UniqueId": "8f3b0140-1a30-4433-a147-e8574581db2c",
+    "Url": "/incidents/2024/6/7/garlock-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Albers Fire",
     "Updated": "2024-06-07",
     "Started": "2024-06-07",
