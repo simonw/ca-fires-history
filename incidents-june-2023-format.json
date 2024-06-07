@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Pan Fire",
+    "Updated": "2024-06-07",
+    "Started": "2024-06-07",
+    "AdminUnit": "",
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 34.5,
+    "PercentContained": 0,
+    "Longitude": -120.764998,
+    "Latitude": 36.786999,
+    "Type": null,
+    "UniqueId": "198d519a-12b0-455d-bae4-42f078683a31",
+    "Url": "/incidents/2024/6/7/pan-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
