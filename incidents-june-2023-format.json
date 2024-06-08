@@ -124,5 +124,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Springs Fire",
+    "Updated": "2024-06-08",
+    "Started": "2024-06-07",
+    "AdminUnit": "",
+    "County": "Siskiyou",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 11.1,
+    "PercentContained": 0,
+    "Longitude": -122.520453,
+    "Latitude": 41.474683,
+    "Type": null,
+    "UniqueId": "f0c2d5f8-c9d2-41c6-81b0-9bef9d78b798",
+    "Url": "/incidents/2024/6/7/springs-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
