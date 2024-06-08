@@ -124,5 +124,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Koala Fire",
+    "Updated": "2024-06-07",
+    "Started": "2024-06-07",
+    "AdminUnit": "CAL FIRE San Bernardino-Inyo-Mono Unit",
+    "County": "San Bernardino",
+    "Location": "Koala Road and Victor Street",
+    "AcresBurned": 25,
+    "PercentContained": 0,
+    "Longitude": -117.451094,
+    "Latitude": 34.520882,
+    "Type": null,
+    "UniqueId": "6b829633-220c-4833-b6a7-f3bd61c5d97d",
+    "Url": "/incidents/2024/6/7/koala-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
