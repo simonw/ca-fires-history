@@ -106,5 +106,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Poleline Fire",
+    "Updated": "2024-06-07",
+    "Started": "2024-06-07",
+    "AdminUnit": "CAL FIRE Madera Mariposa Unit",
+    "County": "Merced",
+    "Location": "Poleline Road and Highway 165, Los Banos",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -120.834941,
+    "Latitude": 36.928296,
+    "Type": null,
+    "UniqueId": "591daf80-c234-485c-8d0e-38c9c6049980",
+    "Url": "/incidents/2024/6/7/poleline-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
