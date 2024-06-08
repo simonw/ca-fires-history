@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Greenville Fire",
+    "Updated": "2024-06-08",
+    "Started": "2024-06-08",
+    "AdminUnit": "CAL FIRE Santa Clara Unit",
+    "County": "Alameda",
+    "Location": "Altamont Pass Road and North Greenville Road, Altamont",
+    "AcresBurned": 41,
+    "PercentContained": 0,
+    "Longitude": -121.701609,
+    "Latitude": 37.718966,
+    "Type": null,
+    "UniqueId": "66cf145e-229a-4100-b7be-7d6514e3d897",
+    "Url": "/incidents/2024/6/8/greenville-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
