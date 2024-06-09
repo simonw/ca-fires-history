@@ -79,7 +79,7 @@
     "County": "Siskiyou",
     "Location": "2 miles west of Gazelle",
     "AcresBurned": 11,
-    "PercentContained": 60,
+    "PercentContained": 80,
     "Longitude": -122.520453,
     "Latitude": 41.474683,
     "Type": null,
@@ -114,7 +114,7 @@
     "AdminUnit": "Kern County Fire Department",
     "County": "Kern",
     "Location": "Sherwood Avenue, North of Bakersfield ",
-    "AcresBurned": 1261.5,
+    "AcresBurned": 902,
     "PercentContained": 30,
     "Longitude": -119.031458,
     "Latitude": 35.64995,
@@ -126,7 +126,7 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Aqueduct Fire",
+    "Name": "Aquaduct 2 Fire",
     "Updated": "2024-06-08",
     "Started": "2024-06-08",
     "AdminUnit": "",
@@ -138,7 +138,7 @@
     "Latitude": 32.84445,
     "Type": null,
     "UniqueId": "075f245f-4c62-4ff6-b1da-5ed9273da348",
-    "Url": "/incidents/2024/6/8/aqueduct-fire/",
+    "Url": "/incidents/2024/6/8/aquaduct-2-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
