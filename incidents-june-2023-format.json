@@ -106,23 +106,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Rock Fire",
-    "Updated": "2024-06-08",
-    "Started": "2024-06-08",
-    "AdminUnit": "",
-    "County": "San Luis Obispo",
-    "Location": "Bee Rock Road & Canyon Road, Camp Roberts",
-    "AcresBurned": 50,
-    "PercentContained": 0,
-    "Longitude": -120.772339,
-    "Latitude": 35.774138,
-    "Type": null,
-    "UniqueId": "bcf1cd5e-d4c8-49bb-9635-230e0b1057b5",
-    "Url": "/incidents/2024/6/8/rock-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
