@@ -1,23 +1,5 @@
 [
   {
-    "Name": "155 Fire",
-    "Updated": "2024-06-09",
-    "Started": "2024-06-06",
-    "AdminUnit": "Kern County Fire Department",
-    "County": "Kern",
-    "Location": "Wofford Boulevard and Deadrich Ranch Road",
-    "AcresBurned": 55,
-    "PercentContained": 100,
-    "Longitude": -118.46771,
-    "Latitude": 35.692183,
-    "Type": null,
-    "UniqueId": "e7293335-36b8-4f37-b809-7fc5e0d7b7da",
-    "Url": "/incidents/2024/6/6/155-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Lost Fire",
     "Updated": "2024-06-07",
     "Started": "2024-06-06",
