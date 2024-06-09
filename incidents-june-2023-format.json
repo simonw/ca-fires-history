@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Creek Fire",
+    "Updated": "2024-06-09",
+    "Started": "2024-06-09",
+    "AdminUnit": "Kern County Fire Department",
+    "County": "Kern",
+    "Location": " Caliente Creek Road, Caliente",
+    "AcresBurned": 48.2,
+    "PercentContained": 0,
+    "Longitude": -118.386667,
+    "Latitude": 35.346667,
+    "Type": null,
+    "UniqueId": "ed47f029-1282-4d6b-b00a-1abdc40418e5",
+    "Url": "/incidents/2024/6/9/creek-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
