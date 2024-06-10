@@ -106,23 +106,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Spenceville Fire",
-    "Updated": "2024-06-10",
-    "Started": "2024-06-10",
-    "AdminUnit": " CAL FIRE Nevada Yuba Placer",
-    "County": "Yuba",
-    "Location": "Spenceville Shooting Range, Spenceville ",
-    "AcresBurned": 13,
-    "PercentContained": 100,
-    "Longitude": -121.309465,
-    "Latitude": 39.133016,
-    "Type": null,
-    "UniqueId": "add17318-bcac-4a2a-b413-1e225d62812e",
-    "Url": "/incidents/2024/6/10/spenceville-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
