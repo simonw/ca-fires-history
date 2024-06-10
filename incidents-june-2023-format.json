@@ -88,5 +88,41 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Rawson Fire",
+    "Updated": "2024-06-10",
+    "Started": "2024-06-10",
+    "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
+    "County": "Tehama",
+    "Location": "Rawson Road, South of Red Bluff",
+    "AcresBurned": 15,
+    "PercentContained": 0,
+    "Longitude": -122.232365,
+    "Latitude": 40.111484,
+    "Type": null,
+    "UniqueId": "ce63986b-174f-46e1-9e29-38e7c848783f",
+    "Url": "/incidents/2024/6/10/rawson-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Spenceville Fire",
+    "Updated": "2024-06-10",
+    "Started": "2024-06-10",
+    "AdminUnit": " CAL FIRE Nevada Yuba Placer",
+    "County": "Yuba",
+    "Location": "Spenceville Shooting Range, Spenceville ",
+    "AcresBurned": 13,
+    "PercentContained": 100,
+    "Longitude": -121.309465,
+    "Latitude": 39.133016,
+    "Type": null,
+    "UniqueId": "add17318-bcac-4a2a-b413-1e225d62812e",
+    "Url": "/incidents/2024/6/10/spenceville-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
