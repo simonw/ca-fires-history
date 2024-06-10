@@ -18,24 +18,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Aquaduct 2 Fire",
-    "Updated": "2024-06-08",
-    "Started": "2024-06-08",
-    "AdminUnit": "",
-    "County": "San Diego",
-    "Location": "Aqueduct Road and San Clemente Canyon Freeway",
-    "AcresBurned": 110,
-    "PercentContained": 60,
-    "Longitude": -117.08492,
-    "Latitude": 32.84445,
-    "Type": null,
-    "UniqueId": "075f245f-4c62-4ff6-b1da-5ed9273da348",
-    "Url": "/incidents/2024/6/8/aquaduct-2-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Creek Fire",
     "Updated": "2024-06-10",
     "Started": "2024-06-09",
