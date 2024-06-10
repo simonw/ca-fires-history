@@ -106,5 +106,41 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "John Fire",
+    "Updated": "2024-06-09",
+    "Started": "2024-06-09",
+    "AdminUnit": "Unified Command:  CAL FIRE - Santa Clara, Contra Costa County Fire Department",
+    "County": "Contra Costa",
+    "Location": "John Henry Johnson Parkway, Pittsburg",
+    "AcresBurned": 55.2,
+    "PercentContained": 0,
+    "Longitude": -121.91945,
+    "Latitude": 38.00994,
+    "Type": null,
+    "UniqueId": "32d9aad1-a755-4e28-8697-c593e45472b8",
+    "Url": "/incidents/2024/6/9/john-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Forest Fire",
+    "Updated": "2024-06-09",
+    "Started": "2024-06-09",
+    "AdminUnit": "Los Angeles County Fire Department",
+    "County": "Los Angeles",
+    "Location": "East Avenue, Llano",
+    "AcresBurned": 15,
+    "PercentContained": 0,
+    "Longitude": -117.78274,
+    "Latitude": 34.52766,
+    "Type": null,
+    "UniqueId": "0059b627-3b2c-4f13-865d-246af0e62ee9",
+    "Url": "/incidents/2024/6/9/forest-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
