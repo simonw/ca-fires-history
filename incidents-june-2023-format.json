@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Flynn Fire",
+    "Updated": "2024-06-11",
+    "Started": "2024-06-11",
+    "AdminUnit": "CAL FIRE Santa Clara Unit",
+    "County": "Alameda",
+    "Location": "I-580 and North Flynn Road, Altamont",
+    "AcresBurned": 23,
+    "PercentContained": 75,
+    "Longitude": -121.660326,
+    "Latitude": 37.719182,
+    "Type": null,
+    "UniqueId": "d4696bb6-7e95-48ee-8573-477aa199a1c2",
+    "Url": "/incidents/2024/6/11/flynn-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
