@@ -88,5 +88,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Jellys Fire",
+    "Updated": "2024-06-11",
+    "Started": "2024-06-11",
+    "AdminUnit": "",
+    "County": "Tehama",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -122.172379,
+    "Latitude": 40.354308,
+    "Type": null,
+    "UniqueId": "06a7fc2d-2bf7-4595-8449-04bb3bcc3d5e",
+    "Url": "/incidents/2024/6/11/jellys-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
