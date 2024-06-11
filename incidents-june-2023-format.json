@@ -142,5 +142,41 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "James Fire",
+    "Updated": "2024-06-11",
+    "Started": "2024-06-11",
+    "AdminUnit": "Kern County Fire Department",
+    "County": "Kern",
+    "Location": "James Road, Bakersfield",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -119.05752,
+    "Latitude": 35.460663,
+    "Type": null,
+    "UniqueId": "07f9ea43-cdea-44a5-9ad5-82e93a00b08e",
+    "Url": "/incidents/2024/6/11/james-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Travel Fire",
+    "Updated": "2024-06-11",
+    "Started": "2024-06-11",
+    "AdminUnit": "",
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10,
+    "PercentContained": 0,
+    "Longitude": -120.102025,
+    "Latitude": 36.074598,
+    "Type": null,
+    "UniqueId": "bb8c7694-46c8-4eb0-8fa0-0c9d4b45664f",
+    "Url": "/incidents/2024/6/11/travel-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
