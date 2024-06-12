@@ -18,24 +18,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "John Fire",
-    "Updated": "2024-06-11",
-    "Started": "2024-06-09",
-    "AdminUnit": "CAL FIRE - Santa Clara",
-    "County": "Contra Costa",
-    "Location": "John Henry Johnson Parkway, Pittsburg",
-    "AcresBurned": 55,
-    "PercentContained": 50,
-    "Longitude": -121.91945,
-    "Latitude": 38.00994,
-    "Type": null,
-    "UniqueId": "32d9aad1-a755-4e28-8697-c593e45472b8",
-    "Url": "/incidents/2024/6/9/john-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Cod Fire",
     "Updated": "2024-06-12",
     "Started": "2024-06-10",
