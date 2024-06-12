@@ -126,24 +126,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Lincoln Fire",
-    "Updated": "2024-06-11",
-    "Started": "2024-06-11",
-    "AdminUnit": "Los Angeles County Fire Department",
-    "County": "Los Angeles",
-    "Location": " 20th Street, Palmdale ",
-    "AcresBurned": 20,
-    "PercentContained": 0,
-    "Longitude": -118.09927,
-    "Latitude": 34.65729,
-    "Type": null,
-    "UniqueId": "7860b848-c83b-4f45-9359-91836fc1d8c8",
-    "Url": "/incidents/2024/6/11/lincoln-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Hinkley Fire",
     "Updated": "2024-06-12",
     "Started": "2024-06-11",
