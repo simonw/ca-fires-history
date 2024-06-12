@@ -90,6 +90,24 @@
     "ExternalUrl": ""
   },
   {
+    "Name": "Grant Fire",
+    "Updated": "2024-06-12",
+    "Started": "2024-06-12",
+    "AdminUnit": "",
+    "County": "Sacramento",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 20,
+    "PercentContained": 0,
+    "Longitude": -121.12292,
+    "Latitude": 38.589102,
+    "Type": null,
+    "UniqueId": "deb14d04-54d8-498d-8f44-7e318d1a194f",
+    "Url": "/incidents/2024/6/12/grant-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
     "Name": "Hinkley Fire",
     "Updated": "2024-06-12",
     "Started": "2024-06-11",
