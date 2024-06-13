@@ -124,23 +124,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Bear Fire",
-    "Updated": "2024-06-13",
-    "Started": "2024-06-12",
-    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
-    "County": "San Luis Obispo",
-    "Location": "Soda Lake Road and Gaviota Trail, Santa Margarita",
-    "AcresBurned": 1410,
-    "PercentContained": 100,
-    "Longitude": -119.97107,
-    "Latitude": 35.294219,
-    "Type": null,
-    "UniqueId": "4009f1e2-b3ff-407e-9aa1-a211930e6bff",
-    "Url": "/incidents/2024/6/12/bear-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
