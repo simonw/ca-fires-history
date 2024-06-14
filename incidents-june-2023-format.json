@@ -52,5 +52,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Champion Fire",
+    "Updated": "2024-06-14",
+    "Started": "2024-06-14",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "Strickland Ave and Feldman Ave , Lake Elsinore",
+    "AcresBurned": 10.5,
+    "PercentContained": 0,
+    "Longitude": -117.343488,
+    "Latitude": 33.681329,
+    "Type": null,
+    "UniqueId": "5341e3bb-59aa-410e-94c2-867838e357f1",
+    "Url": "/incidents/2024/6/14/champion-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
