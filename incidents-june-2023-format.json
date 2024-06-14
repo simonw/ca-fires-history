@@ -18,24 +18,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Johnson Fire",
-    "Updated": "2024-06-13",
-    "Started": "2024-06-13",
-    "AdminUnit": "Tuolumne-Calaveras",
-    "County": "San Joaquin",
-    "Location": "23000 Blk. East Acampo Rd.",
-    "AcresBurned": 19.5,
-    "PercentContained": 50,
-    "Longitude": -121.033739,
-    "Latitude": 38.177683,
-    "Type": null,
-    "UniqueId": "578b4cc5-a0b3-4d99-b06e-69ffc53a6220",
-    "Url": "/incidents/2024/6/13/johnson-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Peterson Fire",
     "Updated": "2024-06-14",
     "Started": "2024-06-13",
