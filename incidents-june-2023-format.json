@@ -18,24 +18,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Cod Fire",
-    "Updated": "2024-06-13",
-    "Started": "2024-06-10",
-    "AdminUnit": "CAL FIRE Siskiyou Unit ",
-    "County": "Siskiyou",
-    "Location": "Cod Drive, Hornbrook ",
-    "AcresBurned": 27.88,
-    "PercentContained": 90,
-    "Longitude": -122.444022,
-    "Latitude": 41.900664,
-    "Type": null,
-    "UniqueId": "410327d5-b412-4a81-99f5-bd10c9e9c832",
-    "Url": "/incidents/2024/6/10/cod-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Stoddard 3 Fire",
     "Updated": "2024-06-13",
     "Started": "2024-06-11",
