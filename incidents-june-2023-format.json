@@ -36,24 +36,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Park Fire",
-    "Updated": "2024-06-15",
-    "Started": "2024-06-15",
-    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
-    "County": "Tulare",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 13.5,
-    "PercentContained": 0,
-    "Longitude": -119.304801,
-    "Latitude": 36.624409,
-    "Type": null,
-    "UniqueId": "0693f528-b1af-4339-b664-a1c468091e46",
-    "Url": "/incidents/2024/6/15/park-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Post Fire",
     "Updated": "2024-06-15",
     "Started": "2024-06-15",
