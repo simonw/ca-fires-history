@@ -1,13 +1,13 @@
 [
   {
     "Name": "Stoddard 3 Fire",
-    "Updated": "2024-06-13",
+    "Updated": "2024-06-14",
     "Started": "2024-06-11",
     "AdminUnit": "Bureau of Land Management",
     "County": "San Bernardino",
     "Location": "Stoddard Wells Road, South of Barstow",
     "AcresBurned": 472,
-    "PercentContained": 98,
+    "PercentContained": 100,
     "Longitude": -117.16739,
     "Latitude": 34.72209,
     "Type": null,
