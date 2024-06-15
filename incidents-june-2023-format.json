@@ -1,23 +1,5 @@
 [
   {
-    "Name": "Peterson Fire",
-    "Updated": "2024-06-14",
-    "Started": "2024-06-13",
-    "AdminUnit": "",
-    "County": "Lassen",
-    "Location": "US-395, Lassen County",
-    "AcresBurned": 21.9,
-    "PercentContained": 75,
-    "Longitude": -120.028888,
-    "Latitude": 39.879737,
-    "Type": null,
-    "UniqueId": "cf71f1c1-3a96-4bc9-bb51-fe036b5c17c5",
-    "Url": "/incidents/2024/6/13/peterson-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "High Fire",
     "Updated": "2024-06-14",
     "Started": "2024-06-14",
