@@ -142,5 +142,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Lisa Fire",
+    "Updated": "2024-06-16",
+    "Started": "2024-06-16",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 78,
+    "PercentContained": 0,
+    "Longitude": -117.103765,
+    "Latitude": 33.919507,
+    "Type": null,
+    "UniqueId": "38faf6b6-365c-45f8-9e45-a6d121a4178b",
+    "Url": "/incidents/2024/6/16/lisa-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
