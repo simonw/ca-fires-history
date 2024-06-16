@@ -142,23 +142,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Excelsior Fire",
-    "Updated": "2024-06-16",
-    "Started": "2024-06-16",
-    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
-    "County": "Sacramento",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 686,
-    "PercentContained": 0,
-    "Longitude": -121.2978,
-    "Latitude": 38.5187,
-    "Type": null,
-    "UniqueId": "2aad2b91-45f7-42b9-8299-1cdf3aacf1c2",
-    "Url": "/incidents/2024/6/16/excelsior-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
