@@ -232,5 +232,41 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Railroad Fire",
+    "Updated": "2024-06-17",
+    "Started": "2024-06-17",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "County": "Madera",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15,
+    "PercentContained": 0,
+    "Longitude": -120.056215,
+    "Latitude": 37.010829,
+    "Type": null,
+    "UniqueId": "a172c94e-6352-456e-b2fd-424844667ec2",
+    "Url": "/incidents/2024/6/17/railroad-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
+  },
+  {
+    "Name": "Sites Fire",
+    "Updated": "2024-06-17",
+    "Started": "2024-06-17",
+    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
+    "County": "Colusa",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 50,
+    "PercentContained": 0,
+    "Longitude": -122.338129,
+    "Latitude": 39.308886,
+    "Type": null,
+    "UniqueId": "311ac02a-61aa-4a29-980a-998ce071f438",
+    "Url": "/incidents/2024/6/17/sites-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
