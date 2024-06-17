@@ -268,23 +268,5 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
-  },
-  {
-    "Name": "Buckman 12 Fire",
-    "Updated": "2024-06-16",
-    "Started": "2024-06-16",
-    "AdminUnit": "CAL FIRE San Diego Unit",
-    "County": "San Diego",
-    "Location": "Campo Truck Trail, Campo, CA",
-    "AcresBurned": 4.4,
-    "PercentContained": 70,
-    "Longitude": -116.47488,
-    "Latitude": 32.639394,
-    "Type": null,
-    "UniqueId": "7293a5df-8bca-4e56-9124-b6935bf2961c",
-    "Url": "/incidents/2024/6/16/buckman-12-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
   }
 ]
