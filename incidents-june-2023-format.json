@@ -214,5 +214,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Rd 9 / Berenda Slough Fire",
+    "Updated": "2024-06-17",
+    "Started": "2024-06-17",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "County": "Madera",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 33,
+    "PercentContained": 0,
+    "Longitude": -120.383187,
+    "Latitude": 36.996139,
+    "Type": null,
+    "UniqueId": "72d125c0-52ae-4f2f-bc5a-ed53786cbe11",
+    "Url": "/incidents/2024/6/17/rd-9-berenda-slough-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
