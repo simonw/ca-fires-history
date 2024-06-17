@@ -108,24 +108,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Quartz Fire",
-    "Updated": "2024-06-16",
-    "Started": "2024-06-16",
-    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
-    "County": "El Dorado",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 16,
-    "PercentContained": 0,
-    "Longitude": -120.856287,
-    "Latitude": 38.639439,
-    "Type": null,
-    "UniqueId": "01a0dfc5-571b-4023-9796-d47aa069d231",
-    "Url": "/incidents/2024/6/16/quartz-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Excelsior Fire",
     "Updated": "2024-06-16",
     "Started": "2024-06-16",
