@@ -126,24 +126,6 @@
     "ExternalUrl": ""
   },
   {
-    "Name": "Max Fire",
-    "Updated": "2024-06-16",
-    "Started": "2024-06-16",
-    "AdminUnit": "Los Angeles County Fire Department",
-    "County": "Los Angeles",
-    "Location": "80th Street West, Lancaster",
-    "AcresBurned": 337.6,
-    "PercentContained": 0,
-    "Longitude": -118.27108,
-    "Latitude": 34.67529,
-    "Type": null,
-    "UniqueId": "b20598f6-8122-4d4f-bb49-1d9657b48916",
-    "Url": "/incidents/2024/6/16/max-fire/",
-    "StartedDateOnly": null,
-    "IsActive": true,
-    "ExternalUrl": ""
-  },
-  {
     "Name": "Hidden Fire",
     "Updated": "2024-06-18",
     "Started": "2024-06-16",
