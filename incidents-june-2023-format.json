@@ -1,13 +1,13 @@
 [
   {
     "Name": "Post Fire",
-    "Updated": "2024-06-17",
+    "Updated": "2024-06-18",
     "Started": "2024-06-15",
     "AdminUnit": "Los Angeles County Fire Department",
     "County": "Los Angeles,Ventura",
     "Location": "Gorman Rd, Gorman CA",
     "AcresBurned": 15611,
-    "PercentContained": 20,
+    "PercentContained": 24,
     "Longitude": -118.8521,
     "Latitude": 34.79208,
     "Type": null,
