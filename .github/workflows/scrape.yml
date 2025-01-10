@@ -14,8 +14,8 @@ jobs:
       uses: actions/checkout@v3
     - name: Fetch latest data
       run: |-
-        curl 'https://www.fire.ca.gov/api/sitecore/Incident/GetFiresForMap' \
-          -X POST --data-raw 'showFeatured=False' | jq > incidents-june-2023-format.json
+        curl 'https://incidents.fire.ca.gov/umbraco/api/IncidentApi/List?inactive=true' \
+          | jq > incidents-2025-format.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"

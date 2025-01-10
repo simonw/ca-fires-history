@@ -2,6 +2,10 @@
 
 Tracking fire data from [www.fire.ca.gov/incidents](https://www.fire.ca.gov/incidents)
 
+## As-of January 10th 2025
+
+The scraped data is stored in [incidents-2025-format.json](incidents-2025-format.json)
+
 ## As-of June 28th 2023
 
 The scraped data is stored in [incidents-june-2023-format.json](incidents-june-2023-format.json)
